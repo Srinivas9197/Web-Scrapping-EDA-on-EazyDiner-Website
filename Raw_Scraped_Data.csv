@@ -1,0 +1,1361 @@
+restaurant_name,city,area,rating,cost_for_two,cuisine,discount,book_table,walkin_available
+Hard Rock Cafe,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.0,₹1500 for two,Multicuisine,50% off,False,False
+Desi Villagio,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.1,₹1300 for two,Indian,Flat 40% + 25% with Bank Offers,False,False
+"MIST, THE Park New Delhi",Delhi-NCR,"The Park, New Delhi",4.0,₹2500 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Duty Free Vayu Bar,Delhi-NCR,"Rajouri Garden, West Delhi",4.4,₹1500 for two,"Multicuisine, Cocktail Menu",Flat 50% + 25% with Bank Offers,False,False
+Fifty9,Delhi-NCR,"Radisson Blu Marina, New Delhi",4.4,₹2500 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+Longitude,Delhi-NCR,"Le Meridien, New Delhi",3.3,₹2000 for two,Fast Food,Flat 35% + 25% with Bank Offers,False,False
+Biryani By Kilo,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.6,₹700 for two,Biryani,Flat 25% + 25% with Bank Offers,False,False
+Vega,Delhi-NCR,"Hotel Alka Classic, New Delhi",4.2,₹1700 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+Barista Coffee,Delhi-NCR,"Shivaji Stadium Metro Station, Connaught Place (CP), Central Delhi",4.0,₹500 for two,"Cafe, Coffee",Flat 20% + 25% with Bank Offers,False,False
+Dr. Zombie,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.3,₹1000 for two,"Cocktail Menu, Italian",50% off,False,False
+Local,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.1,₹1200 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+The Darzi Bar & Kitchen,Delhi-NCR,"Connaught Place (CP), Central Delhi",3.7,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Sakura,Delhi-NCR,"The Metropolitan Hotel & Spa, New Delhi",4.0,₹4500 for two,"Japanese, Sushi",Flat 35% + 25% with Bank Offers,False,False
+Ministry Of Beer,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.1,₹1500 for two,"Cocktail Menu, Multicuisine",Flat 25% + 25% with Bank Offers,False,False
+Cafe Out of the Box Courtyard,Delhi-NCR,"Connaught Place (CP), Central Delhi",3.9,₹1200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Chido,Delhi-NCR,"Connaught Place (CP), Central Delhi",3.9,₹1800 for two,"Cocktail Menu, Multicuisine",Flat 30% + 25% with Bank Offers,False,False
+Thyme,Delhi-NCR,"The Umrao, New Delhi",4.1,₹1800 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Themis Barbecue House,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.5,₹2400 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Lazeez Affaire,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.3,₹1600 for two,North Indian,50% off,False,False
+Aqua,Delhi-NCR,"The Park, New Delhi",3.9,₹2800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Lord of the Drinks,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,₹1800 for two,"Cocktail Menu, Multicuisine",Flat 40% + 25% with Bank Offers,False,False
+Plum Coffee & Cocktails,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.3,₹2000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Openhouse Cafe,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,₹2000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Drama Delhi,Delhi-NCR,"Janpath, Connaught Place (CP), Central Delhi",3.3,₹1700 for two,"Indian, Multicuisine",Flat 15% + 25% with Bank Offers,False,False
+Zing,Delhi-NCR,"The Metropolitan Hotel & Spa, New Delhi",1.0,₹3500 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Baluchi,Delhi-NCR,"The Lalit, New Delhi",4.0,₹2500 for two,North Indian,Flat 25% + 25% with Bank Offers,False,False
+Ghoomar Traditional Thali Restaurant,Delhi-NCR,"Connaught Place (CP), Central Delhi",3.9,₹1000 for two,"North Indian, Rajasthani",Flat 30% + 25% with Bank Offers,False,False
+Warehouse Cafe,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.1,₹1300 for two,"Cocktail Menu, Multicuisine",50% off,False,False
+The Embassy,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,₹2000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+38 Barracks,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,₹1100 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Sorrento,Delhi-NCR,Shangri-La Eros New Delhi,4.6,₹3000 for two,Italian,Flat 30% + 25% with Bank Offers,False,False
+Gola Sizzlers,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.3,₹1500 for two,"Multicuisine, Sizzlers",Flat 25% + 25% with Bank Offers,False,False
+"Chutney, Bar + Tandoor",Delhi-NCR,"The Metropolitan Hotel & Spa, New Delhi",3.5,₹3000 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+Royal Bistro Brewery,Delhi-NCR,"The Royal Plaza, New Delhi",4.1,₹2500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Roasted,Delhi-NCR,"Roseate House, New Delhi",4.4,₹1000 for two,"Bakery, Cafe",Flat 20% + 25% with Bank Offers,False,False
+Tamra,Delhi-NCR,Shangri-La Eros New Delhi,4.4,₹3000 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Moti Mahal,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,₹1500 for two,North Indian,50% off,False,False
+Yeti-The Himalayan Kitchen,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.3,₹1200 for two,"Chinese, Nepalese, Tibetan",Flat 25% + 25% with Bank Offers,False,False
+The Beer Cafe - BIGGIE,Delhi-NCR,"Connaught Place (CP), Central Delhi",3.9,₹1800 for two,"Cocktail Menu, Multicuisine",Flat 15% + 25% with Bank Offers,False,False
+Quoin Bar,Delhi-NCR,Novotel New Delhi Aerocity-An AccorHotels Brand,4.8,₹3500 for two,"Finger Food, Cocktail Menu",Flat 15% + 25% with Bank Offers,False,False
+The Imperial Spice,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.4,₹2000 for two,"Continental, North Indian",Flat 50% + 25% with Bank Offers,False,False
+Shang Palace,Delhi-NCR,Shangri-La Eros New Delhi,4.5,₹3000 for two,Chinese,Flat 20% + 25% with Bank Offers,False,False
+DEL,Delhi-NCR,"Roseate House, New Delhi",4.3,₹3000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Chidyaghar Bar,Delhi-NCR,"Roseate House, New Delhi",4.6,₹3000 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Farzi Cafe,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,₹1500 for two,Modern Indian,Flat 50% + 25% with Bank Offers,False,False
+Cacao- A Restrobar,Mumbai,"Aralia International Airport, Mumbai",4.0,₹1200 for two,"Mexican, Indian, Italian",Flat 30% + 25% with Bank Offers,False,False
+24/7 Restaurant,Mumbai,"The Lalit, Mumbai",4.4,₹3500 for two,"Multicuisine, Bengali",Flat 25% + 25% with Bank Offers,False,False
+Zytun- The Restaurant,Mumbai,"Hotel Metropolis, Mumbai",4.3,₹1200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Fusion Ville,Mumbai,"Marol, Central Mumbai",4.1,₹1200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+SPICE OASIS,Mumbai,"IRA BY ORCHID HOTELS, Mumbai",4.1,₹2600 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+The Brasserie BY HILTON MUMBAI,Mumbai,"Hilton Mumbai, Mumbai",4.2,₹2200 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Fiona,Mumbai,Radisson Blu Mumbai International Airport,4.2,₹3000 for two,"Cocktail Menu, Multicuisine",Flat 50% + 25% with Bank Offers,False,False
+Madeleine De Proust,Mumbai,"Fairmont, Vile Parle, Mumbai",5.0,₹2000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Heritage Kitchen & Bar,Mumbai,"Andheri East, Western Suburbs",3.4,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Global Coffee House & Eatery,Mumbai,"Bloom Hotel - Saki Vihar, Powai",5.0,₹2500 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+SMOOR,Mumbai,"Powai, Central Mumbai",4.7,₹600 for two,European,Flat 10% + 25% with Bank Offers,False,False
+Mado Mado,Mumbai,Fairfield by Marriott Mumbai International Airport,4.3,₹3000 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Uttam Da Dhaba,Mumbai,"Marol, Central Mumbai",4.3,₹1200 for two,South Indian,Flat 10% + 25% with Bank Offers,False,False
+Fly Kitchen and Bar,Mumbai,"Andheri East, Western Suburbs",1.0,₹1700 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Gallery Cafe,Mumbai,Radisson Mumbai Andheri MIDC,4.2,₹2500 for two,Multicuisine,Flat 55% + 25% with Bank Offers,False,False
+72 Bar,Mumbai,"Holiday Inn Mumbai International Airport, Mumbai",4.3,₹2000 for two,"Finger Food, Cocktail Menu",Flat 50% + 25% with Bank Offers,False,False
+Baluchi,Mumbai,"The Lalit, Mumbai",4.4,₹3500 for two,North Indian,Flat 25% + 25% with Bank Offers,False,False
+"Castor Bistro Café By Aralia – A Business Hotel, Midc",Mumbai,"Andheri East, Western Suburbs",4.6,₹1200 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Shetty Lounge,Mumbai,"Marol, Central Mumbai",4.0,₹1600 for two,"Chinese, Indian",Flat 10% + 25% with Bank Offers,False,False
+Dhaba,Mumbai,"Marol, Central Mumbai",5.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Lounge Bar BY HILTON MUMBAI,Mumbai,"Hilton Mumbai, Mumbai",4.1,₹2000 for two,"Finger Food, Cocktail Menu",Flat 30% + 25% with Bank Offers,False,False
+Gourmet Bar By Novotel,Mumbai,Novotel Mumbai International Airport,4.9,₹2500 for two,Modern Indian,Flat 30% + 25% with Bank Offers,False,False
+JW Cafe,Mumbai,"JW Marriott Mumbai Sahar, Mumbai",4.5,₹4000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Navya,Mumbai,"The Regale by Tunga, Mumbai",4.5,₹850 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Kohana,Mumbai,"Powai, Central Mumbai",3.6,₹3500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Saptami,Mumbai,"Holiday Inn Mumbai International Airport, Mumbai",4.4,₹2000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Kona Kona Kitchen & Bar,Mumbai,"Andheri East, Western Suburbs",4.0,₹1500 for two,"European, Indian",Cover Charge + 25% Off,False,False
+British Brewing Company,Mumbai,"Marol, Central Mumbai",4.1,₹2000 for two,"Desserts, Cocktail Menu, Multicuisine",Flat 30% + 25% with Bank Offers,False,False
+Mayouchi,Mumbai,The Westin Mumbai Powai Lake,4.5,₹2000 for two,"Japanese, oriental",Flat 25% + 25% with Bank Offers,False,False
+MoMo Cafe,Mumbai,Courtyard Mumbai International Airport,4.3,₹3000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Food Exchange By Novotel,Mumbai,Novotel Mumbai International Airport,4.4,₹2000 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Indriya Mishran,Mumbai,"Andheri East, Western Suburbs",4.5,₹1600 for two,"Multicuisine, Japanese, Asian",Flat 30% + 25% with Bank Offers,False,False
+Lake View Cafe,Mumbai,The Westin Mumbai Powai Lake,4.4,₹3000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Something's Fishy,Mumbai,"Tunga International, Mumbai",4.6,₹1700 for two,Seafood,Flat 10% + 25% with Bank Offers,False,False
+Fame Garden Prive,Mumbai,"Powai, Central Mumbai",4.4,₹2500 for two,European,Flat 20% + 25% with Bank Offers,False,False
+Crimson,Mumbai,"Marriott Executive Apartments, Powai",5.0,₹2000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Whats Your Plan ?,Mumbai,"Sakinaka, Central Mumbai",4.7,₹1600 for two,"Multicuisine, Asian",Flat 25% + 25% with Bank Offers,False,False
+Episode One,Mumbai,"Powai, Central Mumbai",4.3,₹1400 for two,Finger Food,Flat 20% + 25% with Bank Offers,False,False
+Asia Kitchen By Mainland China,Mumbai,"Sakinaka, Central Mumbai",4.4,₹1600 for two,Pan Asian,Flat 20% + 25% with Bank Offers,False,False
+Deli Shop BY HILTON MUMBAI,Mumbai,"Hilton Mumbai, Mumbai",5.0,₹800 for two,Bakery,Flat 50% + 25% with Bank Offers,False,False
+Brew Code- Holiday Inn,Mumbai,"Holiday Inn Mumbai International Airport, Mumbai",5.0,₹800 for two,"Cafe, Bakery",Flat 50% + 25% with Bank Offers,False,False
+190 AMSL By Novotel,Mumbai,Novotel Mumbai International Airport,4.8,₹995 for two,"Asian, Continental",Flat 30% + 25% with Bank Offers,False,False
+Foo Powai,Mumbai,"Powai, Central Mumbai",4.5,₹2000 for two,"Chinese, Sushi, Asian",Cover Charge + 25% Off,False,False
+The Solitaire Restaurant,Mumbai,"Hotel Kohinoor Continental, Mumbai",4.4,₹2500 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Avartana,Mumbai,"ITC Maratha, Mumbai",5.0,₹5000 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+Savera Lassi Shop,Bengaluru,"Shivajinagar, Central Bengaluru",4.7,₹2000 for two,"Ice Cream, Beverages",Flat 10% + 25% with Bank Offers,False,False
+My Breakfast,Bengaluru,"Shivajinagar, Central Bengaluru",4.0,₹2000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Masha Allah Hot And Cool Point,Bengaluru,"Shivajinagar, Central Bengaluru",4.0,₹2000 for two,Fast Food,Flat 10% + 25% with Bank Offers,False,False
+Tipsy Cafe,Bengaluru,"Shivajinagar, Central Bengaluru",4.0,₹2000 for two,Fast Food,Flat 10% + 25% with Bank Offers,False,False
+Shahi Restaurant,Bengaluru,"Shivajinagar, Central Bengaluru",3.0,₹2000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Main Lassi Shop,Bengaluru,"Shivajinagar, Central Bengaluru",1.0,₹2000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Maggi Baba,Bengaluru,"Shivajinagar, Central Bengaluru",5.0,₹2000 for two,Beverages,25% Off :Payeazy,False,False
+Romeo Cafe,Bengaluru,"Shivajinagar, Central Bengaluru",4.0,₹2000 for two,Multicuisine,25% Off :Payeazy,False,False
+Flo,Bengaluru,"Church Street, Central Bengaluru",3.4,₹2000 for two,"Cocktail Menu, Multicuisine",Flat 45% + 25% with Bank Offers,False,False
+CBD Central Bar District,Bengaluru,"MSR Nagar, Bengaluru",4.9,₹1200 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Juliana's,Bengaluru,"Infantry Road, Central Bengaluru",5.0,₹1400 for two,"Pan Asian, Continental",25% Off :Payeazy,False,False
+ShakesBierre,Bengaluru,"MG Road, Central Bengaluru",4.4,₹2000 for two,"Cocktail Menu, Multicuisine",Flat 10% + 25% with Bank Offers,False,False
+SMOOR,Bengaluru,"Lavelle Road, Central Bengaluru",4.5,₹2000 for two,European,Flat 10% + 25% with Bank Offers,False,False
+Hard Rock Cafe,Bengaluru,"St. Marks Road, Central Bengaluru",4.5,₹2500 for two,"Multicuisine, Burgers",Flat 20% + 25% with Bank Offers,False,False
+By Chance,Bengaluru,"Brigade Road, Central Bengaluru",4.5,₹1500 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Tiamo,Bengaluru,Conrad Bengaluru,4.4,₹3000 for two,"Italian, Mediterranean",Flat 20% + 25% with Bank Offers,False,False
+Burnout Cafe,Bengaluru,"Infantry Road, Central Bengaluru",3.9,₹2000 for two,"Continental, Chinese, Multicuisine",Flat 15% + 25% with Bank Offers,False,False
+Muro India,Bengaluru,"Museum Road, Ashok Nagar, Bengaluru",4.6,₹5000 for two,"Thai, Cantonese",25% Off :Payeazy,False,False
+Rolls On Wheels,Bengaluru,"Cunningham Road, Central Bengaluru",4.0,₹500 for two,"Chinese, Fast Food",Flat 15% + 25% with Bank Offers,False,False
+Church Street Social,Bengaluru,"Church Street, Central Bengaluru",4.2,₹2000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Kling Brewery,Bengaluru,"Church Street, Central Bengaluru",4.5,₹2000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+The Market,Bengaluru,"The Ritz-Carlton, Bengaluru",4.5,₹4000 for two,"All Day Dining, Multicuisine",Flat 25% + 25% with Bank Offers,False,False
+Utse Kitchen,Bengaluru,"Shivajinagar, Central Bengaluru",5.0,₹1500 for two,Asian,25% Off :Payeazy,False,False
+Café Azzure,Bengaluru,"MG Road, Central Bengaluru",4.2,₹2000 for two,European,Flat 15% + 25% with Bank Offers,False,False
+Punjab Grill,Bengaluru,"Ashok Nagar, Bengaluru",4.2,₹2000 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+KA 01 - Rooftop Bar & Eats,Bengaluru,"Ibis Hotel, Richmond Road",4.4,₹2000 for two,"Indian, Cocktail Menu",Flat 10% + 25% with Bank Offers,False,False
+Hatti Kaapi,Bengaluru,"Infantry Road, Central Bengaluru",5.0,₹400 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Mikusu,Bengaluru,Conrad Bengaluru,4.5,₹3000 for two,"Thai, Chinese, Japanese",Flat 25% + 25% with Bank Offers,False,False
+Maayaa,Bengaluru,"The Courtyard by Sublime, Bengaluru",4.4,₹2000 for two,South Indian,Flat 25% + 25% with Bank Offers,False,False
+Pizza Stop,Bengaluru,"Lavelle Road, Central Bengaluru",4.0,₹700 for two,"Fast Food, Italian",Flat 25% + 25% with Bank Offers,False,False
+JW Kitchen,Bengaluru,"JW Marriott, Bengaluru, Central Bengaluru",4.4,₹2500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Serious Slice,Bengaluru,"Cunningham Road, Central Bengaluru",4.0,₹5000 for two,Italian,25% Off :Payeazy,False,False
+Beijing Bites,Bengaluru,"Frazer Town, Central Bengaluru",5.0,₹450 for two,Pan Asian,Flat 15% + 25% with Bank Offers,False,False
+Ta'aam,Bengaluru,"Cunningham Road, Central Bengaluru",5.0,₹600 for two,"Arabian, North Indian",25% Off :Payeazy,False,False
+Republic Of Noodles,Bengaluru,"Lemon Tree Premier, Ulsoor",4.6,₹1500 for two,Pan Asian,Flat 25% + 25% with Bank Offers,False,False
+Hoppipola,Bengaluru,"Church Street, Central Bengaluru",3.9,₹2000 for two,Cocktail Menu,Flat 30% + 25% with Bank Offers,False,False
+The Biere Club,Bengaluru,"Lavelle Road, Central Bengaluru",4.4,₹2000 for two,"Multicuisine, Cocktail Menu",Flat 10% + 25% with Bank Offers,False,False
+Cafe Noir,Bengaluru,"UB City, Central Bengaluru",4.4,₹1000 for two,European,Flat 15% + 25% with Bank Offers,False,False
+Monarch Cafe,Bengaluru,"Infantry Road, Central Bengaluru",4.0,₹2000 for two,Multicuisine,25% Off :Payeazy,False,False
+New Kudla Family Restaurant,Bengaluru,"MG Road, Central Bengaluru",4.0,₹2000 for two,"Chinese, North Indian",Flat 50% + 25% with Bank Offers,False,False
+Cafe Adams,Bengaluru,"Shivajinagar, Central Bengaluru",4.0,₹2000 for two,European,25% Off :Payeazy,False,False
+Ihmiets Momos,Bengaluru,"Old Madras Road, East Bengaluru",4.0,₹2000 for two,Momos,Flat 50% + 25% with Bank Offers,False,False
+Easy Tiger,Bengaluru,"Church Street, Central Bengaluru",4.2,₹2000 for two,"Cocktail Menu, American",Flat 30% + 25% with Bank Offers,False,False
+Levista Gourmet Studio,Bengaluru,"Church Street, Central Bengaluru",5.0,₹2000 for two,American,Flat 25% + 25% with Bank Offers,False,False
+Toca Terrace,Bengaluru,"Brigade Road, Central Bengaluru",4.2,₹2000 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+Mazdana,Pune,"Camp Area, Pune",4.5,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Citrus Cafe,Pune,"Lemon Tree Premier, City Center, Pune",4.6,₹1600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Feast,Pune,"Sheraton Grand Pune Bund Garden Hotel, Pune",4.6,₹3000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Kiki,Pune,"The Mills, Bund Garden Road, Pune",5.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Mosaic,Pune,"Crowne Plaza Pune City Centre, Pune",4.2,₹1500 for two,"Multicuisine, All Day Dining",Flat 50% + 25% with Bank Offers,False,False
+Evviva,Pune,"Crowne Plaza Pune City Centre, Pune",3.9,₹2500 for two,"Finger Food, Cocktail Menu",Flat 50% + 25% with Bank Offers,False,False
+Chingari,Pune,"Sheraton Grand Pune Bund Garden Hotel, Pune",4.3,₹2500 for two,North Indian,Flat 25% + 25% with Bank Offers,False,False
+Acai,Pune,"Dhole Patil Road, Pune",4.3,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Epitome,Pune,"The Mills, Bund Garden Road, Pune",2.4,₹1800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Millers - The Luxury Club,Pune,"Bund Garden Road, Pune",4.8,₹1800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+The Game Palacio,Pune,"Dhole Patil Road, Pune",4.9,₹1500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+The lobby @Sheraton,Pune,"Sheraton Grand Pune Bund Garden Hotel, Pune",4.6,₹700 for two,Bakery,Flat 25% + 25% with Bank Offers,False,False
+Slounge,Pune,Lemon Tree Premier Pune,4.0,₹1500 for two,"North Indian, Finger Food",Flat 30% + 25% with Bank Offers,False,False
+Bira 91 Taproom,Pune,"Sangamvadi, Pune",4.0,₹3000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Mirage,Pune,"Sangamvadi, Pune",4.0,₹2000 for two,Pan Asian,Flat 30% + 25% with Bank Offers,False,False
+Kukoo,Pune,"Sangamvadi, Pune",5.0,₹1800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Nawab Asia,Pune,"Bund Garden Road, Pune",5.0,₹1500 for two,North Indian,25% Off :Payeazy,False,False
+Ba Da Bom,Pune,"Sangamvadi, Pune",4.5,₹1500 for two,Korean,Flat 10% + 25% with Bank Offers,False,False
+KMCY,Pune,"Raja Bahadur Mill Road, Pune",4.0,₹2500 for two,"Sichuan, Chinese",Flat 20% + 25% with Bank Offers,False,False
+Hotel Madhav Pure Veg,Pune,"Sangamvadi, Pune",5.0,₹1000 for two,"North Indian, Chinese",25% Off :Payeazy,False,False
+Mahesh Lunch Home,Pune,"Camp Area, Pune",4.4,₹1400 for two,Seafood,Flat 10% + 25% with Bank Offers,False,False
+Surve's Pure Non Veg (Camp),Pune,"Camp Area, Pune",4.0,₹700 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Sante Spa Cuisine,Pune,"1st Lane, Koregaon Park, Pune",4.6,₹1000 for two,"Healthy Food, Vegan",25% Off :Payeazy,False,False
+Kuai Kitchen,Pune,"Koregaon Park, Pune",5.0,₹1600 for two,Pan Asian,Flat 25% + 25% with Bank Offers,False,False
+Grandmama's Cafe,Pune,"Koregaon Park, Pune",4.4,₹1600 for two,"Cafe, Multicuisine",Flat 10% + 25% with Bank Offers,False,False
+"Hippie @ Heart, Mills",Pune,"Sangamvadi, Pune",4.0,₹1000 for two,Multicuisine,Free Dessert + 25% Off,False,False
+Shahji's Paratha House,Pune,"Dhole Patil Road, Pune",4.0,₹800 for two,North Indian,25% Off :Payeazy,False,False
+Maratha Samrat,Pune,"Camp Area, Pune",2.0,₹1200 for two,"Seafood, Biryani, Maharashtrian",Flat 10% + 25% with Bank Offers,False,False
+Asia Kitchen By Mainland China,Pune,"Dhole Patil Road, Pune",4.6,₹1600 for two,Chinese,Flat 15% + 25% with Bank Offers,False,False
+Chafa Cafe,Pune,"Koregaon Park, Pune",4.4,₹600 for two,Healthy Food,Flat 10% + 25% with Bank Offers,False,False
+Ebony,Pune,"St Laurn Business Hotel, Pune",3.7,₹1400 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Shisha Jazz Cafe,Pune,"Sangamvadi, Pune",4.0,₹1500 for two,Multicuisine,25% Off :Payeazy,False,False
+Atmosphere 6,Pune,"Viman Nagar, Pune",4.4,₹2000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Boho Boho,Pune,"Koregaon Park, Pune",5.0,₹900 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Yolo Gastro Lounge,Pune,"Spot 18 Mall, Pimple Saudagar",3.6,₹1800 for two,Multicuisine,Flat 55% + 25% with Bank Offers,False,False
+Zanzibar,Pune,The Central Park Hotel,4.8,₹1100 for two,"Cocktail Menu, Multicuisine",25% Off :Payeazy,False,False
+Time After Time,Pune,The Central Park Hotel,3.5,₹1400 for two,"Multicuisine, European",25% Off :Payeazy,False,False
+IHOP Restaurant,Pune,"Senapati Bapat Road, Pune",4.6,₹1500 for two,American,Flat 50% + 25% with Bank Offers,False,False
+Tim Luck Luck,Pune,"East Street, Pune",4.1,₹1000 for two,"Chinese, North Indian, Cocktail Menu",Flat 15% + 25% with Bank Offers,False,False
+Kiosk kaffee,Pune,"SGS Mall, Camp Area",4.0,₹300 for two,Coffee,25% Off :Payeazy,False,False
+The Square,Pune,Novotel Pune Nagar Road,4.2,₹2500 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+The Rooftop Project,Pune,"MG Road, Pune",3.9,₹1400 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+QORA - Cocktail Bar & Kitchen,Pune,"Koregaon Park, Pune",4.1,₹1500 for two,Asian,Flat 25% + 25% with Bank Offers,False,False
+Dario's,Pune,"Koregaon Park, Pune",4.0,₹1500 for two,Italian,Flat 15% + 25% with Bank Offers,False,False
+INOX,Pune,"Bund Garden Road, Pune",1.0,₹500 for two,Fast Food,25% Off :Payeazy,False,False
+Doors Dubai Mall,Dubai,"Dubai Mall, Downtown Dubai",4.0,AED500 for two,Multicuisine,50% off,False,False
+Asha's,Dubai,"Umm Hurair, Bur Dubai",4.7,AED370 for two,"Indian, North Indian",Flat 10% + 25% with Bank Offers,False,False
+Carnival By Tresind,Dubai,"DIFC, Financial Center",4.8,AED500 for two,Modern Indian,Flat 30% + 25% with Bank Offers,False,False
+Bikanervala,Dubai,"Silicon Oasis, Outer Dubai",5.0,AED65 for two,Street Food,Flat 20% + 25% with Bank Offers,False,False
+Revelry,Dubai,Dubai Hills Mall,5.0,AED300 for two,Indian,Free Drinks + 25% Off,False,False
+Thai Chi,Dubai,"Pyramids At Wafi, Umm Hurair",4.0,AED200 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Bombay Brasserie,Dubai,Taj Dubai,4.6,AED500 for two,Indian,Flat 20% + 25% with Bank Offers,False,False
+Nine Squares,Dubai,"Umm Suqeim, Jumeirah",4.0,AED250 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Maharaja Bhog - Premium veg thali,Dubai,"Al Karama, Dubai",4.6,AED106 for two,Rajasthani,Flat 15% + 25% with Bank Offers,False,False
+Jolly's Restaurant,Dubai,"Cluster Q, Jumeirah Lake Towers (JLT)",5.0,AED60 for two,Indian,50% off,False,False
+Seville's,Dubai,"Pyramids At Wafi, Umm Hurair",4.8,AED350 for two,"Spanish, Tapas",Flat 50% + 25% with Bank Offers,False,False
+Mann Marzi,Dubai,Raffles Dubai,4.0,AED600 for two,Indian,Flat 20% + 25% with Bank Offers,False,False
+Dencio's,Dubai,"Asiana Grand Hotel, Al Muraqqabat, Dubai",5.0,AED110 for two,Filipino,Flat 10% + 25% with Bank Offers,False,False
+TGI Friday's The Dubai Mall,Dubai,"Dubai Mall, Downtown Dubai",5.0,AED100 for two,American,Flat 25% + 25% with Bank Offers,False,False
+88 Hongkong,Dubai,Golden Tulip Al Barsha Dubai,5.0,AED200 for two,"Chinese, Korean",Flat 15% + 25% with Bank Offers,False,False
+Haveli Lounge & Cafe,Dubai,"Sheikh Zayed Road, Dubai",5.0,AED150 for two,"Chinese, Indonesian",Flat 15% + 25% with Bank Offers,False,False
+Kobe Sizzler,Dubai,"Al Karama, Dubai",5.0,AED100 for two,Sizzlers,Flat 30% + 25% with Bank Offers,False,False
+WAWA Dining,Dubai,Golden Tulip Al Barsha Dubai,4.0,AED320 for two,"Japanese, Korean",Flat 30% + 25% with Bank Offers,False,False
+Punjab Grill Anantara Dubai Downtown,Dubai,Anantara Downtown Dubai Hotel,4.8,AED400 for two,Indian,50% off,False,False
+Bisou Restaurant,Dubai,"Sheikh Mohammed bin Rashid Blvd, Dubai",4.0,AED500 for two,French,Flat 25% + 25% with Bank Offers,False,False
+Tanatan,Dubai,"Ramee Dream Hotel Downtown, Dubai",5.0,AED180 for two,Indian,25% Off :Payeazy,False,False
+Bambooda,Dubai,Mövenpick Grand Al Bustan Dubai,5.0,AED80 for two,Thai,25% Off :Payeazy,False,False
+Bombay Bungalow,Dubai,"The Walk, Jumeirah Beach Residence",3.3,AED275 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Cosmic Kitchen,Dubai,"Courtyard by Marriott, Dubai World Trade Centre",4.0,AED150 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Zahr El Laymoun Alasly,Dubai,"Souk Al Bahar, Downtown Dubai",4.0,AED250 for two,Lebanese,1+1 + 25% Off,False,False
+Atrangi By Ritu Dalmia,Dubai,"Al Qasr, Madinat Jumeirah",5.0,AED550 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+Kanpai Restaurant & Lounge,Dubai,"Souk Al Bahar, Downtown Dubai",4.4,AED480 for two,"Asian, Fusion, Japanese",25% Off :Payeazy,False,False
+Freddy's,Dubai,Fortune Atrium Hotel,4.0,AED130 for two,"Chinese, Finger Food",50% off,False,False
+India Palace,Dubai,"Jumeirah Beach Residence (JBR), New Dubai",5.0,AED180 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Desi Dhaba,Dubai,Fortune Atrium Hotel,3.8,AED150 for two,North Indian,Flat 10% + 25% with Bank Offers,False,False
+Fat Frog,Dubai,"Wescott Hotel, Dubai",4.0,AED120 for two,"Chinese, Indian, Continental",Flat 25% + 25% with Bank Offers,False,False
+Shooterz,Dubai,"Wescott Hotel, Dubai",4.0,AED110 for two,"Continental, Indian, Chinese",Flat 25% + 25% with Bank Offers,False,False
+"TGI Friday's, Rove Downtown Hotel",Dubai,Rove Downtown Dubai,4.0,AED100 for two,American,Flat 25% + 25% with Bank Offers,False,False
+Da Gama,Dubai,"Century Village, Garhoud",4.6,AED250 for two,"Portuguese, Mexican",Flat 15% + 25% with Bank Offers,False,False
+Vintage,Dubai,"Pyramids At Wafi, Umm Hurair",4.0,AED200 for two,Finger Food,Flat 50% + 25% with Bank Offers,False,False
+Rasa,Dubai,Fortune Atrium Hotel,4.0,AED120 for two,Kerala,Flat 20% + 25% with Bank Offers,False,False
+Nine Squares,Dubai,"International City, Outer Dubai",4.0,AED250 for two,Chinese,50% off,False,False
+Shabestan,Dubai,Radisson Blu Hotel Dubai Deira Creek,4.8,AED350 for two,Persian,25% Off :Payeazy,False,False
+Daftar,Dubai,"DIFC, Financial Center",4.0,AED100 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Indikaya,Dubai,"Shangri La Hotel, Dubai",4.0,AED250 for two,"Modern Indian, Tapas",Flat 25% + 25% with Bank Offers,False,False
+Punjabi Dhaba,Dubai,"BurJuman Centre, Khalid Bin Al Waleed",5.0,AED80 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Kailash Parbat,Dubai,"Umm Hurair 1, Bur Dubai",5.0,AED120 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Pizzaexpress,Dubai,DoubleTree by Hilton Dubai - Business Bay,4.9,AED250 for two,Italian,Flat 10% + 25% with Bank Offers,False,False
+Stories Lounge and Bar,Dubai,"Al Fahidi, Dubai",4.0,AED150 for two,"Chinese, Indian",Flat 25% + 25% with Bank Offers,False,False
+Mu-Kii Pan Asian Tapas,Dubai,"Jumeirah Beach Residence (JBR), New Dubai",5.0,AED360 for two,Pan Asian,Flat 30% + 25% with Bank Offers,False,False
+Pepper Town,Kolkata,"Sector 1, Salt Lake",4.2,₹1200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Loafer's Cafe,Kolkata,"Sector 1, Salt Lake",4.1,₹500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Calcutta Bakery Cafe,Kolkata,"Sector 1, Salt Lake",4.0,₹1200 for two,European,Flat 15% + 25% with Bank Offers,False,False
+Gondhoraj,Kolkata,"Sector 1, Salt Lake",4.7,₹1000 for two,Bengali,Flat 15% + 25% with Bank Offers,False,False
+Yarana Supper Club,Kolkata,"Sector 1, Salt Lake",4.8,₹2000 for two,"Cocktail Menu, Multicuisine",Flat 10% + 25% with Bank Offers,False,False
+Port -15,Kolkata,"Bidhannagar, Kolkata",5.0,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Kouzina Mining Co.,Kolkata,"Sector 1, Salt Lake",4.4,₹1200 for two,"oriental, North Indian",Flat 25% + 25% with Bank Offers,False,False
+Cafe Proof,Kolkata,"Bidhannagar, Kolkata",4.0,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+New Labong Cafe and Steakhouse,Kolkata,"Bidhannagar, Kolkata",5.0,₹900 for two,"Steakhouse, Continental",Flat 15% + 25% with Bank Offers,False,False
+Cafe Florista,Kolkata,"Sector 1, Salt Lake",5.0,₹1400 for two,Multicuisine,25% Off :Payeazy,False,False
+Momo I Am,Kolkata,"Sector 1, Salt Lake",4.9,₹1000 for two,"Chinese, Thai, Asian",25% Off :Payeazy,False,False
+Twisty,Kolkata,"Bidhannagar, Kolkata",4.0,₹400 for two,Cafe,Flat 10% + 25% with Bank Offers,False,False
+Calcutta 64,Kolkata,"Sector 1, Salt Lake",4.2,₹950 for two,Cafe,25% Off :Payeazy,False,False
+Korean Grill by Momo I Am,Kolkata,"Sector 5, Salt Lake",3.5,₹2800 for two,"Korean, Barbeque",25% Off :Payeazy,False,False
+Friday Release,Kolkata,"Sector 1, Salt Lake",4.3,₹1000 for two,"Cocktail Menu, Multicuisine",Flat 30% + 25% with Bank Offers,False,False
+Sky View Cafe,Kolkata,"De Sovrani, Kolkata",3.6,₹800 for two,"Cocktail Menu, Multicuisine",Flat 25% + 25% with Bank Offers,False,False
+Que Pasa,Kolkata,"Sector 1, Salt Lake",4.5,₹900 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Craft Coffee,Kolkata,"City Centre 1, Sector 1, Salt Lake",5.0,₹800 for two,Coffee,Flat 10% + 25% with Bank Offers,False,False
+Shorshe,Kolkata,"Sector 1, Salt Lake",4.0,₹700 for two,"Indian, Continental",Flat 25% + 25% with Bank Offers,False,False
+Ambrosia Restaurant & Bar,Kolkata,"Sector 1, Salt Lake",4.3,₹900 for two,"Multicuisine, Cocktail Menu",Flat 30% + 25% with Bank Offers,False,False
+Orko'ss Restaurant & Lounge Bar,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.4,₹1200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Plush 28,Kolkata,"Sector 1, Salt Lake",4.5,₹800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Mintelaa,Kolkata,"Sector 1, Salt Lake",4.7,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Noir Glass House,Kolkata,"Golden Tulip, Kolkata",4.0,₹1000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Canteen Pub and Grub,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.3,₹1200 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Afraa Lounge & Restaurant,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.0,₹1800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Calcutta Retro,Kolkata,"Sector 1, Salt Lake",4.0,₹1500 for two,"Bengali, North Indian",Flat 20% + 25% with Bank Offers,False,False
+Kouzina Marine,Kolkata,"Sector 1, Salt Lake",4.2,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Oudh 1590,Kolkata,"Sector 1, Salt Lake",4.1,₹1200 for two,"Awadhi, Mughlai",Flat 10% + 25% with Bank Offers,False,False
+Fly Kouzina,Kolkata,"Sector 1, Salt Lake",4.3,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Anti Pasti,Kolkata,"Golden Tulip, Kolkata",4.1,₹1200 for two,Continental,Flat 35% + 25% with Bank Offers,False,False
+Sonar Tori,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.5,₹1200 for two,Bengali,Flat 10% + 25% with Bank Offers,False,False
+Uddta Punjab,Kolkata,"Sector 1, Salt Lake",4.0,₹800 for two,"Italian, Pizza, Continental",Flat 30% + 25% with Bank Offers,False,False
+Burger Factory,Kolkata,"Sector 1, Salt Lake",4.0,₹800 for two,European,Flat 30% + 25% with Bank Offers,False,False
+Zaairah,Kolkata,"Sector 1, Salt Lake",2.7,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Aura,Kolkata,"The Sonnet, Kolkata",4.2,₹1400 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Don Giovanni's,Kolkata,"Sector 1, Salt Lake",3.0,₹1000 for two,Continental,Flat 30% + 25% with Bank Offers,False,False
+Aqua Java,Kolkata,"Sector 2, Salt Lake",4.0,₹1000 for two,"North Indian, Continental",Flat 10% + 25% with Bank Offers,False,False
+"The Orient, Salt Lake",Kolkata,"Sector 1, Salt Lake",4.4,₹1200 for two,Asian,Flat 10% + 25% with Bank Offers,False,False
+Chef & Mixologist,Kolkata,"Lake Town, Kolkata",4.0,₹1200 for two,"Cafe, European, Pan Asian",Flat 20% + 25% with Bank Offers,False,False
+Kung pao,Kolkata,"Sector 1, Salt Lake",2.2,₹900 for two,"Pizza, Continental",Flat 30% + 25% with Bank Offers,False,False
+Panasa,Kolkata,"Sector 1, Salt Lake",5.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Noir The Sky Lounge,Kolkata,"Golden Tulip, Kolkata",4.3,₹800 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Haka,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.2,₹800 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Chili's American Grill & Bar,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.0,₹1200 for two,"Mexican, Tex-Mex",25% Off :Payeazy,False,False
+Gujraj Veg Restaurant,Chennai,"Hotel AK International, Chennai",4.7,₹800 for two,North Indian,Flat 30% + 25% with Bank Offers,False,False
+North Indian And Bengali Pearl Restaurant,Chennai,"Periamet, Chennai",4.0,₹500 for two,"Indian, Chinese",Flat 25% + 25% with Bank Offers,False,False
+Wow! Momo,Chennai,"Ekkaduthangal, Chennai",4.0,₹400 for two,Momos,Flat 15% + 25% with Bank Offers,False,False
+Message In A Bottle,Chennai,"Fortel, Chennai",4.2,₹1200 for two,Finger Food,Flat 25% + 25% with Bank Offers,False,False
+Enoki,Chennai,"Egmore, Chennai",5.0,₹1000 for two,Pan Asian,Flat 15% + 25% with Bank Offers,False,False
+The Madras Taproom,Chennai,"Egmore, Chennai",2.7,₹1000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Chilli Malli,Chennai,"Fortel, Chennai",4.0,₹1000 for two,South Indian,Flat 10% + 25% with Bank Offers,False,False
+Symphony,Chennai,Ramada Chennai Egmore,4.0,₹4000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Waves Bar & Lounge,Chennai,Ramada Chennai Egmore,3.7,₹1950 for two,"Finger Food, Cocktail Menu",Flat 10% + 25% with Bank Offers,False,False
+Board Walk,Chennai,Ramada Chennai Egmore,3.9,₹1200 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+You Mee,Chennai,"Express Avenue Mall, Royapettah",4.7,₹1500 for two,Pan Asian,Flat 20% + 25% with Bank Offers,False,False
+Punjab Grill,Chennai,"Express Avenue Mall, Royapettah",4.4,₹1800 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+City Diners,Chennai,"Hotel City Tower, Chennai",4.0,₹500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Cafe Stop,Chennai,Ramada Chennai Egmore,4.0,₹700 for two,"Cafe, Fast Food",Flat 10% + 25% with Bank Offers,False,False
+Marina Sands,Chennai,Ramada Chennai Egmore,3.5,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Cafe Noci,Chennai,"Royapettah, Chennai",5.0,₹1400 for two,"Multicuisine, Continental",Flat 30% + 25% with Bank Offers,False,False
+Oasis,Chennai,"Radisson Blu, Egmore",4.0,₹2500 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+The Great Kabab Factory,Chennai,"Radisson Blu, Egmore",4.5,₹3000 for two,North Indian,Flat 25% + 25% with Bank Offers,False,False
+Jonah's Bistro,Chennai,"Express Avenue Mall, Royapettah",4.4,₹1000 for two,European,Flat 25% + 25% with Bank Offers,False,False
+The Scallion,Chennai,Ramada Plaza Chennai,4.3,₹2500 for two,Pan Asian,Flat 50% + 25% with Bank Offers,False,False
+Sin & Tonic,Chennai,"T. Nagar, Chennai",3.9,₹1500 for two,Finger Food,Flat 30% + 25% with Bank Offers,False,False
+Noci Adante,Chennai,"Royapettah, Chennai",4.0,₹1500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Shadows,Chennai,"Hotel Abu Palace, Chennai",4.0,₹1500 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Mirchi Express,Chennai,"Marina Inn, Chennai",4.3,₹800 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Hard Rock Cafe,Chennai,"Nungambakkam, Chennai",4.5,₹1500 for two,"American, Cocktail Menu, Burgers",Flat 20% + 25% with Bank Offers,False,False
+The Society Restaurant,Chennai,"Ambassador Pallava, Chennai",4.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+SOS - Same Old Story,Chennai,"Thousand Lights, Chennai",4.2,₹1600 for two,"Cocktail Menu, oriental",Flat 50% + 25% with Bank Offers,False,False
+Brew Bites,Chennai,"Vestin Park, Chennai",4.2,₹550 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Garrison,Chennai,"The Kings Hotel, Chennai",4.6,₹2000 for two,Finger Food,Flat 30% + 25% with Bank Offers,False,False
+Bombay Brasserie,Chennai,"Nungambakkam, Chennai",4.4,₹1500 for two,Indian,Flat 15% + 25% with Bank Offers,False,False
+R&G,Chennai,"Green Park Hotel, Chennai",3.9,₹2000 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Darbar,Chennai,"Alsa Mall, Egmore",4.3,₹750 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+HOB Club & Lounge,Chennai,"The Kings Park Grand, Chennai",3.0,₹1000 for two,Finger Food,Flat 40% + 25% with Bank Offers,False,False
+The Reef,Chennai,Sheraton Grand Chennai Resort & Spa,4.4,₹3200 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Café Manana,Chennai,"Anna Nagar East, Chennai",4.4,₹1300 for two,Multicuisine,25% Off :Payeazy,False,False
+Canvas,Chennai,"Raja Annamalai Puram, Chennai",4.0,₹1600 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Yazhee World,Chennai,"Porur, Chennai",4.2,₹800 for two,"Biryani, Indian",Flat 25% + 25% with Bank Offers,False,False
+Goldman's Steakhouse,Chennai,"Nungambakkam, Chennai",2.9,₹1400 for two,American,Flat 10% + 25% with Bank Offers,False,False
+Tamizh Koodam Mess,Chennai,"Mylapore, Chennai",4.0,₹1000 for two,South Indian,Flat 15% + 25% with Bank Offers,False,False
+Fasta Pizza,Chennai,"Kattupakkam, Chennai",5.0,₹400 for two,Pizza,Flat 50% + 25% with Bank Offers,False,False
+Babal Da Punjabi Dhaba,Chennai,"Egmore, Chennai",5.0,₹1200 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Colony,Chennai,"The Raintree, St. Mary’s Road",4.1,₹2500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Fuel Juice And Pasta Bar,Chennai,"Kilpauk, Chennai",4.5,₹400 for two,"Fast Food, Beverages",Flat 20% + 25% with Bank Offers,False,False
+Woodlands Drive-in,Chennai,"Arumbakkam, Chennai",4.6,₹1000 for two,South Indian,Flat 10% + 25% with Bank Offers,False,False
+Coal Barbecues,Chennai,"T. Nagar, Chennai",3.8,₹2000 for two,"Multicuisine, Barbeque",Flat 10% + 25% with Bank Offers,False,False
+The Bun-Wigi,Hyderabad,"Banjara Hills, Hyderabad",4.0,₹800 for two,"European, Pan Asian, Continental",50% off,False,False
+Exotica,Hyderabad,"Banjara Hills, Hyderabad",4.3,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Fuel Cafe,Hyderabad,"Banjara Hills, Hyderabad",4.0,₹800 for two,Cafe,Flat 15% + 25% with Bank Offers,False,False
+7 Sisters,Hyderabad,"Banjara Hills, Hyderabad",4.4,₹700 for two,North Eastern,Flat 15% + 25% with Bank Offers,False,False
+Habitat Cafe,Hyderabad,"Banjara Hills, Hyderabad",4.7,₹1200 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+A'La Liberty,Hyderabad,"Banjara Hills, Hyderabad",4.3,₹1300 for two,"Indian, European",Flat 10% + 25% with Bank Offers,False,False
+Hummus House,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",4.8,₹1100 for two,Mediterranean,Flat 15% + 25% with Bank Offers,False,False
+Hibacci,Hyderabad,"Banjara Hills, Hyderabad",4.4,₹1250 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Imli Sarai,Hyderabad,"Banjara Hills, Hyderabad",3.0,₹1800 for two,European,Flat 15% + 25% with Bank Offers,False,False
+Mazuri Cafe,Hyderabad,"Banjara Hills, Hyderabad",4.0,₹1000 for two,"European, Multicuisine",50% off,False,False
+Chill and Terrace,Hyderabad,"Radisson Blu Plaza Hotel, Hyderabad",3.9,₹1500 for two,"Indian, European",Flat 10% + 25% with Bank Offers,False,False
+Namchi - Fusion Of Taste Buds,Hyderabad,"Banjara Hills, Hyderabad",4.4,₹1000 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Vasaara,Hyderabad,"Banjara Hills, Hyderabad",4.0,₹1000 for two,"European, South Indian",Flat 10% + 25% with Bank Offers,False,False
+Bar 41,Hyderabad,"Radisson Blu Plaza Hotel, Hyderabad",4.5,₹2000 for two,"Finger Food, Cocktail Menu",Flat 30% + 25% with Bank Offers,False,False
+The Dining Room-Buffet-Park Hyatt,Hyderabad,"Park Hyatt, Hyderabad",4.1,₹3500 for two,"South Indian, Continental",Flat 25% + 25% with Bank Offers,False,False
+Holy Basil,Hyderabad,"Radisson Blu Plaza Hotel, Hyderabad",4.5,₹1200 for two,Pan Asian,Flat 30% + 25% with Bank Offers,False,False
+Bourbon & Breeze,Hyderabad,"Banjara Hills, Hyderabad",4.1,₹1500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Hard Rock Cafe,Hyderabad,"GVK One Mall, Banjara Hills",4.2,₹1800 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+La Pino'z Pizza,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",4.6,₹400 for two,"Italian, Pizza",50% off,False,False
+Lemerian Workin Cafe,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",5.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Ohri's Eatmor,Hyderabad,"Banjara Hills, Hyderabad",3.8,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Pakka Local,Hyderabad,"Road No. 7, Banjara Hills, Hyderabad",4.3,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Rium Cafe,Hyderabad,"Banjara Hills, Hyderabad",3.2,₹1200 for two,"Chinese, Continental",25% Off :Payeazy,False,False
+Amyra Cafe & Kitchen,Hyderabad,"Banjara Hills, Hyderabad",4.0,₹700 for two,North Indian,Flat 50% + 25% with Bank Offers,False,False
+Kasuall,Hyderabad,"Somajiguda, Hyderabad",3.5,₹1200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Chef Inam's Steak House,Hyderabad,"Banjara Hills, Hyderabad",5.0,₹1800 for two,"American, Barbeque",Flat 50% + 25% with Bank Offers,False,False
+ZYTHUM Brewing Co.,Hyderabad,"Jubilee Hills, Hyderabad",4.5,₹2500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Octagon Cafe,Hyderabad,"Banjara Hills, Hyderabad",4.0,₹1600 for two,European,50% off,False,False
+Flurys,Hyderabad,"Road No. 7, Banjara Hills, Hyderabad",5.0,₹1000 for two,Bakery,Flat 10% + 25% with Bank Offers,False,False
+Alfi's Kitchen,Hyderabad,"Banjara Hills, Hyderabad",4.0,₹300 for two,Bakery,Flat 10% + 25% with Bank Offers,False,False
+Hydrate The Bar,Hyderabad,"Hampshire Plaza Hotel, Hyderabad",4.0,₹1100 for two,"Finger Food, Cocktail Menu",Flat 10% + 25% with Bank Offers,False,False
+Ohri's Cake Nation,Hyderabad,"Banjara Hills, Hyderabad",1.0,₹800 for two,Bakery,Flat 20% + 25% with Bank Offers,False,False
+Harry's The Pub,Hyderabad,"Aditya Park, Hyderabad",4.8,₹1400 for two,"Finger Food, Cocktail Menu",Flat 10% + 25% with Bank Offers,False,False
+Cayenne,Hyderabad,Mercure Hyderabad KCP,4.3,₹2000 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Paneer palace Fine Dine Restaurant,Hyderabad,"Banjara Hills, Hyderabad",4.0,₹800 for two,"North Indian, Chinese",Flat 40% + 25% with Bank Offers,False,False
+Kuchipudi,Hyderabad,"Katriya Hotels, Hyderabad",3.8,₹1000 for two,South Indian,Flat 10% + 25% with Bank Offers,False,False
+Blu Café Lounge,Hyderabad,"Radisson Blu Plaza Hotel, Hyderabad",4.3,₹900 for two,"Bakery, Cafe",50% off,False,False
+Aish,Hyderabad,"The Park, Hyderabad",4.0,₹2400 for two,"Indian, South Indian",25% Off :Payeazy,False,False
+Insomnia,Hyderabad,"Road No. 36, Jubilee Hills, Hyderabad",4.0,₹1500 for two,"Finger Food, Cocktail Menu",Flat 30% + 25% with Bank Offers,False,False
+Rasa by Ashoka,Hyderabad,"Best Western Ashoka, Hyderabad",4.6,₹1500 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+The Waterfront Bar & Grill,Hyderabad,"Necklace Road, Hyderabad",3.5,₹1200 for two,"Indian, Chinese",Flat 25% + 25% with Bank Offers,False,False
+Verandah,Hyderabad,"The Park, Hyderabad",4.5,₹2500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Zouq,Hyderabad,"Road No. 2, Banjara Hills, Hyderabad",4.0,₹600 for two,Turkish,Flat 35% + 25% with Bank Offers,False,False
+Wow! China Bistro,Hyderabad,"Banjara Hills, Hyderabad",1.0,₹600 for two,Chinese,Flat 10% + 25% with Bank Offers,False,False
+Rayalaseema Ruchulu,Hyderabad,"Ameerpet, Hyderabad",4.5,₹800 for two,"Andhra, South Indian",25% Off :Payeazy,False,False
+The Chocolate Room,Ahmedabad,"Prahlad Nagar, West Ahmedabad",5.0,₹500 for two,Bakery,Flat 35% + 25% with Bank Offers,False,False
+Essence,Ahmedabad,"Crowne Plaza, Ahmedabad",4.5,₹2000 for two,"Indian, North Indian",Flat 20% + 25% with Bank Offers,False,False
+South Leaf - The Food Chain,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.5,₹900 for two,South Indian,Flat 15% + 25% with Bank Offers,False,False
+Bella Aroma,Ahmedabad,"Crowne Plaza, Ahmedabad",4.6,₹700 for two,Cafe,Flat 30% + 25% with Bank Offers,False,False
+Khichdi,Ahmedabad,"Prahlad Nagar, West Ahmedabad",1.0,₹700 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Sundew,Ahmedabad,"Hotel Ramada, Ahmedabad",4.4,₹1400 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Shaka Cafe,Ahmedabad,"Prahlad Nagar, West Ahmedabad",3.9,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+La Milano Pizzeria,Ahmedabad,"Prahlad Nagar, West Ahmedabad",2.5,₹500 for two,Pizza,Flat 25% + 25% with Bank Offers,False,False
+Sphere Lounge,Ahmedabad,"Hotel Ramada, Ahmedabad",4.2,₹900 for two,"Continental, Indian",Flat 10% + 25% with Bank Offers,False,False
+Amritsar Haveli,Ahmedabad,"Prahlad Nagar, West Ahmedabad",3.3,₹1100 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Barbeque Nation,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.5,₹2100 for two,Multicuisine,25% Off :Payeazy,False,False
+Grill Kitchen,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.4,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Salad Time,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.2,₹500 for two,"Healthy Food, Salad",Flat 20% + 25% with Bank Offers,False,False
+Atrangi - The Modern Indian Kitchen,Ahmedabad,"Prahlad Nagar, West Ahmedabad",5.0,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+1944 The Hocco Kitchen,Ahmedabad,"Prahlad Nagar, West Ahmedabad",5.0,₹1000 for two,North Indian,Flat 10% + 25% with Bank Offers,False,False
+Express Cafe,Ahmedabad,Holiday Inn Express Ahmedabad Prahlad Nagar,4.1,₹600 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Devi Coffee Day,Ahmedabad,"Satellite, West Ahmedabad",4.5,₹600 for two,"Cafe, Fast Food",Flat 15% + 25% with Bank Offers,False,False
+SambharSa,Ahmedabad,"Prahlad Nagar, West Ahmedabad",5.0,₹400 for two,Multicuisine,25% Off :Payeazy,False,False
+Kitcha: Together We Eat,Ahmedabad,"Prahlad Nagar, West Ahmedabad",5.0,₹800 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Topspin,Ahmedabad,"Devarc Mall, Ramdev Nagar",3.8,₹1200 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Numeron,Ahmedabad,"Bodakdev, West Ahmedabad",4.4,₹1100 for two,"North Indian, Italian, Chinese",Flat 30% + 25% with Bank Offers,False,False
+No Great Shakes,Ahmedabad,"Prahlad Nagar, West Ahmedabad",1.0,₹600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Fayrouz,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.8,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+U boat Gourmet Subs,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.0,₹400 for two,Healthy Food,Flat 10% + 25% with Bank Offers,False,False
+Roastery Cultur - The Coffee Company,Ahmedabad,"Bodakdev, West Ahmedabad",4.6,₹700 for two,"Coffee and Tea, Beverages",Flat 10% + 25% with Bank Offers,False,False
+Baba Budan Cafe,Ahmedabad,"Bodakdev, West Ahmedabad",5.0,₹600 for two,Cafe,Flat 20% + 25% with Bank Offers,False,False
+Dolce Vita Ristorante,Ahmedabad,"Shilaj, Ahmedabad",5.0,₹1500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Ishtaa - Truly South Indian,Ahmedabad,"Bodakdev, West Ahmedabad",4.7,₹1000 for two,South Indian,Flat 20% + 25% with Bank Offers,False,False
+Huber & Holly,Ahmedabad,"Bodakdev, West Ahmedabad",4.4,₹500 for two,Ice Cream,Flat 15% + 25% with Bank Offers,False,False
+The Penthouse Chapter 1- By Novel Chef,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.0,₹1100 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Starboy Pizza,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.0,₹300 for two,"Italian, Desserts",25% Off :Payeazy,False,False
+The Square - Novotel,Ahmedabad,"Novotel, Ahmedabad",4.2,₹1500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+MAD By Tomato's,Ahmedabad,"Bodakdev, West Ahmedabad",5.0,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Latin House,Ahmedabad,"Thaltej, West Ahmedabad",5.0,₹1000 for two,"American, Mexican",25% Off :Payeazy,False,False
+Cafe Treat,Ahmedabad,"The Pride Hotel, Ahmedabad",4.2,₹1800 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Three Quarter Indian,Ahmedabad,"Satellite, West Ahmedabad",4.2,₹1200 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Amala,Ahmedabad,"Bodakdev, West Ahmedabad",4.6,₹1100 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Dakshin Bhojnam,Ahmedabad,Iskcon Cross Road,4.2,₹600 for two,South Indian,Flat 10% + 25% with Bank Offers,False,False
+Tuk Tuk Thai - Pure Veg Asian Fine Dine,Ahmedabad,"Bodakdev, West Ahmedabad",4.8,₹1200 for two,Asian,Flat 10% + 25% with Bank Offers,False,False
+Sappadu,Ahmedabad,"Bodakdev, West Ahmedabad",5.0,₹600 for two,South Indian,Flat 10% + 25% with Bank Offers,False,False
+Desi Rasoi,Ahmedabad,"Satellite, West Ahmedabad",5.0,₹800 for two,Gujarati,Flat 20% + 25% with Bank Offers,False,False
+Balista Bistro,Ahmedabad,"Makarba, Ahmedabad",4.5,₹500 for two,"Italian, American",Flat 20% + 25% with Bank Offers,False,False
+Hella Good Pizzeria,Ahmedabad,"SOBO Center, Bopal",5.0,₹1000 for two,Italian,Flat 15% + 25% with Bank Offers,False,False
+Bigly,Ahmedabad,"Thaltej, West Ahmedabad",4.8,₹1600 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Zozi - Gujarat's First Diecast Cafe,Ahmedabad,"Bodakdev, West Ahmedabad",4.3,₹800 for two,Italian,Flat 20% + 25% with Bank Offers,False,False
+Ministry Of Beer,Lucknow,"Gomti Nagar, Lucknow",4.3,₹2000 for two,Multicuisine,50% off,False,False
+Spice Sutra,Lucknow,"Gomti Nagar, Lucknow",4.4,₹700 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Arabania Indo-Arabic Restaurant,Lucknow,"Alambagh, Lucknow",4.4,₹1000 for two,Arabian,Flat 30% + 25% with Bank Offers,False,False
+Criollo By Craft Coffee,Lucknow,"Hazratganj, Lucknow",5.0,₹1000 for two,Coffee,Flat 25% + 25% with Bank Offers,False,False
+Moti Mahal Delux,Lucknow,"Hazratganj, Lucknow",4.8,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Hons - All Day Dining,Lucknow,"Hazratganj, Lucknow",4.3,₹1500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Barkaas Indo Arabic Restaurant,Lucknow,"Hazratganj, Lucknow",3.9,₹800 for two,Indonesian,Flat 15% + 25% with Bank Offers,False,False
+Urban Club,Lucknow,"Hazratganj, Lucknow",4.0,₹800 for two,"Finger Food, Cocktail Menu",25% Off :Payeazy,False,False
+Tanatan,Lucknow,"Hazratganj, Lucknow",4.4,₹2500 for two,Indian,Flat 40% + 25% with Bank Offers,False,False
+Wat-A-Burger!,Lucknow,"Hazratganj, Lucknow",4.0,₹500 for two,"Fast Food, Burgers",50% off,False,False
+Haloz Cafe,Lucknow,"Hazratganj, Lucknow",5.0,₹1000 for two,Italian,Flat 25% + 25% with Bank Offers,False,False
+Starbelly Cafe & Restaurant,Lucknow,"Hazratganj, Lucknow",4.0,₹700 for two,"Chinese, Italian, Indian",Flat 10% + 25% with Bank Offers,False,False
+Urban Smoky Cafe,Lucknow,"Hazratganj, Lucknow",3.0,₹800 for two,Indian,Flat 20% + 25% with Bank Offers,False,False
+Philtre & Co.,Lucknow,"Hazratganj, Lucknow",4.3,₹1200 for two,Continental,Flat 20% + 25% with Bank Offers,False,False
+PVR,Lucknow,"Hazratganj, Lucknow",4.0,₹500 for two,Fast Food,25% Off :Payeazy,False,False
+34 Chowringhee Lane,Lucknow,"Hazratganj, Lucknow",4.0,₹600 for two,Fast Food,25% Off :Payeazy,False,False
+Truccos,Lucknow,"Hazratganj, Lucknow",4.8,₹500 for two,"Cafe, Continental",25% Off :Payeazy,False,False
+The Chocolate Room,Lucknow,"Hazratganj, Lucknow",4.3,₹450 for two,"Bakery, Desserts",Flat 15% + 25% with Bank Offers,False,False
+Pavilion Awadh & Beyond,Lucknow,"La Place Sarovar Portico, Lucknow",4.4,₹1200 for two,Multicuisine,50% off,False,False
+Fo'sho - Pan Asian & Italian Bistro,Lucknow,"Hazratganj, Lucknow",4.9,₹1500 for two,"Pan Asian, Italian",Flat 25% + 25% with Bank Offers,False,False
+Vito's Pizzeria,Lucknow,"Hazratganj, Lucknow",4.5,₹800 for two,Italian,Flat 15% + 25% with Bank Offers,False,False
+The Tangra Grill,Lucknow,"La Place Sarovar Portico, Lucknow",4.0,₹1200 for two,Chinese,Flat 20% + 25% with Bank Offers,False,False
+Kool Break,Lucknow,"Hazratganj, Lucknow",4.3,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Nahari Junction,Lucknow,"Lalbagh, Lucknow",5.0,₹600 for two,Mughlai,Flat 10% + 25% with Bank Offers,False,False
+Wow! Momo,Lucknow,"Hazratganj, Lucknow",4.9,₹400 for two,Momos,Flat 15% + 25% with Bank Offers,False,False
+Karim's,Lucknow,"Lalbagh, Lucknow",3.3,₹800 for two,Mughlai,Flat 15% + 25% with Bank Offers,False,False
+Blue Corriander,Lucknow,"Lalbagh, Lucknow",5.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Chicago Pizza,Lucknow,"Hazratganj, Lucknow",4.0,₹600 for two,Pizza,50% off,False,False
+L14,Lucknow,Renaissance Lucknow Hotel,3.4,₹1800 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Delisia,Lucknow,"Hotel Myriad, Lucknow",4.0,₹1200 for two,"Indian, Chinese",1+1 + 25% Off,False,False
+Bar Bar,Lucknow,Regenta Central Lucknow,4.0,₹1500 for two,"Multicuisine, Cocktail Menu",Flat 20% + 25% with Bank Offers,False,False
+Pinxx,Lucknow,Regenta Central Lucknow,4.0,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Sidewalk Bakehouse & Cafe,Lucknow,"Hazratganj, Lucknow",4.0,₹1300 for two,"Italian, Continental",Flat 10% + 25% with Bank Offers,False,False
+FashionTV Diner,Lucknow,"Hazratganj, Lucknow",3.5,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Mantar,Lucknow,"Hazratganj, Lucknow",4.5,₹800 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Molecule Air Bar,Lucknow,"Riverside Mall, Gomti Nagar",4.0,₹1500 for two,"Multicuisine, Cocktail Menu",Flat 20% + 25% with Bank Offers,False,False
+Danbro,Lucknow,"Hazratganj, Lucknow",4.0,₹800 for two,Bakery,50% off,False,False
+Royal Cafe,Lucknow,"Royal Inn, Hazratganj",4.4,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+Orchid,Lucknow,"Fortune Park BBD, Lucknow",4.2,₹1700 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Side Walk Cafe,Lucknow,"Gomti Nagar, Lucknow",4.1,₹1000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Masaki Couture & Cafe,Lucknow,"Hazratganj, Lucknow",4.3,₹1100 for two,"Asian, Continental",Flat 25% + 25% with Bank Offers,False,False
+Sky Bar,Lucknow,Renaissance Lucknow Hotel,4.5,₹2000 for two,"Cocktail Menu, Finger Food",Flat 25% + 25% with Bank Offers,False,False
+Zaika By Gemini Continental,Lucknow,"Gemini Continental, Hazratganj",4.6,₹2000 for two,Multicuisine,1+1 + 25% Off,False,False
+Caprice,Lucknow,Radisson Lucknow  City Centre,4.1,₹1200 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Zaffran,Lucknow,Renaissance Lucknow Hotel,4.7,₹2000 for two,Awadhi,Flat 35% + 25% with Bank Offers,False,False
+Brot Company,Jaipur,"Civil Lines, Jaipur",5.0,₹1600 for two,"Bakery, Pan Asian, Continental",Flat 10% + 25% with Bank Offers,False,False
+Dyore Experiences,Jaipur,"C Scheme, Jaipur",3.3,₹1800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Spice Court,Jaipur,"Civil Lines, Jaipur",4.4,₹800 for two,"Beverages, Multicuisine",Flat 10% + 25% with Bank Offers,False,False
+Cafe Auberge,Jaipur,"Civil Lines, Jaipur",4.8,₹800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Zarza Club & Terrace,Jaipur,"Bais Godam, Jaipur",4.0,₹1500 for two,Multicuisine,Flat 55% + 25% with Bank Offers,False,False
+Spice It,Jaipur,"Ibis Hotel, Jaipur",3.8,₹1600 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Brewvana Coffee House,Jaipur,"C Scheme, Jaipur",4.0,₹1200 for two,"Coffee and Tea, Cafe",Flat 25% + 25% with Bank Offers,False,False
+Baari- The House of Fusion,Jaipur,"Gopalbari, Jaipur",4.0,₹800 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Nibs Cafe & Chocolataria,Jaipur,"Gopalbari, Jaipur",4.4,₹600 for two,Cafe,Flat 20% + 25% with Bank Offers,False,False
+Thirsty Camel,Jaipur,"Hathroi, Jaipur",5.0,₹1600 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+Veda by Jaipur Coffee Co.,Jaipur,"Hathroi, Jaipur",4.0,₹1400 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Peshawri,Jaipur,"ITC Rajputana Hotel, Jaipur",4.5,₹4500 for two,North West Frontier,Flat 10% + 25% with Bank Offers,False,False
+Little French Home,Jaipur,"Gopalbari, Jaipur",5.0,₹1200 for two,Continental,Flat 25% + 25% with Bank Offers,False,False
+Waraahi,Jaipur,"C Scheme, Jaipur",3.7,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Le Farsan - Rooftop & Cafe,Jaipur,"C Scheme, Jaipur",4.7,₹1300 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Strings-Cocktail Lounge,Jaipur,"C Scheme, Jaipur",4.0,₹1600 for two,"Cocktail Menu, Multicuisine",Flat 20% + 25% with Bank Offers,False,False
+Blackout,Jaipur,"Hotel Golden Oak, Jaipur",3.6,₹1800 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Peepal Restaurant,Jaipur,"Rambagh, Jaipur, Jaipur",5.0,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Daniel's Oriental Kitchen,Jaipur,"Gopalbari, Jaipur",5.0,₹800 for two,oriental,Flat 15% + 25% with Bank Offers,False,False
+Skyza,Jaipur,"C Scheme, Jaipur",4.3,₹1200 for two,"Cocktail Menu, Multicuisine",Flat 20% + 25% with Bank Offers,False,False
+The Colonnade,Jaipur,"Rajmahal Palace, Jaipur",4.7,₹6000 for two,Multicuisine,25% Off :Payeazy,False,False
+TGIH - Thank God It's Healthy,Jaipur,"Gopalbari, Jaipur",4.0,₹900 for two,Healthy Food,Flat 25% + 25% with Bank Offers,False,False
+Beans & Buns By Hotel Anuraag Villa,Jaipur,"Bani Park, Jaipur",4.0,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+PURGATORY 777,Jaipur,"Ashok Nagar, Jaipur",3.4,₹2000 for two,"Casual Eclectic, Multicuisine",Flat 50% + 25% with Bank Offers,False,False
+The Dome,Jaipur,"MI Road, Jaipur",4.3,₹1500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Meraaki Kitchen,Jaipur,"Civil Lines, Jaipur",4.3,₹1000 for two,"North Indian, Chinese, Italian",25% Off :Payeazy,False,False
+Kalyan Rooftop And Indoor Restaurant,Jaipur,"Gopalbari, Jaipur",4.2,₹600 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Chaat Bistro,Jaipur,"Civil Lines, Jaipur",4.0,₹800 for two,Chaat,Flat 15% + 25% with Bank Offers,False,False
+Sura - Cocktails & Cuisine,Jaipur,"Gopalbari, Jaipur",5.0,₹2000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Arth Spaces,Jaipur,"C Scheme, Jaipur",4.0,₹900 for two,Cafe,Flat 10% + 25% with Bank Offers,False,False
+Carbon,Jaipur,"Ashok Nagar, Jaipur",4.4,₹900 for two,Coffee,Flat 15% + 25% with Bank Offers,False,False
+Jaipur Pavilion,Jaipur,"ITC Rajputana Hotel, Jaipur",5.0,₹1800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Peacock Roof Top Restaurant,Jaipur,"Hotel Pearl Palace, Jaipur",4.6,₹800 for two,Pan Asian,25% Off :Payeazy,False,False
+Le Farsan - Thali Restaurant,Jaipur,"C Scheme, Jaipur",2.3,₹1000 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+Café White Sage,Jaipur,"Civil Lines, Jaipur",4.8,₹1900 for two,Multicuisine,25% Off :Payeazy,False,False
+Brewlicious Rooftop Bar,Jaipur,"C Scheme, Jaipur",4.5,₹2000 for two,"Cocktail Menu, Multicuisine",Flat 30% + 25% with Bank Offers,False,False
+Native Cocktail Room,Jaipur,"Hotel Pearl Palace, Jaipur",5.0,₹2000 for two,Multicuisine,25% Off :Payeazy,False,False
+Kohhee by The Night Jar,Jaipur,"C Scheme, Jaipur",5.0,₹700 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+OTH - On The House,Jaipur,"C Scheme, Jaipur",4.5,₹1100 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Farmacy - A Healthy Restaurant By Doctors,Jaipur,"C Scheme, Jaipur",5.0,₹800 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Sirka,Jaipur,"C Scheme, Jaipur",4.4,₹1300 for two,Indian,Flat 35% + 25% with Bank Offers,False,False
+Sipsss,Jaipur,"Gopalbari, Jaipur",4.5,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Monarch - World Dining,Jaipur,"Holiday Inn Jaipur City Centre, Jaipur",4.3,₹2300 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Palila Cafe & Kitchen,Jaipur,"Gopalbari, Jaipur",4.0,₹900 for two,Italian,Flat 15% + 25% with Bank Offers,False,False
+Jal Mahal,Jaipur,"ITC Rajputana Hotel, Jaipur",5.0,₹3300 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Biryani By Kilo,Chandigarh-Tricity,"Sector 30, Chandigarh",4.4,₹700 for two,Biryani,50% off,False,False
+Downtown Cafe and Kitchen 21,Chandigarh-Tricity,"Sector 21, Chandigarh",4.0,₹850 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Prankster,Chandigarh-Tricity,"Sector 26, Chandigarh",4.5,₹1500 for two,"Modern Indian, Cocktail Menu",Flat 40% + 25% with Bank Offers,False,False
+Tiger Five,Chandigarh-Tricity,"Sector 26, Chandigarh",4.4,₹1400 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Sir Dough,Chandigarh-Tricity,"Sector 7, Chandigarh",4.0,₹1200 for two,"Italian, Continental",1+1 + 25% Off,False,False
+Punjab Grill,Chandigarh-Tricity,"Elante Mall, Chandigarh Industrial Area",4.4,₹1400 for two,North Indian,Flat 50% + 25% with Bank Offers,False,False
+Urban Cafe,Chandigarh-Tricity,"Hyatt Regency, Chandigarh",4.4,₹4000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Eddies,Chandigarh-Tricity,"Sector 26, Chandigarh",4.6,₹1600 for two,"Italian, Continental, American",Flat 25% + 25% with Bank Offers,False,False
+Anardana Modern Kitchen & Bar,Chandigarh-Tricity,"City Emporium Mall, Chandigarh",4.5,₹1800 for two,"Multicuisine, Cocktail Menu",1+1 + 25% Off,False,False
+Ministry of Bar Exchange,Chandigarh-Tricity,"Sector 26, Chandigarh",4.5,₹2000 for two,Multicuisine,50% off,False,False
+Dhaba 7,Chandigarh-Tricity,"Sector 7, Chandigarh",4.4,₹1200 for two,North Indian,Flat 50% + 25% with Bank Offers,False,False
+O Chicken,Chandigarh-Tricity,"Sector 8, Chandigarh",4.0,₹400 for two,Fast Food,Flat 45% + 25% with Bank Offers,False,False
+Sante Brewery & Kitchen,Chandigarh-Tricity,"Sector 26, Chandigarh",4.0,₹1500 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Asia Kitchen By Mainland China,Chandigarh-Tricity,"Elante Mall, Chandigarh Industrial Area",5.0,₹1000 for two,Chinese,Flat 40% + 25% with Bank Offers,False,False
+The Breevity Cafe,Chandigarh-Tricity,"Sector 18, Chandigarh",4.0,₹1000 for two,Cafe,Flat 15% + 25% with Bank Offers,False,False
+Dialogue Cafe,Chandigarh-Tricity,"Sector 35, Chandigarh",4.1,₹900 for two,"Beverages, Cafe",Flat 20% + 25% with Bank Offers,False,False
+Rhapsody,Chandigarh-Tricity,"Sector 17, Chandigarh",5.0,₹1600 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Wild Thyme,Chandigarh-Tricity,"Sector 7, Chandigarh",3.1,₹2100 for two,"Italian, Mediterranean, Continental",Flat 10% + 25% with Bank Offers,False,False
+Avra x  dochi pizzeria,Chandigarh-Tricity,"Sector 7, Chandigarh",4.4,₹1500 for two,"Italian, Pizza",50% off,False,False
+Bargain Booze,Chandigarh-Tricity,"Sector 26, Chandigarh",3.7,₹2000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Local House,Chandigarh-Tricity,"Sector 26, Chandigarh",5.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Bistro 1427,Chandigarh-Tricity,"Sector 5, Panchkula",4.0,₹900 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Ministry of Bar Exchange,Chandigarh-Tricity,"Elante Mall, Chandigarh Industrial Area",4.1,₹1200 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Ikk Panjab,Chandigarh-Tricity,"Sector 26, Chandigarh",5.0,₹2500 for two,"Punjabi, North Indian",Flat 50% + 25% with Bank Offers,False,False
+Brooklyn Central,Chandigarh-Tricity,"Elante Mall, Chandigarh Industrial Area",4.8,₹1500 for two,American,Flat 10% + 25% with Bank Offers,False,False
+Ketliwala,Chandigarh-Tricity,"Sector 22, Chandigarh",5.0,₹800 for two,Street Food,Flat 15% + 25% with Bank Offers,False,False
+The Cafe @ JW,Chandigarh-Tricity,"JW Marriott, Chandigarh",4.3,₹3500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Deluxe Dhaba,Chandigarh-Tricity,"Sector 28, Chandigarh",4.0,₹600 for two,Multicuisine,50% off,False,False
+Cafe Olio,Chandigarh-Tricity,"Sector 35, Chandigarh",5.0,₹1500 for two,"Cafe, Multicuisine",Flat 20% + 25% with Bank Offers,False,False
+Seville Bar and Lounge,Chandigarh-Tricity,"Sector 26, Chandigarh",4.9,₹2500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+United Coffee House,Chandigarh-Tricity,"Elante Mall, Chandigarh Industrial Area",4.5,₹1200 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Stage,Chandigarh-Tricity,"Hyatt Regency, Chandigarh",4.6,₹1500 for two,Finger Food,Flat 25% + 25% with Bank Offers,False,False
+The G.T. Road,Chandigarh-Tricity,"Sector 26, Chandigarh",4.4,₹2400 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Hard Rock Cafe,Chandigarh-Tricity,"Sector 26, Chandigarh",3.9,₹1500 for two,"Finger Food, Cocktail Menu",Flat 10% + 25% with Bank Offers,False,False
+Saffron,Chandigarh-Tricity,"JW Marriott, Chandigarh",4.2,₹3000 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+Chawla's 2,Chandigarh-Tricity,"Sector 22, Chandigarh",1.0,₹1400 for two,Indian,Flat 30% + 25% with Bank Offers,False,False
+Xero Degrees,Chandigarh-Tricity,"Sector 35, Chandigarh",4.2,₹800 for two,"Beverages, Fast Food, Cafe",50% off,False,False
+Komo House,Chandigarh-Tricity,"Sector 7, Chandigarh",4.0,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Beyon,Chandigarh-Tricity,"Sector 26, Chandigarh",4.0,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Purple Frog,Chandigarh-Tricity,"Sector 9, Panchkula",4.0,₹1200 for two,"Cafe, Cocktail Menu",Flat 15% + 25% with Bank Offers,False,False
+Sip & Stories - Premium BYOB,Chandigarh-Tricity,"Sector 7, Chandigarh",4.0,₹1500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Refections Cafe,Chandigarh-Tricity,"Sector 35, Chandigarh",4.0,₹1500 for two,"North Indian, Chinese, Multicuisine",Flat 15% + 25% with Bank Offers,False,False
+Talez Patisserie & Kitchen,Chandigarh-Tricity,"Sector 26, Chandigarh",4.6,₹1500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Tatami,Chandigarh-Tricity,"Sector 7, Chandigarh",4.1,₹1500 for two,Japanese,Flat 10% + 25% with Bank Offers,False,False
+Cafe De Piccolo,Chandigarh-Tricity,"Sector 9, Chandigarh",5.0,₹1200 for two,Italian,Flat 20% + 25% with Bank Offers,False,False
+Backyard Restaurant & Bar,Goa,"Calangute, North Goa",5.0,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Bharat Bar & Restaurant,Goa,"Baga, North Goa",4.0,₹800 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Jazz Bistro,Goa,"Calangute Baga Road, Goa",4.7,₹1000 for two,Multicuisine,Free Beverages + 25% Off,False,False
+Café De Port By Radisson Resort Goa Baga,Goa,"Arpora, North Goa",4.9,₹2200 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Souza Lobo - Since 1932,Goa,"Calangute, North Goa",4.3,₹1300 for two,Goan,25% Off :Payeazy,False,False
+Krishna Bar & Restaurant,Goa,"Calangute, North Goa",4.0,₹550 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Tom's Resto By The Beach,Goa,"Calangute, North Goa",5.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+BunnyKins Cafe,Goa,"Calangute, North Goa",4.0,₹900 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Elrow Ocean Front,Goa,"Calangute Baga Road, Goa",2.8,₹2000 for two,Asian,Flat 25% + 25% with Bank Offers,False,False
+Cafe Fika,Goa,"Panaji, North Goa",5.0,₹1000 for two,Cafe,Flat 30% + 25% with Bank Offers,False,False
+One Calangute,Goa,"Calangute, North Goa",3.8,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Beans & Bistro,Goa,"Calangute, North Goa",4.0,₹400 for two,"Cafe, Coffee",Flat 10% + 25% with Bank Offers,False,False
+Oceana Restaurant,Goa,"Calangute, North Goa",4.0,₹1000 for two,"Indian, Continental",Flat 10% + 25% with Bank Offers,False,False
+Bloom Cafe,Goa,"Bloom Hotel ,Calangute",4.0,₹1200 for two,Multicuisine,25% Off :Payeazy,False,False
+GROK,Goa,Hyatt Centric Candolim Goa,4.2,₹1200 for two,Goan,Flat 35% + 25% with Bank Offers,False,False
+Just Lobo's,Goa,"Calangute, North Goa",4.7,₹1000 for two,"Goan, Multicuisine",Flat 20% + 25% with Bank Offers,False,False
+Pepper Bar and Restaurant,Goa,"Le Seasons Resort, Goa",4.0,₹1200 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Peace,Goa,The Park Calangute Goa,4.4,₹1500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Palms n Sands,Goa,"Candolim, North Goa",4.4,₹2000 for two,Multicuisine,25% Off :Payeazy,False,False
+Aur Jalsa,Goa,"Calangute Baga Road, Goa",3.0,₹4500 for two,"Indian, Rajasthani",Flat 20% + 25% with Bank Offers,False,False
+Kava - Fairfield by Marriott Calangute,Goa,Fairfield by Marriott Goa Calangute,5.0,₹1000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+You & Me,Goa,"Baga, North Goa",4.0,₹900 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+The Square,Goa,Novotel Goa Shrem Hotel,5.0,₹2000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Cafe De Port - Alfresco,Goa,"Arpora, North Goa",5.0,₹2200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Bar Asia,Goa,Novotel Goa Shrem Hotel,5.0,₹1500 for two,Finger Food,Flat 25% + 25% with Bank Offers,False,False
+Raeeth,Goa,"Ozran Beach Road , Goa",3.2,₹1500 for two,Mediterranean,Flat 10% + 25% with Bank Offers,False,False
+Spice It,Goa,"ibis, Calangute, Goa",5.0,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Novu Rooftop Dining,Goa,"Fort Aguada Rd, Candolim, North Goa",4.7,₹1200 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Sessions,Goa,Hard Rock Hotel Goa,4.7,₹2000 for two,"Indian, Beverages",Flat 10% + 25% with Bank Offers,False,False
+The Fisherman's Wharf,Goa,"Calangute, North Goa",4.2,₹1100 for two,Goan,25% Off :Payeazy,False,False
+De Little Goa,Goa,"Calangute, North Goa",5.0,₹1500 for two,Indian,Flat 15% + 25% with Bank Offers,False,False
+Hibiscus,Goa,"Arpora, North Goa",1.0,₹1000 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Spice Mantraa,Goa,"Candolim, North Goa",4.6,₹1200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Saipe,Goa,Hilton Goa Resort,5.0,₹2400 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Rio Cafe Bar,Goa,"Calangute, North Goa",4.8,₹1000 for two,Continental,Flat 25% + 25% with Bank Offers,False,False
+The Market,Goa,"The Westin,Goa",4.5,₹3000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Sizzler House,Goa,"Anjuna Vagator Road, Goa",5.0,₹700 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Zodiac - All Day Dining Benaulim,Goa,"Fortune Resort Benaulim, Goa by ITC",4.0,₹1100 for two,"Seafood, Multicuisine",Flat 25% + 25% with Bank Offers,False,False
+Comida,Goa,DoubleTree by Hilton Goa - Panaji,4.4,₹1500 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+CHY Lounge & Bar,Goa,Novotel Goa Resorts & Spa,4.0,₹1200 for two,Finger Food,Flat 25% + 25% with Bank Offers,False,False
+Julep,Goa,"Calangute Baga Road, Goa",4.0,₹2500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Samudra Family Restaurant & Bar,Goa,"Calangute, North Goa",5.0,₹500 for two,South Indian,Flat 10% + 25% with Bank Offers,False,False
+The Little Place,Goa,"Candolim, North Goa",4.0,₹600 for two,Cafe,Flat 15% + 25% with Bank Offers,False,False
+Pickled Mango,Goa,"Bardez, North Goa",5.0,₹1600 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Casita Multi-Cuisine Restaurant,Goa,"Bardez, North Goa",4.0,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+INOX,Indore,"Sapna Sangeeta Mall, Indore",4.0,₹500 for two,Fast Food,50% off,False,False
+Aarambh,Indore,"Snehnagar, Indore",3.0,₹700 for two,Indian,25% Off :Payeazy,False,False
+Kava,Indore,Fairfield By Marriott,4.7,₹1500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+11:11 Coffee,Indore,"South Tukoganj, Indore",4.5,₹600 for two,"Desserts, Coffee",Flat 50% + 25% with Bank Offers,False,False
+Trikaay Delight,Indore,"South Tukoganj, Indore",4.2,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Coriander Leaf Restaurant,Indore,"Ratlam Kothi, Indore",4.6,₹800 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+H3 Cafe,Indore,Indore,5.0,₹600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Around the Block,Indore,"South Tukoganj, Indore",5.0,₹700 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+The Monroe Cafe,Indore,"New Palasia, Indore",3.4,₹1050 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Barbeque Nation,Indore,"South Tukoganj, Indore",4.4,"New Palasia, Indore",₹1800 for two,50% off,False,False
+Mama Loca,Indore,Mediterranean,2.0,Sheraton Grand Palace Indore,₹1000 for two,25% Off :Payeazy,False,False
+S Cafe,Indore,Multicuisine,4.0,"South Tukoganj, Indore",₹3000 for two,Flat 20% + 25% with Bank Offers,False,False
+Makhanwala - Modern Indian Dhaba,Indore,₹400 for two,4.0,North Indian,"MR 10 Road, Indore",Flat 50% + 25% with Bank Offers,False,False
+Punjab Grill,Indore,₹1700 for two,4.0,Multicuisine,"South Tukoganj, Indore",Flat 20% + 25% with Bank Offers,False,False
+Enigma Rooftop,Indore,₹1200 for two,4.0,Multicuisine,"Bicholi Mardana, Indore",Flat 25% + 25% with Bank Offers,False,False
+Mangosteen Cafe,Indore,₹1500 for two,5.0,Seafood,"Kibe Compound, Indore",Flat 25% + 25% with Bank Offers,False,False
+Al Karam Kitchens,Indore,₹600 for two,3.0,Multicuisine,"New Palasia, Indore",Flat 30% + 25% with Bank Offers,False,False
+Spruzzo - The Cocktail garden,Indore,₹700 for two,3.6,Chili's Near MeDhaba - Estd 1986 Delhi Near MeDrums of Heaven Near MeElma's Bakery Near MeFIO Near MeFork You Near MeHard Rock Cafe Near MeImperfecto Near MeMamagoto Near MeOh! Calcutta Near MePark Balluchi Near MePunjab Grill Near MePunjabi By Nature Near MeSmoke House Deli Near MeSodaBottleOpenerWala Near MeZambar Near MeGola Sizzlers Near MeNaivadyam Near MeAmour Near MeBig Yellow Door Near Me,Biryani Restaurants Near MeBritish Restaurants Near MeBurmese Restaurants Near MeCafe Restaurants Near MeChettinad Restaurants Near MeChinese Restaurants Near MeCoffee and Tea Near MeDesserts Restaurants Near MeDrinks Only Restaurants Near MeEuropean Restaurants Near MeFast Food Restaurants Near MeFinger Food Restaurants Near MeFrench Restaurants Near MeGerman Restaurants Near MeGoan Restaurants Near MeGreek Restaurants Near MeGujarati Restaurants Near MeHealthy Food Restaurants Near MeHyderabadi Restaurants Near MeIce Cream Near Me,Flat 15% + 25% with Bank Offers,False,False
+Biryani By Kilo,Indore,Indore,4.5,₹700 for two,Biryani,50% off,False,False
+Gol Roti Restaurant and Cafe,Indore,"Patel Nagar, Indore",5.0,₹500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Ohlio Gourmet Cafe & Bar,Indore,"AB Road, Indore",3.7,₹2000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Tiffin,Indore,"Hotel Winway, RNT Marg",2.5,₹1000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Tandoor Bar and Restaurant,Indore,"Scheme No 54, Indore",4.0,₹800 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Veg Bites Cafe & Restaurant,Indore,"Snehnagar, Indore",4.0,₹400 for two,"Coffee, Fast Food",Flat 15% + 25% with Bank Offers,False,False
+Chill by Sarovar Portico,Indore,Sarovar Portico Hotel Indore,2.0,₹1600 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Jeeman by Kitchen Ministry,Indore,"South Tukoganj, Indore",4.0,₹600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Kabelo Veg Barbecues,Indore,"AB Road, Indore",4.3,₹1500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Wow! China,Indore,"Treasure Island Mall, South Tukoganj",5.0,₹600 for two,Chinese,50% off,False,False
+Wow! Momo,Indore,"Chappan Market, Indore",4.0,₹400 for two,Momos,Flat 15% + 25% with Bank Offers,False,False
+Nomadic By Firangi,Indore,"Vijay Nagar, Indore",5.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Alba bistro,Indore,"Vijay Nagar, Indore",4.2,₹600 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Sukoon Rooftop by the Tripti,Indore,"The Tripti Hotel,Indore",4.0,₹1000 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+Tyger Tyger,Indore,"Scheme 94, Indore",3.9,₹1000 for two,Pan Asian,Flat 30% + 25% with Bank Offers,False,False
+Pincode by Kunal Kapur,Indore,"Niranjanpur, Indore",4.0,₹1800 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+The Roof,Indore,"Hotel Kanchan Tilak, Indore",4.0,₹1000 for two,"Asian, Indian",Flat 10% + 25% with Bank Offers,False,False
+Citrus Cafe,Indore,"Lemon Tree Hotel, indore",4.4,₹1200 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Slounge,Indore,"Lemon Tree Hotel, indore",4.9,₹2000 for two,Cocktail Menu,50% off,False,False
+Lite Meal Cafe & Restaurant,Indore,"New Palasia, Indore",4.0,₹300 for two,Cafe,Flat 25% + 25% with Bank Offers,False,False
+Asia Seven,Indore,"Treasure Island Mall, South Tukoganj",4.0,₹400 for two,Asian,Flat 10% + 25% with Bank Offers,False,False
+Street Foods By Punjab Grill,Indore,"South Tukoganj, Indore",4.0,₹800 for two,"Chinese, Fast Food, North Indian",Flat 10% + 25% with Bank Offers,False,False
+Uncle Peter's Pancakes,Indore,Geeta Bhavan,4.0,₹400 for two,"Finger Food, American",Flat 10% + 25% with Bank Offers,False,False
+Bon Bon,Indore,"Hotel Kanchan Tilak, Indore",4.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Ubud,Indore,"By Pass Road (North), Indore",4.0,₹1500 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Mithya Club,Indore,"Vijay Nagar, Indore",4.0,₹1200 for two,Multicuisine,25% Off :Payeazy,False,False
+Manbhavan Premium Thali,Indore,"Hotel Princes' Palace, Indore",1.0,₹1000 for two,Rajasthani,Flat 50% + 25% with Bank Offers,False,False
+Myz-Uno Brew Pub,Visakhapatnam,"Siripuram, Visakhapatnam",4.3,₹1400 for two,Multicuisine,50% off,False,False
+Eatery,Visakhapatnam,Four Points by Sheraton Visakhapatnam,4.2,₹1000 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+AB's - Absolute Barbecues,Visakhapatnam,Visakhapatnam,4.4,₹1800 for two,"Multicuisine, Barbeque",Flat 20% + 25% with Bank Offers,False,False
+Barkaas Arabic Restaurant,Visakhapatnam,"Dwarka Nagar, Visakhapatnam",3.9,₹600 for two,"Arabian, Biryani",25% Off :Payeazy,False,False
+The Square,Visakhapatnam,Novotel Varun Beach Visakhapatnam,4.3,₹3000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Varun's Eat (Varun Beach Inox),Visakhapatnam,"Maharani Peta, Visakhapatnam",4.3,₹900 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Gypsy Resto Cafe,Visakhapatnam,"Sagar Nagar, Visakhapatnam",4.2,₹600 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Barbeque Nation,Visakhapatnam,"Waltair Road, Visakhapatnam",4.4,₹1950 for two,Multicuisine,25% Off :Payeazy,False,False
+Olive - V Hotel,Visakhapatnam,"V hotel, Visakhapatnam",4.0,₹900 for two,Multicuisine,25% Off :Payeazy,False,False
+House of Punjab,Visakhapatnam,"Sector 11, MVP Colony, Visakhapatnam",4.3,₹1000 for two,North Indian,50% off,False,False
+Kava,Visakhapatnam,Fairfield by Marriott Visakhapatnam,4.6,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Makkhan Masala Pure Veg,Visakhapatnam,"Dwaraka Nagar, Visakhapatnam",4.7,₹1000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Moon Bar & Kitchen,Visakhapatnam,"Siripuram, Visakhapatnam",4.1,₹1100 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Dine Destiny,Visakhapatnam,"East Point Colony, Visakhapatnam",3.4,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Ironhill,Visakhapatnam,"Siripuram, Visakhapatnam",4.7,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Shack,Visakhapatnam,"The Park, Visakhapatnam",4.3,₹1500 for two,Multicuisine,25% Off :Payeazy,False,False
+Gluttons Garage,Visakhapatnam,"Pandurangapuram, Visakhapatnam",3.2,₹1050 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Hot Chilli,Visakhapatnam,"Northway Hotel, Visakhapatnam",3.6,₹600 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Mekong Restaurant,Visakhapatnam,"Hotel GreenPark, Visakhapatnam",4.3,₹1800 for two,Multicuisine,50% off,False,False
+V Hangout,Visakhapatnam,"Rushikonda, Visakhapatnam",4.4,₹900 for two,Multicuisine,25% Off :Payeazy,False,False
+Vista,Visakhapatnam,"The Park, Visakhapatnam",3.9,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Red Bowl,Visakhapatnam,Novotel Varun Beach Visakhapatnam,3.8,₹1800 for two,Pan Asian,Flat 25% + 25% with Bank Offers,False,False
+Barkaas Indo-Arabic Restaurant,Visakhapatnam,"Chaitanya Nagar, Visakhapatnam",3.7,₹600 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Sam's Griddle,Visakhapatnam,"Siripuram, Visakhapatnam",4.2,₹1200 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Aha Yemi Ruchulu,Visakhapatnam,"M V P Colony, Visakhapatnam",4.6,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+Ethnic,Visakhapatnam,"Hotel Radisson Blu Resort, Visakhapatnam",4.7,₹4000 for two,"Andhra, South Indian",Flat 10% + 25% with Bank Offers,False,False
+Zaffran,Visakhapatnam,Novotel Varun Beach Visakhapatnam,4.3,₹2000 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+The light house bar,Visakhapatnam,"The Park, Visakhapatnam",4.0,₹1500 for two,"Finger Food, Cocktail Menu",50% off,False,False
+Royal Spice,Visakhapatnam,"Sector 10, MVP Colony, Visakhapatnam",4.8,₹1000 for two,North Indian,Flat 25% + 25% with Bank Offers,False,False
+Planet 9,Visakhapatnam,"Dwaraka Nagar, Visakhapatnam",4.3,₹700 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Bot 9 AI Themed Restaurant,Visakhapatnam,"Pothinamallayya Palem, Visakhapatnam",4.2,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Platform 65,Visakhapatnam,"Siripuram, Visakhapatnam",3.9,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Tulips,Visakhapatnam,"Hotel GreenPark, Visakhapatnam",4.1,₹1300 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Harbour Vue,Visakhapatnam,Novotel Varun Beach Visakhapatnam,4.7,₹1500 for two,Finger Food,Flat 15% + 25% with Bank Offers,False,False
+Liquid Lounge Bar,Visakhapatnam,Fairfield by Marriott Visakhapatnam,4.0,₹1500 for two,"Finger Food, Cocktail Menu",Flat 25% + 25% with Bank Offers,False,False
+Cosmic House,Visakhapatnam,"Siripuram, Visakhapatnam",3.9,₹1000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Aqua,Visakhapatnam,"The Park, Visakhapatnam",4.8,₹1500 for two,"Italian, Cocktail Menu",50% off,False,False
+Waltair Kitchen - PL Grand,Visakhapatnam,"Treebo PL Grand - Siripuram, Visakhapatnam",4.3,₹1000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Varun's Eat Restaurant,Visakhapatnam,"Rushikonda, Visakhapatnam",4.2,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Stone Water Bar & Kitchen,Visakhapatnam,"Yendada, Visakhapatnam",3.9,₹1400 for two,Finger Food,Flat 15% + 25% with Bank Offers,False,False
+365 - All Day Dining,Visakhapatnam,"Hotel Radisson Blu Resort, Visakhapatnam",4.3,₹3600 for two,Multicuisine,25% Off :Payeazy,False,False
+Zest,Visakhapatnam,"Hotel Radisson Blu Resort, Visakhapatnam",5.0,₹600 for two,Bakery,Flat 20% + 25% with Bank Offers,False,False
+The Crave Restobar,Visakhapatnam,"Sagar Nagar, Visakhapatnam",4.0,₹1500 for two,"Chinese, Continental",Flat 20% + 25% with Bank Offers,False,False
+Best Brews,Visakhapatnam,Four Points by Sheraton Visakhapatnam,4.0,₹1950 for two,Finger Food,Flat 20% + 25% with Bank Offers,False,False
+Amritsar haveli,Visakhapatnam,"Madhurawada, Visakhapatnam",5.0,₹1000 for two,Indian,Flat 20% + 25% with Bank Offers,False,False
+Pankhuri Reloaded,Agra,"Hotel Moti Palace, Agra",3.7,₹1000 for two,Multicuisine,50% off,False,False
+Shahen Shah,Agra,"Rakabganj, Agra",4.0,₹2000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Downtown Cafe,Agra,"Hotel Moti Palace, Agra",4.2,₹1000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Noosh,Agra,"Hotel Orange, Agra",5.0,₹1500 for two,Multicuisine,25% Off :Payeazy,False,False
+Barbeque Nation,Agra,"Civil Lines, Agra",4.6,₹1800 for two,"Multicuisine, Barbeque",Flat 25% + 25% with Bank Offers,False,False
+Cosmos Cafe & Bar,Agra,"Fairfield by Marriott, Agra",2.4,₹2000 for two,Multicuisine,25% Off :Payeazy,False,False
+The Salt Cafe Kitchen & Bar,Agra,"Tajganj, Agra",4.4,₹1000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Chopstix,Agra,"Civil Lines, Agra",3.0,₹600 for two,Chinese,Flat 10% + 25% with Bank Offers,False,False
+Incanto,Agra,"Civil Lines, Agra",4.7,₹1500 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Biryani by Kilo,Agra,"Civil Lines, Agra",3.5,₹800 for two,Biryani,50% off,False,False
+Naivedyam,Agra,"Fatehabad Road, Agra",5.0,₹700 for two,South Indian,Flat 25% + 25% with Bank Offers,False,False
+Chatora Station Restaurant,Agra,"Agra Cantt, Agra",4.0,₹400 for two,Multicuisine,25% Off :Payeazy,False,False
+Cafe G,Agra,"Holiday Inn Agra Mg Road, Agra",4.3,₹2000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Berco’s,Agra,"Civil Lines, Agra",4.0,₹800 for two,"Chinese, Thai, Asian",Flat 25% + 25% with Bank Offers,False,False
+Xero Degrees,Agra,"Civil Lines, Agra",4.7,₹1000 for two,Fast Food,Flat 10% + 25% with Bank Offers,False,False
+The Nawaabs,Agra,"Tajganj, Agra",4.4,₹750 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+Sidewalk Bakehouse And Cafe,Agra,"Tajganj, Agra",4.0,₹1000 for two,Continental,Flat 10% + 25% with Bank Offers,False,False
+Lobby Bar,Agra,"Holiday Inn Agra Mg Road, Agra",4.8,₹2000 for two,"Finger Food, Cocktail Menu",Flat 15% + 25% with Bank Offers,False,False
+Rossogulla House,Agra,"Agra Cantt, Agra",3.7,₹700 for two,Multicuisine,50% off,False,False
+Desi Vibes,Agra,"Tajganj, Agra",4.3,₹1200 for two,North Indian,25% Off :Payeazy,False,False
+Star Ultimate Pizza,Agra,"Arjun Nagar, Agra",4.0,₹400 for two,Italian,Flat 15% + 25% with Bank Offers,False,False
+Burger Panda,Agra,"Civil Lines, Agra",4.0,₹500 for two,Fast Food,Flat 15% + 25% with Bank Offers,False,False
+Molecule,Agra,"Tajganj, Agra",4.4,₹2000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Kesar Restaurant,Agra,"Agra Cantt, Agra",3.4,₹600 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Haldiram's,Agra,"Civil Lines, Agra",5.0,₹400 for two,Street Food,Flat 10% + 25% with Bank Offers,False,False
+Momo Cafe,Agra,Courtyard by Marriott Agra,4.2,₹2000 for two,"Finger Food, Cocktail Menu",Flat 50% + 25% with Bank Offers,False,False
+Om Cafe,Agra,"Agra Cantt, Agra",4.0,₹500 for two,Multicuisine,25% Off :Payeazy,False,False
+Deviram Royal Restaurant,Agra,"MG Road, Agra",4.0,₹500 for two,Multicuisine,50% off,False,False
+Berco’s,Agra,"Hotel Howard Plaza, Tajganj",4.0,₹1000 for two,"Tibetan, Thai Food, Chinese",25% Off :Payeazy,False,False
+The Grand Buffet,Agra,"Jaypee Palace Hotel, Agra",4.0,₹2500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Altitude Rooftop Restaurant & Lounge,Agra,"Shahganj, Agra, Agra",4.0,₹1000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Beep Gastropub 2.0,Agra,"Sikandra, Agra",3.3,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Hello Anna,Agra,"Guru Ka Taal, Agra",5.0,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Taj Bano,Agra,"ITC Mughal, Tajganj",4.5,₹3500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+North 27,Agra,"DoubleTree by Hilton Hotel Agra, Tajganj",4.3,₹2100 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Hangout Bar,Agra,"Bhawna Clarks Inn, Agra",4.6,₹1500 for two,"Finger Food, Cocktail Menu",Flat 30% + 25% with Bank Offers,False,False
+Qairo Rooftop Social Bar,Agra,"Fatehabad Road, Agra",4.0,₹1800 for two,Multicuisine,50% off,False,False
+Anise,Agra,Courtyard by Marriott Agra,4.0,₹2000 for two,Awadhi,Flat 15% + 25% with Bank Offers,False,False
+C'est Chine,Agra,"Jaypee Palace Hotel, Agra",5.0,₹300 for two,Chinese,Flat 30% + 25% with Bank Offers,False,False
+London Coffee Club,Agra,"Tajganj, Agra",4.0,₹1200 for two,"Italian, Turkish, Continental",Flat 15% + 25% with Bank Offers,False,False
+Fakira Club,Agra,"Bhawna Clarks Inn, Agra",4.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Chow’s Kitchen,Agra,"Kamla Nagar, Agra",4.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Karchi,Agra,"Kamla Nagar, Agra",4.0,₹600 for two,Multicuisine,25% Off :Payeazy,False,False
+Two Saints Bar and Kitchen,Agra,"Tajganj, Agra",3.7,₹1700 for two,Multicuisine,25% Off :Payeazy,False,False
+Taj Mahal Restaurant,Agra,"Tajganj, Agra",4.1,₹900 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Zeno Bistro Lounge By Raghu Mahal Hotel,Udaipur,"Raghu Mahal Hotel, Udaipur",4.1,₹2000 for two,"Multicuisine, Cocktail Menu",50% off,False,False
+Nyaaro,Udaipur,"Panchwati, Udaipur",5.0,₹800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Sun N Moon,Udaipur,"Pichola, Udaipur",4.6,₹1250 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Notomoro by Fern Residency,Udaipur,"The Fern Residency, Udaipur",4.0,₹1400 for two,"Cocktail Menu, Multicuisine",Flat 25% + 25% with Bank Offers,False,False
+Aura By Arihant,Udaipur,"Aura, Udaipur",4.3,₹1300 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Panna Vilas Restaurant & Lounge,Udaipur,"Rani Rd, Udaipur",4.6,₹900 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Roar Bistro & Lounge,Udaipur,"Pulla Bhuwana, Udaipur",4.0,₹1600 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Kale - A Modern Heritage Restaurant & Bar,Udaipur,"Ambamata, Udaipur",5.0,₹1200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Sangria : An Art Of Mixology,Udaipur,"Fateh Sagar, Udaipur",4.2,₹2300 for two,"Multicuisine, Tapas",Flat 50% + 25% with Bank Offers,False,False
+Soul Bistro & Lounge,Udaipur,"Haridas Ji Ki Magri, Udaipur",4.6,₹1200 for two,Multicuisine,50% off,False,False
+O'Brew,Udaipur,"Ambamata, Udaipur",4.9,₹650 for two,"Beverages, Continental",Flat 15% + 25% with Bank Offers,False,False
+Lemon Cafe N Lounge,Udaipur,"Hotel Mandiram Palace, Udaipur",4.7,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Taro Sky Bar,Udaipur,"Parallel Hotel, Udaipur",4.5,₹2500 for two,"Cocktail Menu, Multicuisine",Flat 20% + 25% with Bank Offers,False,False
+Mr. Sandwich,Udaipur,"Shakti Nagar, Udaipur",1.0,₹400 for two,Fast Food,Flat 15% + 25% with Bank Offers,False,False
+Urban Diaries,Udaipur,"Shakti Nagar, Udaipur",4.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Ruchivantam | Authentic South Indian Restaurant |,Udaipur,"Kharakua, Udaipur",5.0,₹500 for two,South Indian,Flat 10% + 25% with Bank Offers,False,False
+Inaara By Oriental Palace Resort,Udaipur,"Oriental Palace Resorts, Udaipur",5.0,₹1400 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Mathara - The Heights,Udaipur,"Lake City Mall, Ashok Nagar",3.7,₹1150 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+F3 Bar by Radisson,Udaipur,Radisson Udaipur,4.0,₹2200 for two,"Cocktail Menu, Multicuisine",50% off,False,False
+Royal Arabia,Udaipur,"Kharakua, Udaipur",3.7,₹1000 for two,"Arabian, Mughlai, North Indian",Flat 30% + 25% with Bank Offers,False,False
+Two Rabbits Gastropub,Udaipur,"Lake City Mall, Ashok Nagar",4.0,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+INOX,Udaipur,"Lake City Mall, Ashok Nagar",1.0,₹500 for two,Fast Food,25% Off :Payeazy,False,False
+Biryani By Kilo,Udaipur,"Subhash Nagar, Udaipur",2.0,₹1200 for two,Biryani,25% Off :Payeazy,False,False
+SAANJH By Historia Royal,Udaipur,"Hotel Historia Royal, Udaipur",3.0,₹1300 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Mandovin Restaurant,Udaipur,"B.N college, Udaipur",4.0,₹800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Sugarboo,Udaipur,"Hotel Historia Royal, Udaipur",4.0,₹800 for two,Bakery,Flat 25% + 25% with Bank Offers,False,False
+Z27 Cafe,Udaipur,"Shobhagpura, Udaipur",5.0,₹300 for two,"Bakery, Cafe",Flat 20% + 25% with Bank Offers,False,False
+Angara Bar,Udaipur,"Raghu Mahal Hotel, Udaipur",2.3,₹1000 for two,"Cocktail Menu, Multicuisine",50% off,False,False
+Flames Restaurant by Raghu Mahal Hotel,Udaipur,"Raghu Mahal Hotel, Udaipur",3.3,₹800 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Pracheen by Historia Royal,Udaipur,"Hotel Historia Royal, Udaipur",4.3,₹1250 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+The Mini Punjab,Udaipur,"Sikh Colony, Udaipur",4.0,₹600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Skyraa by Martini Bistro,Udaipur,"Shobhagpura, Udaipur",4.0,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+7 Dayz,Udaipur,"Hotel Varju Villa, Udaipur",4.0,₹600 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Vegetrainian - The Train Restaurant,Udaipur,"Panchwati, Udaipur",4.1,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Vana Restro & Lounge,Udaipur,"Champion Prime, Udaipur",4.0,₹800 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Aosa - Bakehouse & Roastery,Udaipur,"Panchwati, Udaipur",4.7,₹800 for two,Bakery,Flat 50% + 25% with Bank Offers,False,False
+Green Grotto Bistro,Udaipur,"Shobhagpura, Udaipur",5.0,₹600 for two,Multicuisine,50% off,False,False
+Hashtag Restro & Bar,Udaipur,"Pahada, Udaipur",4.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Balaji Pure Veg Restaurant,Udaipur,"Silawatwari, Udaipur",4.0,₹700 for two,Indian,Flat 15% + 25% with Bank Offers,False,False
+Parkview Heights,Udaipur,"Ashok Nagar, Udaipur, Udaipur",5.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Delhi Live Kitchen,Udaipur,"RK Circle, Udaipur",5.0,₹900 for two,Multicuisine,25% Off :Payeazy,False,False
+Craveo By Grandrosse,Udaipur,"Grandrosse - A Boutique Hotel, Udaipur",3.3,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Flavours By The Grand Continent,Udaipur,"Grand Continent Luxury Collection, Udaipur",4.0,₹1500 for two,"Indian, Continental",Flat 30% + 25% with Bank Offers,False,False
+Bottegaa Café & Patisserie,Udaipur,"New Fatehpura, Udaipur",4.8,₹1100 for two,"Cafe, Continental",Flat 20% + 25% with Bank Offers,False,False
+PlatterzZ,Udaipur,"GBH American Hospital, Udaipur",4.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Liquor Lounge Family Restaurant and Bar,Mangalore-Tricity,"Derebail, Mangalore",4.0,₹1000 for two,Multicuisine,50% off,False,False
+Kulture,Mangalore-Tricity,"Yeyyadi, Mangalore",4.0,₹600 for two,Multicuisine,25% Off :Payeazy,False,False
+Viraasat - The Heritage Fine Dine,Mangalore-Tricity,"Manipal Inn, Udupi",4.5,₹800 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Ginger House Family Restaurant,Mangalore-Tricity,"Kottara, Mangalore",4.5,₹790 for two,Indian,Flat 15% + 25% with Bank Offers,False,False
+Firefly Family Lounge & Bar,Mangalore-Tricity,"Manipal Inn, Udupi",4.8,₹850 for two,"Cocktail Menu, Multicuisine",Free Dessert + 25% Off,False,False
+The Curry Wok (TCW),Mangalore-Tricity,"Hampankatta, Mangalore",4.2,₹1000 for two,Italian,Flat 15% + 25% with Bank Offers,False,False
+Hotel Trishna Family Restaurant,Mangalore-Tricity,"Hotel Trishna, Mangalore",5.0,₹1000 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+The Asian Patio (TAP),Mangalore-Tricity,"Attavar, Mangalore",4.3,₹900 for two,Multicuisine,25% Off :Payeazy,False,False
+Uttam Punjabi Dhaba,Mangalore-Tricity,"Kottara, Mangalore",4.3,₹600 for two,North Indian,Flat 10% + 25% with Bank Offers,False,False
+Udupi Rasoi,Mangalore-Tricity,"Manipal Inn, Udupi",4.1,₹800 for two,Indian,50% off,False,False
+Naadu Restaurant,Mangalore-Tricity,"Ladyhill, Mangalore",4.6,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Swadisht Bar & Kitchen,Mangalore-Tricity,"Kankanady, Mangalore",4.0,₹400 for two,Multicuisine,25% Off :Payeazy,False,False
+Underground11 coffee bar,Mangalore-Tricity,"Yeyyadi, Mangalore",4.0,₹500 for two,Cafe,25% Off :Payeazy,False,False
+K9 Restro,Mangalore-Tricity,"Kadri, Mangalore",5.0,₹650 for two,"Chinese, Continental",Flat 10% + 25% with Bank Offers,False,False
+The Loft,Mangalore-Tricity,"The Avatar Hotel & Convention, Mangalore",4.4,₹800 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Macchi & More,Mangalore-Tricity,"Kottara, Mangalore",5.0,₹550 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Le Grande Multicuisine Restaurant,Mangalore-Tricity,"AJ Grand Elite Hotel, Mangalore",3.5,₹1000 for two,Multicuisine,Free Beverages + 25% Off,False,False
+Kaapi Tindi,Mangalore-Tricity,"Kadri, Mangalore",4.0,₹400 for two,"Fast Food, Beverages, South Indian",25% Off :Payeazy,False,False
+Basil Cafe,Mangalore-Tricity,"Kavoor, Mangalore",5.0,₹600 for two,Multicuisine,50% off,False,False
+Kni Hau,Mangalore-Tricity,Goldfinch Hotel Mangaluru,4.6,₹1400 for two,Chinese,25% Off :Payeazy,False,False
+Rajdhaani Bar & Restaurant,Mangalore-Tricity,"Kavoor, Mangalore",5.0,₹450 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Cafe Wrk Wrk,Mangalore-Tricity,"Yeyyadi, Mangalore",5.0,₹700 for two,Cafe,25% Off :Payeazy,False,False
+Hotel Rajdhani,Mangalore-Tricity,"Kavoor, Mangalore",2.0,₹500 for two,Multicuisine,25% Off :Payeazy,False,False
+Big Buddha Cafe,Mangalore-Tricity,"Konchady, Mangalore",4.0,₹800 for two,Cafe,Flat 10% + 25% with Bank Offers,False,False
+7th Heaven,Mangalore-Tricity,"Derebail, Mangalore",4.0,₹1000 for two,"Bakery, Cafe",25% Off :Payeazy,False,False
+Gufaa The Pub,Mangalore-Tricity,"Bejai, Mangalore",4.0,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+Qualitiz Cakes & Bakes,Mangalore-Tricity,"Kottara, Mangalore",4.0,₹200 for two,Bakery,25% Off :Payeazy,False,False
+Brownie Point Kavoor,Mangalore-Tricity,"Kavoor, Mangalore",4.0,₹500 for two,"Bakery, Cafe",50% off,False,False
+Hotel Samrat Inn,Mangalore-Tricity,"Kavoor, Mangalore",4.0,₹700 for two,Multicuisine,25% Off :Payeazy,False,False
+Taste Of Parika,Mangalore-Tricity,"Kapikad, Mangalore Tricity",4.0,₹500 for two,Multicuisine,25% Off :Payeazy,False,False
+Koyla Restaurant,Mangalore-Tricity,"Kavoor, Mangalore",4.0,₹600 for two,Multicuisine,25% Off :Payeazy,False,False
+Horse Ranch Cafe,Mangalore-Tricity,"Kadri, Mangalore",1.0,₹700 for two,Cafe,25% Off :Payeazy,False,False
+Sanadige,Mangalore-Tricity,"Balmatta, Mangalore",4.6,₹1200 for two,"Cocktail Menu, Multicuisine",Flat 10% + 25% with Bank Offers,False,False
+Ira - The Fresh Kitchen,Mangalore-Tricity,"Mangala Nagar, Mangalore",5.0,₹1000 for two,Italian,Flat 25% + 25% with Bank Offers,False,False
+Spindrift,Mangalore-Tricity,"Bharath Mall, Bejai",3.9,₹500 for two,Fast Food,Flat 10% + 25% with Bank Offers,False,False
+Rob's Kitchen & Bar,Mangalore-Tricity,"Vamanjoor, Mangalore",4.9,₹1600 for two,"Cocktail Menu, Multicuisine",25% Off :Payeazy,False,False
+Grub Monkey's,Mangalore-Tricity,"Bendoor, Mangalore",4.0,₹1000 for two,Fast Food,50% off,False,False
+Pallkhi Restaurant,Mangalore-Tricity,"Hampankatta, Mangalore",3.7,₹700 for two,Multicuisine,25% Off :Payeazy,False,False
+Tokyo Bistro,Mangalore-Tricity,"Bendoor, Mangalore",4.6,₹1000 for two,"Japanese, Sushi",Flat 10% + 25% with Bank Offers,False,False
+Sagar Ratna Restaurant,Mangalore-Tricity,"The Ocean Pearl, Mangalore",4.3,₹800 for two,South Indian,25% Off :Payeazy,False,False
+White Rock,Mangalore-Tricity,"Saibrakatte, Udupi",4.4,₹650 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Shetty Lunch Home,Mangalore-Tricity,"Balmatta, Mangalore",4.3,₹800 for two,Seafood,Flat 10% + 25% with Bank Offers,False,False
+Barbeque Nation,Mangalore-Tricity,Mangalore,4.7,₹1900 for two,"Multicuisine, Barbeque",Free Beverages + 25% Off,False,False
+Surabhi Rooftop Garden Restaurant,Mangalore-Tricity,"Bejai, Mangalore",4.0,₹800 for two,Multicuisine,Free Drinks + 25% Off,False,False
+Coral,Mangalore-Tricity,"The Ocean Pearl, Mangalore",5.0,₹1400 for two,Multicuisine,Free Beverages + 25% Off,False,False
+Lal Miri,Patna,"Bailey Road, Patna",4.3,₹600 for two,"Chinese, Indian",50% off,False,False
+Cafe Zodiac,Patna,"Kankarbagh, Patna",3.5,₹1000 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Afraa,Patna,"Lodipur, Patna",4.0,₹1200 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+The Sum Of Us,Patna,"Sri Krishna Puri, Patna",5.0,₹800 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Anandam Family Restaurant,Patna,"Fraser Road Area, Patna",4.0,₹600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Cafe Hideout,Patna,"Patliputra Colony, Patna",4.5,₹800 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+Paradise The Barbeque,Patna,"Kankarbagh, Patna",4.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Bikaner Elite,Patna,"Danapur, Patna",4.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Royal Jail Restro,Patna,"Kaliket Nagar, Patna",4.3,₹500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+The Fifth Avenue,Patna,"Lodipur, Patna",5.0,₹1000 for two,Italian,50% off,False,False
+Flavor Town,Patna,"Gola Road, Patna",4.9,₹700 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Karim's Ashiana- Digha,Patna,"Khajpura, Patna",3.9,₹400 for two,Mughlai,Flat 15% + 25% with Bank Offers,False,False
+Café Amaayra- A Multi-Cuisine Kitchen,Patna,"Khajpura, Patna",4.7,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Rasoi,Patna,"Mithapur, Patna",5.0,₹700 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+The Grind House,Patna,"Kankarbagh, Patna",3.5,₹1000 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+ONE - N - ONLY (RESTAURANT - CAFE - STREET FOOD),Patna,"Bankman Colony, Patna",4.0,₹800 for two,"Chinese, Indian, Continental",Flat 25% + 25% with Bank Offers,False,False
+Afra Tafri Cafe Restaurant,Patna,"Kidwaipuri, Patna",3.0,₹800 for two,"Indian, Chinese",Flat 15% + 25% with Bank Offers,False,False
+Ghoomar Traditional Thali,Patna,"Raja Bazarr, Patna",4.2,₹1400 for two,Rajasthani,Flat 20% + 25% with Bank Offers,False,False
+Moodlight Cafe,Patna,"Anandpuri, Patna",3.3,₹500 for two,"Multicuisine, Beverages",50% off,False,False
+Cafe Skylite (Rooftop Lounge),Patna,"Silkhouse Premier Hotel, Patna",4.2,₹1000 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Harilal's,Patna,"Sri Krishna Puri, Patna",5.0,₹400 for two,Indian,Flat 15% + 25% with Bank Offers,False,False
+Kake - Da - Hotel,Patna,"Danapur, Patna",4.2,₹700 for two,Multicuisine,25% Off :Payeazy,False,False
+Swaaddesh,Patna,"Boring Road, Patna",4.1,₹750 for two,Indian,Flat 15% + 25% with Bank Offers,False,False
+Dosa (by Dakshin) Chilli Cafe,Patna,"Kankarbagh, Patna",4.0,₹800 for two,"South Indian, Multicuisine",Flat 20% + 25% with Bank Offers,False,False
+Vasa Cafe & Lounge,Patna,"Boring Road, Patna",2.0,₹1000 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+Dine & Disc Restaurant,Patna,"Kidwaipuri, Patna",4.0,₹600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Bihari Baithak,Patna,"Kaliket Nagar, Patna",4.4,₹800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+The Atmos 3,Patna,"Sri Krishna Puri, Patna",4.0,₹1000 for two,Indian,50% off,False,False
+Craft Coffee,Patna,"Lodipur, Patna",4.9,₹700 for two,"Cafe, Fast Food",Flat 25% + 25% with Bank Offers,False,False
+Brewbites Cafe & Restaurant,Patna,"Kaliket Nagar, Patna",4.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Downtown Cafe,Patna,"Kankarbagh, Patna",3.5,₹600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Cafe the Cartel,Patna,"Lodipur, Patna",1.0,₹700 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+17 Degrees,Patna,P&M Mall,4.0,₹1200 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Infinity Cafe,Patna,"Lodipur, Patna",2.0,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+LIGHTHOUSE CAFE,Patna,"Lodipur, Patna",4.2,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Biryani by Kilo,Patna,Patna,4.5,₹700 for two,Biryani,Flat 15% + 25% with Bank Offers,False,False
+Barkaas,Patna,"Fraser Road Area, Patna",4.7,₹1000 for two,Arabian,50% off,False,False
+Fiesta By Barbeque Nation,Patna,"KP Mall, Patna",4.8,₹1600 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Namo Hotel,Patna,Patna,4.0,₹1000 for two,Multicuisine,25% Off :Payeazy,False,False
+Baithke Bihari Cafe,Patna,"Boring Road, Patna",4.0,₹1000 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Chilli Lime,Patna,"Bankman Colony, Patna",5.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Delhi Story,Patna,"City Centre Mall, Patna",4.0,₹800 for two,"Chinese, Italian, Continental",Flat 20% + 25% with Bank Offers,False,False
+Pind The Revolving,Patna,"Gandhi Maidan Rd, Patna",3.6,₹1000 for two,"Chinese, North Indian",Flat 15% + 25% with Bank Offers,False,False
+Dhaba Estd 1986 Delhi,Patna,"Kidwaipuri, Patna",2.0,₹1200 for two,North Indian,Flat 15% + 25% with Bank Offers,False,False
+Hotel President (Atithi Restaurant),Patna,"Lodipur, Patna",4.0,₹1000 for two,Indian,Flat 20% + 25% with Bank Offers,False,False
+DVG Benne Dosa,Vadodara,"Bhayli, Vadodara",4.5,₹800 for two,South Indian,50% off,False,False
+Cocco n Curry,Vadodara,"Bhayli, Vadodara",4.7,₹1000 for two,Multicuisine,25% Off :Payeazy,False,False
+The Glass House Restaurant,Vadodara,"Eastin Hotels Residences, Vadodara",3.8,₹1200 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Amaya,Vadodara,The Fern Residency Vadodara,4.2,₹1200 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Deckers,Vadodara,Sunday Hotel Vadodara,5.0,₹1600 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Myra,Vadodara,"Hotel Surya Ln, Vadodara",3.9,₹600 for two,Gujarati,Flat 25% + 25% with Bank Offers,False,False
+Vega,Vadodara,"Hotel Surya Ln, Vadodara",4.2,₹750 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Citrus Cafe,Vadodara,"Lemon Tree Hotel, Vadodara",4.0,₹1200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Just Rolls,Vadodara,"Sayajiganj, Vadodara",4.0,₹300 for two,Fast Food,Flat 25% + 25% with Bank Offers,False,False
+Kansaar Gujarati Thali,Vadodara,"Hotel Apex International, Vadodara",5.0,₹600 for two,Gujarati,50% off,False,False
+Parampara,Vadodara,"HOTEL YUVRAJ, Vadodara",3.0,₹1000 for two,North Indian,Flat 10% + 25% with Bank Offers,False,False
+Cinnamon,Vadodara,"Sayajiganj, Vadodara",4.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Arab Ino,Vadodara,"Sayajiganj, Vadodara",4.5,₹1500 for two,"Mughlai, Pasta",Flat 20% + 25% with Bank Offers,False,False
+Goodies,Vadodara,"Sayajiganj, Vadodara",5.0,₹600 for two,Cafe,Flat 15% + 25% with Bank Offers,False,False
+Pizza Nimos,Vadodara,"Sayajiganj, Vadodara",4.0,₹300 for two,Pizza,Flat 10% + 25% with Bank Offers,False,False
+Trippy Bakes,Vadodara,"Sayajiganj, Vadodara",4.0,₹650 for two,Bakery,Flat 10% + 25% with Bank Offers,False,False
+Cafe Local Patio,Vadodara,"Alkapuri, Vadodara",4.0,₹600 for two,Cafe,Flat 10% + 25% with Bank Offers,False,False
+Western Restaurant,Vadodara,"Sayajiganj, Vadodara",4.7,₹1400 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+PVR,Vadodara,"Ved Transcube Plaza, Vadodara",4.0,₹500 for two,Fast Food,50% off,False,False
+Teal Restaurant,Vadodara,"Fairfield by Marriott, Vadodara",3.5,₹1500 for two,"Indian, European",25% Off :Payeazy,False,False
+Zeste,Vadodara,"The Fern - An Ecotel Hotel, Akota Vadodara",4.6,₹1000 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+The Cravings,Vadodara,"Sayaji Hotel, Vadodara",3.0,₹1000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Tru Kitchen,Vadodara,"Akota, Vadodara",3.9,₹800 for two,"Fusion, Modern Indian",Flat 10% + 25% with Bank Offers,False,False
+The House of Makeba,Vadodara,"Alkapuri, Vadodara",4.3,₹1400 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+The Chocolate Room,Vadodara,"Fatehgunj, Vadodara",4.6,₹500 for two,"Bakery, Desserts",Flat 20% + 25% with Bank Offers,False,False
+Kala Ghoda Restaurant,Vadodara,"Effotel By Sayaji, Vadodara",4.5,₹1000 for two,Indian,Flat 35% + 25% with Bank Offers,False,False
+Pizzawala's,Vadodara,"Sayajiganj, Vadodara",4.7,₹800 for two,Pizza,Flat 10% + 25% with Bank Offers,False,False
+1944 The Hocco Kitchen,Vadodara,"Sayajiganj, Vadodara",4.0,₹600 for two,Continental,50% off,False,False
+Kebabsville,Vadodara,"Sayaji Hotel, Vadodara",3.9,₹2000 for two,"Multicuisine, Barbeque",Flat 20% + 25% with Bank Offers,False,False
+Best Western,Vadodara,"Alkapuri, Vadodara",3.0,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Tandoor Junction,Vadodara,"Sayajiganj, Vadodara",4.0,₹500 for two,"Biryani, North Indian",Flat 50% + 25% with Bank Offers,False,False
+Fat Stoned Pizzeria,Vadodara,"Sayajiganj, Vadodara",4.0,₹1100 for two,Pizza,Flat 20% + 25% with Bank Offers,False,False
+In & Out Burgers,Vadodara,"Sayajiganj, Vadodara",4.0,₹300 for two,Burgers,Flat 20% + 25% with Bank Offers,False,False
+Burger me up,Vadodara,"Sayajiganj, Vadodara",4.0,₹250 for two,Burgers,Flat 20% + 25% with Bank Offers,False,False
+Momentt,Vadodara,"Enrise By Sayaji, Vadodara",4.0,₹1400 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+Ustad Miyaan,Vadodara,"Alkapuri, Vadodara",5.0,₹1000 for two,"Mughlai, North Indian",Flat 25% + 25% with Bank Offers,False,False
+The China Wok,Vadodara,"Sayajiganj, Vadodara",1.0,₹300 for two,Chinese,50% off,False,False
+Dilly's Veg Kitchen,Vadodara,"Gotri, Vadodara",4.7,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Morsel,Vadodara,"Race Course Rd, Vadodara",4.4,₹1000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Just Got Baked,Vadodara,"Sayajiganj, Vadodara",4.0,₹500 for two,Desserts,Flat 25% + 25% with Bank Offers,False,False
+Smash It Up - Smashed Burgers,Vadodara,"Sayajiganj, Vadodara",4.0,₹500 for two,Fast Food,Flat 10% + 25% with Bank Offers,False,False
+The Classic Kitchen,Vadodara,"Sayajiganj, Vadodara",4.0,₹500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Matka Biryani,Vadodara,"Sayajiganj, Vadodara",4.0,₹500 for two,Biryani,Flat 10% + 25% with Bank Offers,False,False
+Hocco eatery,Vadodara,"Sayajiganj, Vadodara",4.0,₹800 for two,Fast Food,Flat 10% + 25% with Bank Offers,False,False
+Hotel President Mezban,Vadodara,"President Hotel, Vadodara",4.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Fisherman's Wharf,Mysuru,"Krishnamurthy Puram, Mysuru",3.8,₹2500 for two,"Cocktail Menu, Finger Food",50% off,False,False
+Zoca - Veg Restaurant.,Mysuru,"Lakshmipuram, Mysuru",5.0,₹700 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Tashan,Mysuru,"Kuvempunagar , Mysuru",4.5,₹800 for two,North Indian,Flat 10% + 25% with Bank Offers,False,False
+Pankhii Veg Restaurant,Mysuru,"Lakshmipuram, Mysuru",4.9,₹800 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Amber,Mysuru,"Lakshmipuram, Mysuru",5.0,₹2500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Turmeric Kitchen,Mysuru,"Hotel Airlines, Mysuru",4.2,₹800 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+Heritage Hashtag Cafe,Mysuru,"Lakshmipuram, Mysuru",5.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Glass house,Mysuru,"Lakshmipuram, Mysuru",4.0,₹500 for two,"Finger Food, Ice Cream",Flat 10% + 25% with Bank Offers,False,False
+The Wadeyar's Cafe,Mysuru,"Kuvempunagar , Mysuru",4.0,₹300 for two,Cafe,Flat 10% + 25% with Bank Offers,False,False
+Hari Govindas,Mysuru,"Chamrajpura, Mysuru",5.0,₹600 for two,Indian,50% off,False,False
+The Firangi Sutra,Mysuru,"Vinayakanagara, Mysuru",4.8,₹600 for two,"Cafe, Fast Food",25% Off :Payeazy,False,False
+Salt Restaurant,Mysuru,"Lakshmipuram, Mysuru",5.0,₹800 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Sitara Cafe,Mysuru,"Lakshmipuram, Mysuru",4.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Poojari Fishland,Mysuru,"KR Mohalla, Mysuru",4.0,₹800 for two,Mangalorean,Flat 10% + 25% with Bank Offers,False,False
+Infinit Rooftop Restaurant,Mysuru,"Doora, Mysuru",4.0,₹500 for two,Multicuisine,25% Off :Payeazy,False,False
+Be cafe,Mysuru,"Saraswathipuram, Mysuru",4.0,₹600 for two,Fast Food,Flat 25% + 25% with Bank Offers,False,False
+The Tiffany's House,Mysuru,"Saraswathipuram, Mysuru",4.0,₹600 for two,Fast Food,Flat 10% + 25% with Bank Offers,False,False
+Zest,Mysuru,"Kajjihundi, Mysore",3.2,₹2500 for two,Multicuisine,25% Off :Payeazy,False,False
+Keralapura Military Hotel,Mysuru,"K.G Koppal, Mysuru",4.0,₹500 for two,"Kerala, South Indian",50% off,False,False
+Cafe De Aroma,Mysuru,"Kuvempunagar , Mysuru",4.0,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+Hotel Chakravarthy,Mysuru,"Chamrajpura, Mysuru",4.0,₹500 for two,Indian,25% Off :Payeazy,False,False
+Havana,Mysuru,"Saraswathipuram, Mysuru",4.6,₹700 for two,Multicuisine,25% Off :Payeazy,False,False
+Javaji Mixx,Mysuru,"Regenta Central Javaji, Mysuru",3.4,₹1500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Aire,Mysuru,"Regenta Central Javaji, Mysuru",5.0,₹2500 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Aaina,Mysuru,"Bimba Hotels, Mysuru",4.7,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+High Tea - Royal Orchid Metropole,Mysuru,"Royal Orchid Metropole, Mysore",4.0,₹900 for two,Cafe,Flat 10% + 25% with Bank Offers,False,False
+Barista Coffee,Mysuru,"Jayalakshmipuram, Mysuru",4.0,₹500 for two,Cafe,Flat 25% + 25% with Bank Offers,False,False
+Highpark Revolving Restaurant,Mysuru,"Chamrajpura, Mysuru",4.8,₹1000 for two,Multicuisine,50% off,False,False
+Verve,Mysuru,"Regenta Central Javaji, Mysuru",4.7,₹2500 for two,Multicuisine,25% Off :Payeazy,False,False
+Gufha,Mysuru,"Doora, Mysuru",4.0,₹2500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Kudla Fish Land,Mysuru,"Chamrajpura, Mysuru",5.0,₹2500 for two,"Continental, American",25% Off :Payeazy,False,False
+W Coffee Kitchen & Patisseries,Mysuru,"Yadavgiri, Mysore",5.0,₹800 for two,"Bakery, Cafe",Flat 25% + 25% with Bank Offers,False,False
+Uchiha,Mysuru,"Kuvempunagar , Mysuru",5.0,₹1000 for two,"Indian, Pan Asian",25% Off :Payeazy,False,False
+Beer Tapper By Toms,Mysuru,"Gangothri Layout, Mysuru",1.0,₹600 for two,"Finger Food, Cocktail Menu",Flat 10% + 25% with Bank Offers,False,False
+Shikari Bar-Be-Que,Mysuru,"Royal Orchid Metropole, Mysore",4.0,₹3000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Haveli,Mysuru,"Chamrajpura, Mysuru",4.5,₹1000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+The Cafe,Mysuru,"The Quorum Hotel, Mysuru",4.3,₹2500 for two,Multicuisine,50% off,False,False
+Andhara Ruchulu,Mysuru,"Bangalore Nilgiri Road, Mysuru",4.3,₹2500 for two,Andhra,Flat 25% + 25% with Bank Offers,False,False
+Tiger Trail,Mysuru,"Royal Orchid Metropole, Mysore",2.9,₹3000 for two,Multicuisine,25% Off :Payeazy,False,False
+Kapoor's Cafe,Mysuru,"Jayalakshmipuram, Mysuru",4.0,₹600 for two,North Indian,Flat 25% + 25% with Bank Offers,False,False
+Soko By House Of Commons,Mysuru,"JC Nagar, Mysuru",3.0,₹1500 for two,Multicuisine,Free Beverages + 25% Off,False,False
+Sattvik - Rooftop Cafe,Mysuru,"KR Mohalla, Mysuru",5.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Moon Hub,Mysuru,"Kukkarahalli Lake, Mysuru",4.0,₹800 for two,Chinese,25% Off :Payeazy,False,False
+Lounge Bar,Mysuru,Southern Star Mysore,4.0,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Indian Curry House,Mysuru,"Chamrajpura, Mysuru",5.0,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Hooch - The House Of Cocktails,Amritsar,"Ranjit Avenue, Amritsar",4.0,₹1000 for two,Multicuisine,50% off,False,False
+Ranjit's,Amritsar,"Hotel Ritz Plaza, Amritsar",4.0,₹1300 for two,Multicuisine,Flat 45% + 25% with Bank Offers,False,False
+Crystal  Restaurant Plaza,Amritsar,"INA Colony,, Amritsar",2.5,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Polaris,Amritsar,"Hotel Ritz Plaza, Amritsar",4.0,₹1400 for two,"Finger Food, Cocktail Menu",Flat 30% + 25% with Bank Offers,False,False
+Golden Gate By Kumars,Amritsar,"Hotel Kumar elite, Amritsar",5.0,₹600 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+365 - All Day Dining,Amritsar,Sarovar Premiere Amritsar,4.0,₹2000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Krsko,Amritsar,"White Avenue, Amritsar",5.0,₹1200 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+Tikka Trail,Amritsar,"TreeHouse Stamp, Amritsar",4.0,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Housewood Villas,Amritsar,"Ranjit Avenue, Amritsar",5.0,₹2000 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Kava Grill & Lounge,Amritsar,"Fairfield by Marriott, Amritsar",4.0,₹1200 for two,Multicuisine,50% off,False,False
+The Muse,Amritsar,"The Earth Amritsar - Trademark Collection By Wyndham, Amritsar",4.0,₹2200 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+The Lutyens,Amritsar,"The Earth Amritsar - Trademark Collection By Wyndham, Amritsar",3.0,₹1400 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Chef's Theory,Amritsar,"White Avenue, Amritsar",4.3,₹1500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+BHK- Brick House Kitchen,Amritsar,"Ranjit Avenue, Amritsar",3.0,₹800 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Sanjha Chulha,Amritsar,"Lawrence Road, Amritsar",4.5,₹1000 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+Amritsari Haveli,Amritsar,"Ranjit Avenue, Amritsar",3.2,₹1400 for two,"North Indian, Punjabi",Flat 10% + 25% with Bank Offers,False,False
+Oak Bar,Amritsar,Four Points by Sheraton Amritsar,4.0,₹3000 for two,"Finger Food, Cocktail Menu",Flat 40% + 25% with Bank Offers,False,False
+Vooom Gaming Zone,Amritsar,"Mall Road, Amritsar",4.0,₹700 for two,Fast Food,Flat 10% + 25% with Bank Offers,False,False
+Pardeco Coffee Roasters,Amritsar,"Ranjit Avenue, Amritsar",4.0,₹500 for two,Cafe,50% off,False,False
+Tan Chi,Amritsar,Four Points by Sheraton Amritsar,4.0,₹2500 for two,Pan Asian,Flat 15% + 25% with Bank Offers,False,False
+Lobby Lounge - Four Points By Sheraton,Amritsar,Four Points by Sheraton Amritsar,4.0,₹1500 for two,Cafe,Flat 10% + 25% with Bank Offers,False,False
+Oasis Baklawa,Amritsar,"Mall Road, Amritsar",4.0,₹300 for two,Desserts,Flat 50% + 25% with Bank Offers,False,False
+Zoreko,Amritsar,"Lawrence Road, Amritsar",4.4,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+EatAsia,Amritsar,"Ranjit Avenue, Amritsar",5.0,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Nectar By HK Clarks Inn,Amritsar,"Ranjit Avenue, Amritsar",4.0,₹1500 for two,"Cocktail Menu, Finger Food",Flat 10% + 25% with Bank Offers,False,False
+Bratty's,Amritsar,"Lawrence Road, Amritsar",5.0,₹600 for two,Fast Food,Flat 30% + 25% with Bank Offers,False,False
+Kitchen 1574,Amritsar,Four Points by Sheraton Amritsar,4.0,₹2000 for two,"Continental, Asian, Indian",Flat 10% + 25% with Bank Offers,False,False
+Sky Rooftop,Amritsar,"Quality Inn Elite, Amritsar",4.0,₹1000 for two,Multicuisine,50% off,False,False
+Cafe Blusalzz,Amritsar,"BluSalzz Residence Amritsar, Amritsar",5.0,₹1800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Kake Da Hotel,Amritsar,"Ranjit Avenue, Amritsar",4.0,₹1000 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Barista Coffee,Amritsar,"Summer Palace, Amritsar",4.0,₹500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+SGF- Tree House Stamp,Amritsar,"TreeHouse Stamp, Amritsar",4.0,₹800 for two,Fast Food,25% Off :Payeazy,False,False
+Shosha - Sarovar Portico,Amritsar,"Golden Sarovar Portico, Amritsar",5.0,₹1200 for two,Multicuisine,25% Off :Payeazy,False,False
+Mabels,Amritsar,"Ranjit Avenue, Amritsar",4.8,₹1500 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Olive 97,Amritsar,"Ranjit Avenue, Amritsar",3.8,₹1200 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Taal,Amritsar,"M K Hotel, Amritsar",1.0,₹1900 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+True Blend Modern Coffee,Amritsar,"Ranjit Avenue, Amritsar",4.0,₹1000 for two,Cafe,50% off,False,False
+The Machhiwala,Amritsar,"Green Avenue, Amritsar",5.0,₹1400 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Soho - Best Western Merrion,Amritsar,"Best Western Merrion, Amritsar",4.0,₹1400 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+TGI Friday's,Amritsar,"Ranjit Avenue, Amritsar",5.0,₹1500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Blink,Amritsar,"Ranjit Avenue, Amritsar",3.8,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Coffee in Hand,Amritsar,"Ranjit Avenue, Amritsar",4.0,₹800 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Tepah By The Bagh,Amritsar,"Ranjit Avenue, Amritsar",4.0,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Diago | Roof Top Restaurant and Bar,Amritsar,"Ranjit Avenue, Amritsar",5.0,₹1700 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Dynasty,Amritsar,"M K Hotel, Amritsar",4.0,₹1900 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Latest Recipe,Kochi,"Le Meridien, Kochi",4.8,₹2000 for two,Multicuisine,50% off,False,False
+Kochi Kitchen,Kochi,"Marriott, Kochi",4.3,₹1900 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Punjab Grill,Kochi,"Forum mall, Kochi",4.7,₹1400 for two,North Indian,Flat 35% + 25% with Bank Offers,False,False
+Lila's Kitchen,Kochi,"Port Muziris, a Tribute Portfolio Hotel, Kochi",4.0,₹1500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Kyra,Kochi,"Vennala, Kochi",4.0,₹2000 for two,"Greek, Persian, Turkish",Flat 30% + 25% with Bank Offers,False,False
+Mosaic,Kochi,"Crowne Plaza, Kochi",4.3,₹1450 for two,Multicuisine,25% Off :Payeazy,False,False
+Roastown Global Grill,Kochi,"Edappally, Kochi",4.4,₹1000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+You Mee,Kochi,"Forum mall, Kochi",4.6,₹1500 for two,Pan Asian,Flat 10% + 25% with Bank Offers,False,False
+Cassava,Kochi,"Marriott, Kochi",3.8,₹2000 for two,"South Indian, Kerala",Flat 15% + 25% with Bank Offers,False,False
+Malabar Cafe,Kochi,Grand Hyatt Kochi Bolgatty,4.7,₹2400 for two,Kerala,50% off,False,False
+Thai Soul,Kochi,Grand Hyatt Kochi Bolgatty,4.7,₹2200 for two,Thai,Flat 20% + 25% with Bank Offers,False,False
+Artiste The Restaurant by Marriott Bonvoy,Kochi,"The Artiste, Kochi",4.0,₹1800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+The square,Kochi,"Novotel Kochi Infopark, Kakkanad",2.0,₹2500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+The Eatery,Kochi,"Four Points by Sheraton, Kochi",4.6,₹1600 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Masala,Kochi,"Holiday Inn Cochin, Kochi",4.3,₹2500 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Hoy Momo,Kochi,"Edappally, Kochi",3.6,₹700 for two,Asian,Flat 25% + 25% with Bank Offers,False,False
+All Spice,Kochi,"Four Points by Sheraton, Kochi",4.5,₹2000 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Chopstix,Kochi,"Kakkanad, Kochi",4.6,₹700 for two,Pan Asian,Flat 30% + 25% with Bank Offers,False,False
+Caper,Kochi,"Four Points by Sheraton, Kochi",4.0,₹2600 for two,Finger Food,50% off,False,False
+Keshia,Kochi,Radisson Blu Kochi,4.4,₹1500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Big Mouth BBQ & Grill,Kochi,"Kakkanad, Kochi",4.7,₹1000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+The Pavilion,Kochi,The Renai Cochin,4.2,₹1300 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Grillax,Kochi,"Perumbavoor, Kochi",5.0,₹600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Ceylon Bake House,Kochi,"Ernakulam South, Kochi",5.0,₹1000 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+Ciao Cochin,Kochi,"Holiday Inn Cochin, Kochi",4.4,₹1500 for two,Italian,Flat 10% + 25% with Bank Offers,False,False
+Nagas,Kochi,"Kakkanad, Kochi",4.0,₹1000 for two,"Andhra, Hyderabadi",Flat 25% + 25% with Bank Offers,False,False
+Hoy Punjab,Kochi,"Edappally, Kochi",4.3,₹1300 for two,North Indian,Flat 25% + 25% with Bank Offers,False,False
+Dindigul Thalappakatti,Kochi,"Kalamassery, Kochi",5.0,₹950 for two,Biryani,50% off,False,False
+Kubaba Kuzhimandhi,Kochi,"Edappally, Kochi",4.3,₹900 for two,"Mandi, Arabian",25% Off :Payeazy,False,False
+East India Street Café,Kochi,"Panampilly Nagar, Kochi",4.0,₹600 for two,Western,25% Off :Payeazy,False,False
+Areena Bar,Kochi,"Olive Downtown, Kochi",4.0,₹1000 for two,Finger Food,Flat 10% + 25% with Bank Offers,False,False
+Pandhal Cafe & Deli,Kochi,"Fort, Kochi",4.5,₹800 for two,Bakery,Flat 20% + 25% with Bank Offers,False,False
+Cafe Moon By Sol Kitchen,Kochi,"Vyttila, Kochi",5.0,₹500 for two,Multicuisine,Free Beverages + 25% Off,False,False
+The Oven,Kochi,"Durbar Hall Road, Ernakulam, Kochi",4.8,₹600 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Let's Dine Riverview,Kochi,"Kakkanad, Kochi",4.5,₹900 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Bektash,Kochi,Nettoor,4.3,₹400 for two,Arabian,25% Off :Payeazy,False,False
+Aah,Kochi,The Postcard Mandalay Hall,4.0,₹1800 for two,Kerala,50% off,False,False
+Noorjehan Multi-Cuisine Restaurant,Kochi,"Aluva, Kochi",4.6,₹1000 for two,Multicuisine,25% Off :Payeazy,False,False
+Talk of the Town,Kochi,"Palarivattom, Kochi",4.0,₹550 for two,Multicuisine,25% Off :Payeazy,False,False
+Chopstix Signature,Kochi,"Panampilly Nagar, Kochi",4.5,₹700 for two,"Thai, Chinese",Flat 15% + 25% with Bank Offers,False,False
+Kannimango,Kochi,"Kadavanthra, Kochi",3.5,₹900 for two,Kerala,Flat 10% + 25% with Bank Offers,False,False
+Al Taza,Kochi,"Edappally, Kochi",4.7,₹400 for two,Lebanese,Flat 25% + 25% with Bank Offers,False,False
+Pavillion Restaurant By Abad Fort,Kochi,"Hotel Abad Fort, Kochi",4.0,₹1000 for two,Multicuisine,25% Off :Payeazy,False,False
+The Muze - The rooftop pool bar by Port Muziris,Kochi,"Port Muziris, a Tribute Portfolio Hotel, Kochi",4.0,₹1500 for two,"Finger Food, Cocktail Menu",Flat 15% + 25% with Bank Offers,False,False
+Spice It,Kochi,"ibis Kochi City Centre, Kochi",3.7,₹2478 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Aqua,Bhubaneswar,"Hotel Swosti, Bhubaneswar",4.7,₹1200 for two,"North Indian, Seafood, Continental",50% off,False,False
+Terra Rosso,Bhubaneswar,"Kharvela Nagar, Bhubaneswar",5.0,₹1100 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+BOCCA CAFE,Bhubaneswar,"Kharvela Nagar, Bhubaneswar",4.5,₹600 for two,"Beverages, Cafe, Coffee and Tea",25% Off :Payeazy,False,False
+Wow! Momo,Bhubaneswar,"Master Canteen Area, Bhubaneswar",4.7,₹400 for two,Momos,25% Off :Payeazy,False,False
+Oceana,Bhubaneswar,"Hotel Swosti, Bhubaneswar",3.0,₹1200 for two,"Chinese, Finger Food, North Indian",Flat 15% + 25% with Bank Offers,False,False
+Brown n Cream,Bhubaneswar,"Hotel Swosti, Bhubaneswar",5.0,₹400 for two,Bakery,Flat 10% + 25% with Bank Offers,False,False
+Galleria,Bhubaneswar,"Hotel Swosti, Bhubaneswar",4.0,₹1600 for two,Multicuisine,25% Off :Payeazy,False,False
+Cafe Sundowner,Bhubaneswar,"Laxmisagar, Bhubaneswar",4.0,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+Xcuse Bar,Bhubaneswar,"Mango Hotels–Prangan, Bhubaneswar",3.9,₹1800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Beyrut Classy Dine,Bhubaneswar,"Kharvela Nagar, Bhubaneswar",4.6,₹800 for two,Lebanese,50% off,False,False
+Narula's Restaurant,Bhubaneswar,"Hotel Basera,Ashok Nagar,Bhubaneswar",5.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Bar Bliss,Bhubaneswar,"The Adventure Luxury Hotels, Bhubaneswar",5.0,₹1700 for two,"North Indian, Cocktail Menu, Desserts",Flat 15% + 25% with Bank Offers,False,False
+Green garden,Bhubaneswar,"The Adventure Luxury Hotels, Bhubaneswar",5.0,₹1600 for two,"Cocktail Menu, Multicuisine",Flat 20% + 25% with Bank Offers,False,False
+Curry Bowl,Bhubaneswar,"The Adventure Luxury Hotels, Bhubaneswar",4.0,₹1800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Pulp Cafe,Bhubaneswar,"Hotel Orange, Laxmisagar",4.0,₹1300 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Enigma - The Club Culture (HHI),Bhubaneswar,"Janpath Road, Bhubaneswar",4.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Sip & Bite Restaurant,Bhubaneswar,"Hotel Miland Palace, Bhubaneswar",4.0,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Chili's Grill & Bar,Bhubaneswar,"Rasulgarh, Bhubaneswar",4.6,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Punjab Grill,Bhubaneswar,"Esplanade One Mall, Rasulgarh",4.5,₹1100 for two,North Indian,50% off,False,False
+Adda Unplugged,Bhubaneswar,"Satya Nagar, Bhubaneswar",4.0,₹900 for two,Cafe,Flat 20% + 25% with Bank Offers,False,False
+Mad Over Brownie,Bhubaneswar,"Kharvela Nagar, Bhubaneswar",4.0,₹600 for two,Cafe,Flat 20% + 25% with Bank Offers,False,False
+Confetti,Bhubaneswar,"Hotel New Marrion, Bhubaneswar",4.0,₹500 for two,Bakery,25% Off :Payeazy,False,False
+Narula's Bakery,Bhubaneswar,"Hotel Basera,Ashok Nagar,Bhubaneswar",4.0,₹400 for two,Bakery,25% Off :Payeazy,False,False
+Raasta,Bhubaneswar,"Laxmisagar, Bhubaneswar",3.5,₹1500 for two,Multicuisine,25% Off :Payeazy,False,False
+Escalate Club & Lounge,Bhubaneswar,"Hotel Sun Green, Bhubaneswar",5.0,₹2100 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Saami,Bhubaneswar,"Madhusudan Nagar, Bhubaneswar",4.1,₹1600 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+Silver Streak Premium,Bhubaneswar,"Shaheed Nagar, Bhubaneswar",4.9,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Dil-E-Mughlai,Bhubaneswar,"Khandagiri, Bhubaneswar",4.4,₹800 for two,"Chinese, Mughlai, North Indian",50% off,False,False
+STARLIT - LOUNGE BAR & RESTAURANT,Bhubaneswar,"Satya Nagar, Bhubaneswar",5.0,₹1000 for two,Cocktail Menu,Flat 20% + 25% with Bank Offers,False,False
+VOX POP 2.0,Bhubaneswar,"Shaheed Nagar, Bhubaneswar",4.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+OOPRE - Kitchen & Bar,Bhubaneswar,"Chandrasekharpur, Bhubaneswar",3.0,₹1200 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Civilians,Bhubaneswar,"Satya Nagar, Bhubaneswar",4.3,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Dyaus Court,Bhubaneswar,"Infocity Avenue, Bhubaneswar",4.0,₹900 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+KEGS AND BARRELS BREWING CO.,Bhubaneswar,"Patia, Bhubaneswar",4.0,₹1500 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+9th Street,Bhubaneswar,"UNIT- 9, Bhubaneswar",4.5,₹700 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Aawhan Restaurant,Bhubaneswar,"Laxmisagar, Bhubaneswar",2.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+#BBi Booze Buzz Inhouse,Bhubaneswar,"Chandrasekharpur, Bhubaneswar",4.6,₹1200 for two,Multicuisine,50% off,False,False
+CAFE 16,Bhubaneswar,"Satya Nagar, Bhubaneswar",4.7,₹800 for two,Cafe,Flat 20% + 25% with Bank Offers,False,False
+Sweet Basil,Bhubaneswar,"Lyfe Hotel, Bhubaneswar",4.3,₹1800 for two,Pan Asian,25% Off :Payeazy,False,False
+Aqua Bar & Pool Lounge,Bhubaneswar,"Satya Nagar, Bhubaneswar",5.0,₹1200 for two,Multicuisine,25% Off :Payeazy,False,False
+Blinkk,Bhubaneswar,"Patia, Bhubaneswar",4.0,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Adda Cafe,Bhubaneswar,"Khandagiri, Bhubaneswar",4.7,₹900 for two,Cafe,Flat 10% + 25% with Bank Offers,False,False
+Lyfe Kitchen,Bhubaneswar,"Lyfe Hotel, Bhubaneswar",3.9,₹1600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Mojo Bar,Bhubaneswar,"Lyfe Hotel, Bhubaneswar",4.0,₹1800 for two,Cocktail Menu,25% Off :Payeazy,False,False
+Slounge,Bhubaneswar,"Lemon Tree Premier, Bhubaneswar",4.8,₹2500 for two,"Finger Food, Cocktail Menu",25% Off :Payeazy,False,False
+Zero Degrees,Coimbatore,"Gokulam Park, Coimbatore",4.0,₹1400 for two,Casual Eclectic,50% off,False,False
+24x7 Bytes,Coimbatore,"Gokulam Park, Coimbatore",4.0,₹1200 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Hyyper Permit Room Bar,Coimbatore,"Hotel Kiscol Grands, Coimbatore",4.0,₹1000 for two,"Finger Food, Cocktail Menu",Flat 20% + 25% with Bank Offers,False,False
+Sazz Kitchen And Lounge,Coimbatore,"Ukkadam, Coimbatore",4.2,₹800 for two,Mexican,Extra 200 EazyPoints + 25% Off,False,False
+Warehouse Bar & Kitchen,Coimbatore,"Kalapatti, Coimbatore",4.3,₹1200 for two,Multicuisine,25% Off :Payeazy,False,False
+Neydhal The Coast,Coimbatore,"Avinashi Road, Coimbatore",4.0,₹1000 for two,"Seafood, South Indian",Flat 10% + 25% with Bank Offers,False,False
+The living Room,Coimbatore,"Peelamedu, Coimbatore",4.4,₹1200 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Little Soi,Coimbatore,"Pudur, Coimbatore",4.7,₹900 for two,Pan Asian,Flat 10% + 25% with Bank Offers,False,False
+Ammani Mess,Coimbatore,"Avinashi Road, Coimbatore",4.0,₹1200 for two,Multicuisine,25% Off :Payeazy,False,False
+Cream Centre  - Vegetarian Legacy Since 1958,Coimbatore,"Race Course, Coimbatore",4.8,₹1000 for two,Multicuisine,50% off,False,False
+Barbeque Nation,Coimbatore,Coimbatore,4.7,₹2000 for two,"Multicuisine, Barbeque",Free Beverages + 25% Off,False,False
+China Valley,Coimbatore,"Sungam, Coimbatore",4.0,₹800 for two,Chinese,25% Off :Payeazy,False,False
+Ninhao Chinese Restaurant,Coimbatore,"Saibaba Colony, Coimbatore",4.5,₹800 for two,"Chinese, Fast Food",Flat 15% + 25% with Bank Offers,False,False
+AB's - Absolute Barbecues,Coimbatore,Coimbatore,4.3,₹1850 for two,"Multicuisine, Barbeque",Flat 15% + 25% with Bank Offers,False,False
+On The Rocks Restobar,Coimbatore,"Vilankurichi, Coimbatore",5.0,₹950 for two,"Finger Food, Cocktail Menu",25% Off :Payeazy,False,False
+Rasanai,Coimbatore,"Pappanaickenpalayam, Coimbatore",4.5,₹800 for two,South Indian,Flat 20% + 25% with Bank Offers,False,False
+Lord of The Drinks,Coimbatore,"Peelamedu, Coimbatore",3.9,₹1500 for two,Multicuisine,25% Off :Payeazy,False,False
+The Crimson by Broadway,Coimbatore,"Indira Nagar, Coimbatore, Coimbatore",5.0,₹1000 for two,"Italian, South Indian",Flat 10% + 25% with Bank Offers,False,False
+Chives,Coimbatore,"Siddhapudur, Coimbatore",4.9,₹1000 for two,Multicuisine,50% off,False,False
+The Great Kebab Factory,Coimbatore,"Peelamedu, Coimbatore",4.0,₹1500 for two,Indian,25% Off :Payeazy,False,False
+Spice It,Coimbatore,"Ibis Coimbatore City Centre, Coimbatore",3.5,₹950 for two,"Cocktail Menu, Multicuisine",Flat 20% + 25% with Bank Offers,False,False
+Beyond The Stories Bistro & Bar,Coimbatore,"Saibaba Colony, Coimbatore",4.3,₹1500 for two,"Finger Food, Cocktail Menu",Flat 50% + 25% with Bank Offers,False,False
+Tapriwala - The Contemporary Tea Cafe,Coimbatore,"Saibaba Colony, Coimbatore",4.5,₹400 for two,"Fast Food, Multicuisine",Flat 10% + 25% with Bank Offers,False,False
+Seasons,Coimbatore,Radisson Blu Coimbatore,4.1,₹2000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Hide in Heaven,Coimbatore,"Saravanampatti, Coimbatore",4.6,₹1500 for two,"Finger Food, Cocktail Menu",Flat 20% + 25% with Bank Offers,False,False
+Wah Wah,Coimbatore,"Saibaba Colony, Coimbatore",5.0,₹1000 for two,Asian,Flat 25% + 25% with Bank Offers,False,False
+MUFASA COIMBATORE,Coimbatore,"Avinashi Road, Coimbatore",4.1,₹1000 for two,Multicuisine,25% Off :Payeazy,False,False
+The bermuda- A Cocktail Commune,Coimbatore,"R.S. Puram, Coimbatore",4.0,₹1200 for two,Indian,50% off,False,False
+Vap Club,Coimbatore,"Pappanaickenpalayam, Coimbatore",4.0,₹1200 for two,"Finger Food, Cocktail Menu",Flat 25% + 25% with Bank Offers,False,False
+Latest Recipe,Coimbatore,Le Méridien Coimbatore,4.1,₹2000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Big Ben Bar,Coimbatore,"Gandhipuram, Coimbatore",4.0,₹1000 for two,Indian,Flat 15% + 25% with Bank Offers,False,False
+Welcomcafe Kovai,Coimbatore,"Welcomhotel By ITC Hotels, Coimbatore",4.5,₹2200 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Eat Alley Cafe,Coimbatore,"Saibaba Colony, Coimbatore",4.7,₹500 for two,"Italian, Street Food",Flat 10% + 25% with Bank Offers,False,False
+Harusaki Coffee,Coimbatore,"Peelamedu, Coimbatore",4.0,₹700 for two,"Beverages, Coffee",25% Off :Payeazy,False,False
+Kaanchan Kitchen,Coimbatore,"R.S. Puram, Coimbatore",4.0,₹500 for two,Indian,25% Off :Payeazy,False,False
+Kanakthara Restaurant,Coimbatore,"Ganapathy, Coimbatore",4.0,₹1000 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+Nosh Up Cafe,Coimbatore,"Saibaba Colony, Coimbatore",4.0,₹400 for two,"Asian, Cafe, Continental",50% off,False,False
+Ganga Cafe - Darza Resorts,Coimbatore,"Darza Luxury Resorts, Coimbatore",4.0,₹1500 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+Cafe D,Coimbatore,"Windstone Residency, Peelamedu",4.0,₹500 for two,"Italian, Continental",Flat 10% + 25% with Bank Offers,False,False
+Indchicoo,Coimbatore,"POPPYS TOWER, Coimbatore",4.4,₹800 for two,"Chinese, Indian, Continental",Flat 10% + 25% with Bank Offers,False,False
+Woow Briyani,Coimbatore,"Ganapathy, Coimbatore",4.0,₹300 for two,Biryani,Flat 10% + 25% with Bank Offers,False,False
+Dindigul Thalappakatti,Coimbatore,"Neelambur, Coimbatore",5.0,₹950 for two,Biryani,Flat 25% + 25% with Bank Offers,False,False
+Liyaqat,Coimbatore,"Singanallur, Coimbatore",5.0,₹700 for two,Fast Food,25% Off :Payeazy,False,False
+Longitude- Le Meridien,Coimbatore,Le Méridien Coimbatore,5.0,₹1200 for two,Cafe,25% Off :Payeazy,False,False
+That's Y Food,Coimbatore,"R.S. Puram, Coimbatore",4.3,₹800 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Raasta,Ludhiana,"Model Town, Ludhiana",4.0,₹1400 for two,"Continental, Chinese, Italian",50% off,False,False
+Aamrak,Ludhiana,"Pakhowal Road, Ludhiana",4.0,₹1000 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Cafe Delish,Ludhiana,Radisson Blu Hotel Ludhiana,4.8,₹3000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+.Peg Bar,Ludhiana,Radisson Blu Hotel Ludhiana,4.0,₹3000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Under The Mango Tree,Ludhiana,"Civil Lines, Ludhiana",4.7,₹1600 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Barn Fox,Ludhiana,"Civil Lines, Ludhiana",5.0,₹2000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+R Feastory,Ludhiana,Ludhiana,4.0,₹800 for two,"Italian, Indian",Flat 20% + 25% with Bank Offers,False,False
+10 Dur’s Premium,Ludhiana,"Civil Lines, Ludhiana",4.0,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+The Cat Caffe & Restaurant,Ludhiana,"Civil Lines, Ludhiana",4.0,₹1000 for two,Italian,Flat 10% + 25% with Bank Offers,False,False
+The Coffee Bean & Tea Leaf,Ludhiana,"Pavilion Mall, Civil Lines",4.0,₹1000 for two,Coffee,50% off,False,False
+Tokkyoi  Club & Lounge,Ludhiana,"Pavilion Mall, Civil Lines",3.4,₹1800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Cafe Culture,Ludhiana,"Civil Street, Ludhiana",4.0,₹1000 for two,"Italian, Mexican",Flat 15% + 25% with Bank Offers,False,False
+PVR,Ludhiana,"Pavilion Mall, Civil Lines",4.0,₹500 for two,Fast Food,Flat 15% + 25% with Bank Offers,False,False
+Hot Breads,Ludhiana,"Sarabha Nagar, Ludhiana",4.3,₹1000 for two,Multicuisine,25% Off :Payeazy,False,False
+The Brew Estate,Ludhiana,Ludhiana,4.4,₹2000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Belfrance Bakers & Chocolatiers Cafe,Ludhiana,"Sarabha Nagar, Ludhiana",4.7,₹1500 for two,Bakery,Flat 20% + 25% with Bank Offers,False,False
+Barbeque Nation,Ludhiana,Ludhiana,4.6,₹1800 for two,"Multicuisine, Barbeque",Flat 25% + 25% with Bank Offers,False,False
+Barista Coffee,Ludhiana,"Model Town, Ludhiana",4.0,₹400 for two,"Cafe, Coffee",25% Off :Payeazy,False,False
+The Yellow Chilli,Ludhiana,"Sarabha Nagar, Ludhiana",4.5,₹1500 for two,Multicuisine,50% off,False,False
+Over The Moon,Ludhiana,The Palm Court,4.0,₹1500 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Club Aqua,Ludhiana,"Canal Road, Ludhiana",5.0,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Xero Courtyard,Ludhiana,"Aggar Nagar, Ludhiana",4.0,₹800 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+Khadak Singh Da Dhaba,Ludhiana,"Gurdev Nagar, Ludhiana",4.9,₹1000 for two,North Indian,Flat 40% + 25% with Bank Offers,False,False
+Pirates of Grill,Ludhiana,"Ferozepur Road, Ludhiana",4.5,₹1800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+House of SWAT,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,₹1000 for two,Multicuisine,25% Off :Payeazy,False,False
+The Imperial Courtyard,Ludhiana,"Ferozepur Road, Ludhiana",4.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Kultura,Ludhiana,"Gurdev Nagar, Ludhiana",4.0,₹2000 for two,"Cocktail Menu, Multicuisine",Flat 10% + 25% with Bank Offers,False,False
+The Bear House Cafe & Bar,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,₹1200 for two,Multicuisine,50% off,False,False
+Punjab Grill,Ludhiana,"Aggar Nagar, Ludhiana",3.7,₹1200 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+Grill House,Ludhiana,"Silver Arc Mall, Gurdev Nagar",4.0,₹1400 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Suto Cafe Prime,Ludhiana,"Model Town, Ludhiana",4.0,₹500 for two,Continental,Flat 15% + 25% with Bank Offers,False,False
+Gautam's-O-Dine,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,₹1000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Orient Blade,Ludhiana,Park Plaza Ludhiana,3.0,₹2000 for two,oriental,Flat 10% + 25% with Bank Offers,False,False
+Akiba Cafe and Bistro,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,₹1000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Barish Luxe,Ludhiana,"Model Town, Ludhiana",5.0,₹1100 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Punjabi Rasoi,Ludhiana,"Model Town, Ludhiana",4.0,₹800 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+Ruby By Imperial Hotel,Ludhiana,"Gurdev Nagar, Ludhiana",4.0,₹800 for two,Indian,50% off,False,False
+Mad 4 Eat,Ludhiana,"Civil Lines, Ludhiana",4.0,₹1000 for two,Fast Food,Flat 50% + 25% with Bank Offers,False,False
+PB 91,Ludhiana,Ludhiana,4.0,₹600 for two,Indian,Flat 50% + 25% with Bank Offers,False,False
+Pindaura,Ludhiana,"Sarabha Nagar, Ludhiana",5.0,₹1000 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Tim Hortons,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,₹800 for two,Coffee,Flat 15% + 25% with Bank Offers,False,False
+Hera Feri Fries,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,₹400 for two,Fast Food,Flat 15% + 25% with Bank Offers,False,False
+Artisan Cafe,Ludhiana,"Gurdev Nagar, Ludhiana",4.0,₹500 for two,Cafe,Flat 15% + 25% with Bank Offers,False,False
+Xero Degrees,Ludhiana,"Sarabha Nagar, Ludhiana",4.3,₹450 for two,"Multicuisine, American",Flat 15% + 25% with Bank Offers,False,False
+Cakes & Coffee,Ludhiana,"Gurdev Nagar, Ludhiana",4.0,₹800 for two,"Bakery, Cafe",Flat 20% + 25% with Bank Offers,False,False
+Zoi,Ranchi,"JD Hi Street Mall, Ranchi",4.5,₹1400 for two,Multicuisine,50% off,False,False
+Thikana Bar and Restaurant,Ranchi,"Argora, Ranchi",3.9,₹1400 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Greeka Kitchen & Bar,Ranchi,"Kanke Rd, Ranchi",4.5,₹1250 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Hasty Tasty,Ranchi,"Purulia Rd, Ranchi",4.0,₹500 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Biryani By Kilo,Ranchi,"Kutchery Chowk, Ranchi",3.2,₹1200 for two,Biryani,Flat 25% + 25% with Bank Offers,False,False
+VIRAASAT – Courtyard by Marriott,Ranchi,Courtyard Ranchi,4.2,₹3000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Heaven - Lounge and Bar,Ranchi,"Argora, Ranchi",4.8,₹1300 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Oona The One,Ranchi,"Kadru, Ranchi",4.7,₹1200 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+LOOP - Gastropub,Ranchi,"Lalpur, Ranchi",2.8,₹1600 for two,Multicuisine,25% Off :Payeazy,False,False
+Dhunki,Ranchi,"Lalpur, Ranchi",4.6,₹1400 for two,"Multicuisine, Cocktail Menu",50% off,False,False
+ZOCA Dine & Bar,Ranchi,"Lalpur, Ranchi",3.7,₹1000 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+Kairo Bar and Lounge,Ranchi,"East Jail Road, Ranchi",4.8,₹2400 for two,"Multicuisine, Cocktail Menu",Flat 20% + 25% with Bank Offers,False,False
+Dishaayen,Ranchi,"Kanka, Ranchi",4.3,₹500 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Cafe Mysa,Ranchi,"Daud Nagar, Ranchi",4.7,₹850 for two,Multicuisine,25% Off :Payeazy,False,False
+QUNIKE RESTRO & BAR,Ranchi,"Kutchery Chowk, Ranchi",4.5,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Studs Bar & Grill,Ranchi,"Sujata Chowk, Ranchi",4.0,₹1500 for two,Multicuisine,Flat 40% + 25% with Bank Offers,False,False
+The Padosan,Ranchi,"Argora, Ranchi",5.0,₹600 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+ODR - On Da Rocks,Ranchi,"Gandhi Nagar, Ranchi, Ranchi",3.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+The Sailors knot,Ranchi,"Doranda, Ranchi",4.6,₹800 for two,Multicuisine,50% off,False,False
+Punjabi Kitchen,Ranchi,"Purulia Rd, Ranchi",3.3,₹600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Kadhi Patta,Ranchi,"Kutchery Chowk, Ranchi",3.8,₹900 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Kasturi Restaurant & Cafe,Ranchi,"Harmu, Ranchi",4.0,₹700 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Levee Tavern,Ranchi,"Karamtoli Rd, Ranchi",4.5,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+LOTUS LEAF – Ramada by Wyndham,Ranchi,"Ramada by Wyndham, Ranchi",4.7,₹2000 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+The Rums Cafe,Ranchi,"Argora, Ranchi",3.8,₹900 for two,Cafe,Flat 25% + 25% with Bank Offers,False,False
+Vedika,Ranchi,"Old Vidhan Sabha, Ranchi",4.0,₹800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+Moontown Lounge & Bar,Ranchi,"Lalpur, Ranchi",4.0,₹800 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+OMG Cafe,Ranchi,"Lalpur, Ranchi",2.0,₹800 for two,Multicuisine,50% off,False,False
+Niva kitchen A Little Pause,Ranchi,Delatoli,4.0,₹500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Anardana,Ranchi,"Mahatma Gandhi Main Rd, Ranchi",4.1,₹1800 for two,Indian,Flat 30% + 25% with Bank Offers,False,False
+cuku cafe and bakehaus,Ranchi,"Lalpur, Ranchi",4.0,₹500 for two,"Bakery, Cafe, Italian",25% Off :Payeazy,False,False
+PA PA YA,Ranchi,Radisson Blu Hotel Ranchi,4.6,₹2500 for two,Pan Asian,Free Dessert + 25% Off,False,False
+The Lemon,Ranchi,"Morabadi, Ranchi",4.0,₹500 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Crown 7,Ranchi,"Hawai Nagar, Ranchi",3.8,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Dusk,Ranchi,"Lalpur, Ranchi",5.0,₹1600 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Mocha Cafe & Bar,Ranchi,"Lalpur, Ranchi",4.3,₹1500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Aasman,Ranchi,"Hindpiri, Ranchi",5.0,₹1000 for two,Multicuisine,50% off,False,False
+Never The Less,Ranchi,"Harmu, Ranchi",4.1,₹900 for two,Multicuisine,25% Off :Payeazy,False,False
+Ivora,Ranchi,"Lalpur, Ranchi",5.0,₹900 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Barbeque Nation,Ranchi,Ranchi,4.6,₹1800 for two,"Barbeque, Multicuisine",Flat 10% + 25% with Bank Offers,False,False
+Ansh,Ranchi,"Ahirtoli, Ranchi",3.5,₹900 for two,Multicuisine,25% Off :Payeazy,False,False
+Flaves,Ranchi,"Dhurwa, Ranchi",3.8,₹600 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Little's Bistro,Ranchi,"Ashok Nagar,Ranchi",4.0,₹700 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Waterfront,Ranchi,Radisson Blu Hotel Ranchi,4.3,₹800 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Malhaari Food & Drinks,Ranchi,Ranchi,5.0,₹800 for two,Multicuisine,Flat 35% + 25% with Bank Offers,False,False
+Dindigul Thalappakatti,Thiruvananthapuram,"Pattom, Thiruvananthapuram",4.8,₹950 for two,Biryani,50% off,False,False
+Cofi Club,Thiruvananthapuram,"Kesavadasapuram, Thiruvananthapuram",4.5,₹600 for two,"Beverages, Cafe",25% Off :Payeazy,False,False
+Atelier By Ambrosia,Thiruvananthapuram,"Pattom, Thiruvananthapuram",4.1,₹1000 for two,"Chinese, European",Flat 15% + 25% with Bank Offers,False,False
+Cafe Boba Queen,Thiruvananthapuram,"Pattom, Thiruvananthapuram",5.0,₹400 for two,"Beverages, Bubble Tea",Flat 10% + 25% with Bank Offers,False,False
+Opal,Thiruvananthapuram,"The Ruby Arena, Thiruvananthapuram",4.0,₹900 for two,Indian,25% Off :Payeazy,False,False
+Skyy Bar,Thiruvananthapuram,"Hotel Libra, Thiruvananthapuram",2.8,₹1700 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Tummy Tales,Thiruvananthapuram,"Pattom, Thiruvananthapuram",5.0,₹1050 for two,European,Flat 10% + 25% with Bank Offers,False,False
+Aasife Biryani,Thiruvananthapuram,"Kesavadasapuram, Thiruvananthapuram",3.0,₹700 for two,Biryani,25% Off :Payeazy,False,False
+Bab Arabia,Thiruvananthapuram,"Marappalam, Thiruvananthapuram",4.5,₹800 for two,Arabian,25% Off :Payeazy,False,False
+Shawarmashi Hamra Mandhi,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",5.0,₹400 for two,Arabian,50% off,False,False
+Oriental Spice,Thiruvananthapuram,"Kuravankonam, Thiruvananthapuram",4.0,₹500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+La Forno Cafe,Thiruvananthapuram,"Ambalamukku, Thiruvananthapuram",4.7,₹700 for two,"Beverages, Cafe",25% Off :Payeazy,False,False
+Cafe Mojo,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",3.8,₹900 for two,"Thai, Continental",25% Off :Payeazy,False,False
+Hoy Punjab,Thiruvananthapuram,"Venpalavattom, Thiruvananthapuram",4.5,₹1400 for two,"Indian, North Indian",Free Beverages + 25% Off,False,False
+The Garden Grille & Bar,Thiruvananthapuram,"Hilton Garden Inn, Thiruvananthapuram",4.1,₹2000 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Tangerine Restocafe,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",5.0,₹500 for two,Continental,1+1 Buffet + 25% Off,False,False
+Baker's Arch - A Garden Cafe,Thiruvananthapuram,"Kuravankonam, Thiruvananthapuram",4.9,₹1000 for two,Continental,Free Drinks + 25% Off,False,False
+Beijing Bites,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",3.7,₹450 for two,"Thai, Chinese, Malaysian",25% Off :Payeazy,False,False
+Huddles Cafe,Thiruvananthapuram,"Nandavanam, Thiruvananthapuram",5.0,₹700 for two,Continental,50% off,False,False
+O Cafe,Thiruvananthapuram,O By Tamara Trivandrum,5.0,₹1000 for two,Multicuisine,25% Off :Payeazy,False,False
+Le Lumiere,Thiruvananthapuram,"Kunnukuzhy, Thiruvananthapuram",4.2,₹550 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Bao Tao - The Boba Bar,Thiruvananthapuram,"Ambalamukku, Thiruvananthapuram",5.0,₹600 for two,Fast Food,25% Off :Payeazy,False,False
+Al Taza,Thiruvananthapuram,"Kuravankonam, Thiruvananthapuram",4.0,₹800 for two,Shawarma,Flat 10% + 25% with Bank Offers,False,False
+Regency,Thiruvananthapuram,"The South Park, Thiruvananthapuram",5.0,₹1100 for two,Multicuisine,25% Off :Payeazy,False,False
+The Skyye Grill,Thiruvananthapuram,"The South Park, Thiruvananthapuram",4.0,₹2000 for two,"Cocktail Menu, Multicuisine",Flat 20% + 25% with Bank Offers,False,False
+Fried Nation,Thiruvananthapuram,"Ambalamukku, Thiruvananthapuram",5.0,₹600 for two,"American, Italian",Flat 25% + 25% with Bank Offers,False,False
+Falooda Nation,Thiruvananthapuram,"Kuravankonam, Thiruvananthapuram",1.0,₹400 for two,"Desserts, Beverages",Flat 15% + 25% with Bank Offers,False,False
+Oakwood The Pub,Thiruvananthapuram,"The South Park, Thiruvananthapuram",3.0,₹2500 for two,"Multicuisine, Cocktail Menu",50% off,False,False
+Grill to Chill,Thiruvananthapuram,"Vivin Luxury Suites, Thiruvananthapuram",5.0,₹1000 for two,"Chinese, North Indian",Flat 20% + 25% with Bank Offers,False,False
+Keys Café,Thiruvananthapuram,Keys Select By Lemon Tree Hotels - Thiruvananthapuram,4.0,₹1500 for two,"Indian, Asian, Continental",Free Beverages + 25% Off,False,False
+Wrap A Loop,Thiruvananthapuram,"Pattom, Thiruvananthapuram",5.0,₹400 for two,Middle Eastern,Flat 25% + 25% with Bank Offers,False,False
+Rasoi By Ruchi,Thiruvananthapuram,"Itsy Hotels Adrak, Thiruvananthapuram",5.0,₹400 for two,Multicuisine,25% Off :Payeazy,False,False
+Namma Veedu Vasanta Bhavan,Thiruvananthapuram,"Kuravankonam, Thiruvananthapuram",4.3,₹400 for two,South Indian,25% Off :Payeazy,False,False
+De Paris Grills,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",4.0,₹400 for two,Indian,25% Off :Payeazy,False,False
+On The Rocks Executive Bar,Thiruvananthapuram,"Biverah Hotel And Suites, Thiruvananthapuram",4.0,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+Bamboos Multicusine Restaurant,Thiruvananthapuram,"Windsor Rajadhani, Thiruvananthapuram",4.0,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+The Edge Cocktail Lounge,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",4.0,₹1500 for two,"Finger Food, Cocktail Menu",50% off,False,False
+Le Capital,Thiruvananthapuram,"Palayam, Thiruvananthapuram",4.0,₹500 for two,Multicuisine,25% Off :Payeazy,False,False
+Diners' Summit - Multi Cuisine Restaurant,Thiruvananthapuram,"Biverah Hotel And Suites, Thiruvananthapuram",4.0,₹1000 for two,Multicuisine,25% Off :Payeazy,False,False
+Palace View Rooftop Restaurant,Thiruvananthapuram,"Windsor Rajadhani, Thiruvananthapuram",4.0,₹1000 for two,Multicuisine,25% Off :Payeazy,False,False
+Villa Maya,Thiruvananthapuram,"Vallakkadavu, Thiruvananthapuram",4.8,₹2500 for two,Multicuisine,25% Off :Payeazy,False,False
+V BAR,Thiruvananthapuram,"Hilton Garden Inn, Thiruvananthapuram",4.7,₹2500 for two,Multicuisine,25% Off :Payeazy,False,False
+Restaurant Chef Pillai,Thiruvananthapuram,"Vallakkadavu, Thiruvananthapuram",3.5,₹800 for two,Multicuisine,Flat 25% + 25% with Bank Offers,False,False
+Barbeque Nation,Thiruvananthapuram,"LuLu Mall, Thiruvananthapuram",4.6,₹2000 for two,"Multicuisine, Barbeque",25% Off :Payeazy,False,False
+Ambrosia- The Classic Bakehouse,Thiruvananthapuram,"Palayam, Thiruvananthapuram",4.0,₹600 for two,"Bakery, Chinese, Italian",25% Off :Payeazy,False,False
+Suaa Club & Restro,Nagpur,"Sadar, Nagpur",4.0,₹1400 for two,Multicuisine,50% off,False,False
+Brickhaus,Nagpur,"Civil Lines, Nagpur",4.0,₹1200 for two,Continental,Flat 50% + 25% with Bank Offers,False,False
+The Beer Café,Nagpur,"Gokulpeth, Nagpur",4.8,₹800 for two,"Cocktail Menu, Multicuisine",25% Off :Payeazy,False,False
+Momentt,Nagpur,"ENRISE by Sayaji, Bajaj Nagar",4.0,₹1400 for two,Multicuisine,Flat 50% + 25% with Bank Offers,False,False
+Tokii : Treasury of Asian Cuisine,Nagpur,"Trimurtee Nagar, Nagpur",4.3,₹1600 for two,Pan Asian,Flat 15% + 25% with Bank Offers,False,False
+Yamazaki Pan Asian Cuisine,Nagpur,"Bajaj Nagar, Nagpur",4.0,₹1100 for two,Pan Asian,25% Off :Payeazy,False,False
+The Opera House,Nagpur,"Sitabuldi, Nagpur",5.0,₹1200 for two,Multicuisine,25% Off :Payeazy,False,False
+Barbeque Nation,Nagpur,Nagpur,4.7,₹1900 for two,"Multicuisine, Barbeque",Flat 30% + 25% with Bank Offers,False,False
+Bella brew,Nagpur,"Gorepeth, Nagpur",3.8,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+Naivedhyam Restaurant,Nagpur,"Sitabuldi, Nagpur",4.1,₹1200 for two,Multicuisine,50% off,False,False
+Side Walk,Nagpur,"Hotel Hardeo, Nagpur",5.0,₹1400 for two,European,25% Off :Payeazy,False,False
+Kalpataru,Nagpur,"Hotel Hardeo, Nagpur",5.0,₹1400 for two,Indian,Flat 35% + 25% with Bank Offers,False,False
+Veerji Malai Chaap Wale,Nagpur,"Sitabuldi, Nagpur",4.0,₹400 for two,North Indian,Flat 20% + 25% with Bank Offers,False,False
+AB's - Absolute Barbecues,Nagpur,Nagpur,4.5,₹1850 for two,"Multicuisine, Barbeque",Flat 10% + 25% with Bank Offers,False,False
+Little Italy,Nagpur,"Civil Lines, Nagpur",4.1,₹1400 for two,"Mexican, Italian",25% Off :Payeazy,False,False
+Tattwam,Nagpur,"Ramdaspeth, Nagpur",4.5,₹1000 for two,Indian,Flat 15% + 25% with Bank Offers,False,False
+East India Company,Nagpur,"Civil Lines, Nagpur",4.5,₹1200 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Warehouse Cafe,Nagpur,"Rambagh Layout, Nagpur",5.0,₹1500 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+High Steaks,Nagpur,"Hotel Centre Point, Nagpur",3.7,₹2200 for two,European,50% off,False,False
+Pablo,Nagpur,"Civil Lines, Nagpur",5.0,₹1600 for two,Italian,Flat 10% + 25% with Bank Offers,False,False
+Hitchki,Nagpur,"Chaoni, Nagpur",3.3,₹2000 for two,Modern Indian,Flat 25% + 25% with Bank Offers,False,False
+BellaVista Cafe & Skybar,Nagpur,"Civil Lines, Nagpur",5.0,₹1500 for two,"Cocktail Menu, Multicuisine",25% Off :Payeazy,False,False
+Yello - Restaurant & Bar,Nagpur,"Civil Lines, Nagpur",3.5,₹1200 for two,"Cocktail Menu, Multicuisine",Flat 10% + 25% with Bank Offers,False,False
+Tipsy Turk,Nagpur,"Sadar, Nagpur",3.7,₹3000 for two,Multicuisine,25% Off :Payeazy,False,False
+Tao - The Asian Kitchen,Nagpur,"Civil Lines, Nagpur",4.0,₹1900 for two,Pan Asian,Flat 15% + 25% with Bank Offers,False,False
+Agent Jack's Bar,Nagpur,"Rambagh Layout, Nagpur",5.0,₹1800 for two,"Finger Food, Cocktail Menu",Flat 10% + 25% with Bank Offers,False,False
+Tds Restro Lounge,Nagpur,"Ramdaspeth, Nagpur",1.0,₹1800 for two,"European, oriental",Flat 15% + 25% with Bank Offers,False,False
+Uttar Dakshin,Nagpur,"Dhantoli, Nagpur",4.7,₹1000 for two,South Indian,50% off,False,False
+Durva Restaurant,Nagpur,"Dhantoli, Nagpur",5.0,₹800 for two,Multicuisine,25% Off :Payeazy,False,False
+Masato,Nagpur,"Civil Lines, Nagpur",4.0,₹1500 for two,"Chinese, Pan Asian",Flat 10% + 25% with Bank Offers,False,False
+Ark - Indian Kitchen,Nagpur,"Civil Lines, Nagpur",4.0,₹1600 for two,Indian,Flat 20% + 25% with Bank Offers,False,False
+The H Cafe,Nagpur,"Gorepeth, Nagpur",4.0,₹800 for two,European,Flat 10% + 25% with Bank Offers,False,False
+Cafe De Sana,Nagpur,"Chaoni, Nagpur",4.0,₹500 for two,Italian,Flat 10% + 25% with Bank Offers,False,False
+COSO Cocktails & Socials,Nagpur,"Mohan Nagar, Nagpur",4.0,₹2500 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Uptown501 Cafe-lounge,Nagpur,"Dharampeth, Nagpur",4.0,₹1500 for two,Multicuisine,25% Off :Payeazy,False,False
+Kiana- The Fine-Dine Restaurant,Nagpur,"Sadar, Nagpur",3.0,₹1000 for two,"Chinese, Indian",Flat 20% + 25% with Bank Offers,False,False
+Meeting Points,Nagpur,"Hotel Centre Point, Nagpur",5.0,₹2200 for two,Multicuisine,50% off,False,False
+Idli Express,Nagpur,"Bajaj Nagar, Nagpur",4.0,₹400 for two,South Indian,Flat 10% + 25% with Bank Offers,False,False
+Moksh - The Restrolounge,Nagpur,"Sitabuldi, Nagpur",4.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Salt - All Day Brew,Nagpur,"Civil Lines, Nagpur",3.7,₹1000 for two,Multicuisine,Flat 30% + 25% with Bank Offers,False,False
+Three Beans Coffee Bar,Nagpur,"Dharampeth, Nagpur",4.0,₹600 for two,Multicuisine,Flat 20% + 25% with Bank Offers,False,False
+TOS (The Other Side),Nagpur,"Sadar, Nagpur",4.0,₹1350 for two,Indian,Flat 15% + 25% with Bank Offers,False,False
+Liberty Family Restaurant,Nagpur,"Sadar, Nagpur",4.0,₹1100 for two,"Chinese, Indian",Flat 15% + 25% with Bank Offers,False,False
+Mishree,Nagpur,"Mohan Nagar, Nagpur",4.0,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Freakk De Bistro,Nagpur,"Hotel Centre Point, Nagpur",4.0,₹2200 for two,"Finger Food, Cocktail Menu",Flat 15% + 25% with Bank Offers,False,False
+Ali Baba 40 Golden Dishes,Madurai,"Hotel President, Madurai",3.0,₹500 for two,Multicuisine,50% off,False,False
+Moskva,Madurai,"Moskva Hotel, Madurai",5.0,₹600 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Bocs Pizza,Madurai,"KK Nagar, Madurai",4.7,₹600 for two,Fast Food,25% Off :Payeazy,False,False
+Blind Ch3mistry,Madurai,"Bypass Road, Madurai",4.4,₹1200 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Orchid,Madurai,"Fortune Pandiyan Hotel, Madurai",4.4,₹1600 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Bistro 978,Madurai,"Tallakulam, Madurai",5.0,₹700 for two,"Italian, Continental",Flat 10% + 25% with Bank Offers,False,False
+Barbeque Nation,Madurai,"Ganesh Nagar, Madurai",4.0,₹2000 for two,"North Indian, Barbeque",Free Appetizer + 25% Off,False,False
+The Chopstix,Madurai,"KK Nagar, Madurai",2.5,₹700 for two,Multicuisine,25% Off :Payeazy,False,False
+The Sandwich Club,Madurai,"Viswanathapuram, Madurai",4.6,₹350 for two,Fast Food,Flat 10% + 25% with Bank Offers,False,False
+Yaal,Madurai,"JC Residency, Madurai",4.3,₹1500 for two,"Indian, Chinese",50% off,False,False
+Rahman Biryani,Madurai,"KK Nagar, Madurai",4.0,₹700 for two,Biryani,Flat 10% + 25% with Bank Offers,False,False
+British Bakery Cafe,Madurai,"Narimedu, Madurai",4.0,₹400 for two,Cafe,Flat 10% + 25% with Bank Offers,False,False
+Aarathy Restaurant,Madurai,Madurai,4.0,₹300 for two,Multicuisine,Free Beverages + 25% Off,False,False
+The Chocolate Room,Madurai,"KK Nagar, Madurai",5.0,₹600 for two,"Beverages, Desserts",Free Beverages + 25% Off,False,False
+INOX,Madurai,Vishaal De Mall,3.7,₹500 for two,Fast Food,Flat 10% + 25% with Bank Offers,False,False
+Bazaar- All Day Diner,Madurai,"Grand Madurai by GRT Hotels, Madurai",4.0,₹1200 for two,South Indian,Flat 15% + 25% with Bank Offers,False,False
+Dindigul Thalappakatti,Madurai,"Kalavasal, Madurai",3.7,₹950 for two,Biryani,25% Off :Payeazy,False,False
+Hotel Weshtern Park,Madurai,"Weshtern Park, Madurai",1.0,₹450 for two,Indian,Free Beverages + 25% Off,False,False
+Phil's Bistro,Madurai,"KK Nagar, Madurai",5.0,₹1300 for two,Continental,50% off,False,False
+Marudheeswara,Madurai,"Kannanenthal, Madurai",4.0,₹1000 for two,"Indian, Continental",Flat 10% + 25% with Bank Offers,False,False
+Grand Ayyanaar,Madurai,"Sterling V Grand,Madurai",4.7,₹1000 for two,Multicuisine,Free Beverages + 25% Off,False,False
+Aasife Biriyani,Madurai,"Swami Vivekananda Nagar, Madurai",5.0,₹840 for two,Biryani,Flat 10% + 25% with Bank Offers,False,False
+Ahaaram Restaurant,Madurai,Regency Madurai by GRT Hotels,3.2,₹1000 for two,Multicuisine,Free Beverages + 25% Off,False,False
+Aibaik,Madurai,"Reserve Police Line, Madurai",5.0,₹800 for two,Multicuisine,Free Beverages + 25% Off,False,False
+Upper Deck,Madurai,"Sterling V Grand,Madurai",3.0,₹1000 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Sharief Bhai Biryani,Madurai,"Anna Nagar, Madurai",3.5,₹700 for two,Biryani,Flat 10% + 25% with Bank Offers,False,False
+Cinnamon The Pastry Shop,Madurai,Madurai,4.0,₹800 for two,"Cafe, Desserts",Flat 15% + 25% with Bank Offers,False,False
+Slice,Madurai,"Grand Madurai by GRT Hotels, Madurai",4.0,₹1000 for two,"Bakery, Cafe",50% off,False,False
+Topi Vappa Biriyani,Madurai,"Melapanangadi, Madurai",4.0,₹600 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Waalai Aahar,Madurai,"Sathamangalam, Madurai",5.0,₹500 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Sterling Local Restobar,Madurai,"Sterling V Grand,Madurai",4.0,₹1600 for two,Cocktail Menu,Flat 10% + 25% with Bank Offers,False,False
+Studio 79,Madurai,"Grand Madurai by GRT Hotels, Madurai",5.0,₹1000 for two,Multicuisine,Flat 10% + 25% with Bank Offers,False,False
+Hunger Heist,Madurai,"Anna Nagar, Madurai",4.0,₹550 for two,Cafe,25% Off :Payeazy,False,False
+Amsavalli Restaurant,Madurai,"LA VIVANTA HOTEL,MADURAI",1.0,₹1150 for two,Multicuisine,25% Off :Payeazy,False,False
+isandy,Madurai,"Pasumalai, Madurai",5.0,₹600 for two,"Fast Food, Cafe",Free Beverages + 25% Off,False,False
+Phil’s Bake House (Bakery & Cafe),Madurai,"Alagar Kovil Main Road, Madurai",5.0,₹400 for two,Fast Food,Free Dessert + 25% Off,False,False
+Farmer's Bistro,Abu-Dhabi,"Al Mushrif, Abu Dhabi",4.0,AED100 for two,Multicuisine,50% off,False,False
+Punjab Grill,Abu-Dhabi,"The Ritz-Carlton Abu Dhabi, Grand Canal",4.9,AED325 for two,Indian,Flat 20% + 25% with Bank Offers,False,False
+India Palace,Abu-Dhabi,"Mazyad Mall, Mussafah Shabiya",4.0,AED180 for two,Indian,Flat 25% + 25% with Bank Offers,False,False
+Pincode By Kunal Kapur,Abu-Dhabi,The Galleria Al Maryah Island,4.0,AED200 for two,Multicuisine,Flat 15% + 25% with Bank Offers,False,False
+Mings Chamber,Abu-Dhabi,"Al Wahda Mall, Al Wahda",4.0,AED120 for two,Asian,Flat 10% + 25% with Bank Offers,False,False
+Peppermill,Abu-Dhabi,"Al Wahda Mall, Al Wahda",3.0,AED155 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+PizzaExpress,Abu-Dhabi,"Al Reem Island, Abu Dhabi",5.0,AED200 for two,Italian,Flat 10% + 25% with Bank Offers,False,False
+Bikanervala,Abu-Dhabi,Abu Dhabi,4.0,AED65 for two,Street Food,Flat 25% + 25% with Bank Offers,False,False
+Moksha,Abu-Dhabi,"Al Bateen, Abu Dhabi, Abu Dhabi",4.0,AED200 for two,Indian,Free Drinks + 25% Off,False,False
+Pure punjabi,Abu-Dhabi,"Mushrif Mall, Abu Dhabi",4.0,AED80 for two,Multicuisine,50% off,False,False
+Via Delhi Restaurant,Abu-Dhabi,"Al Danah, Abu Dhabi",4.0,AED100 for two,Indian,Flat 10% + 25% with Bank Offers,False,False
+World of Asia,Abu-Dhabi,"Al Danah, Abu Dhabi",4.0,AED50 for two,"Chinese, North Indian",25% Off :Payeazy,False,False
+49ers,Abu-Dhabi,Le Méridien Abu Dhabi,4.0,AED345 for two,Multicuisine,25% Off :Payeazy,False,False
+Barbeque Nation,Abu-Dhabi,"Al Wahda Mall, Al Wahda",4.7,AED150 for two,Indian,20% Off,False,False
+Ushna Comida Restaurant,Abu-Dhabi,The Souk Qaryat Al Beri,5.0,AED310 for two,Indian,40% Off,False,False
+Thai Point Restaurant,Abu-Dhabi,Al Dhafrah,5.0,AED75 for two,Thai,25% Off,False,False
+Thai Street Restaurant,Abu-Dhabi,"Al Markaziya, Abu Dhabi",1.0,AED50 for two,Thai,20% Off,False,False
+Larte Restaurant and Lounge LLC,Abu-Dhabi,"Saadiyat Island, Abu Dhabi",4.0,AED250 for two,Italian,,False,False
+Jehangirs’s  Al Ain,Abu-Dhabi,"Al Jimi Mall, Abu Dhabi",4.0,AED160 for two,Indian,50% off,False,False

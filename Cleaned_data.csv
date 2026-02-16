@@ -1,0 +1,1360 @@
+restaurant_name,city,area,rating,cost_for_two_in_rupees,cuisine,discount,book_table,walkin_available
+Hard Rock Cafe,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.0,1500.0,Multicuisine,50,False,False
+Desi Villagio,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.1,1300.0,Indian,40,False,False
+"MIST, THE Park New Delhi",Delhi-NCR,"The Park, New Delhi",4.0,2500.0,Multicuisine,35,False,False
+Duty Free Vayu Bar,Delhi-NCR,"Rajouri Garden, West Delhi",4.4,1500.0,"Multicuisine, Cocktail Menu",50,False,False
+Fifty9,Delhi-NCR,"Radisson Blu Marina, New Delhi",4.4,2500.0,Multicuisine,40,False,False
+Longitude,Delhi-NCR,"Le Meridien, New Delhi",3.3,2000.0,Fast Food,35,False,False
+Biryani By Kilo,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.6,700.0,Biryani,25,False,False
+Vega,Delhi-NCR,"Hotel Alka Classic, New Delhi",4.2,1700.0,North Indian,20,False,False
+Barista Coffee,Delhi-NCR,"Shivaji Stadium Metro Station, Connaught Place (CP), Central Delhi",4.0,500.0,"Cafe, Coffee",20,False,False
+Dr. Zombie,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.3,1000.0,"Cocktail Menu, Italian",50,False,False
+Local,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.1,1200.0,Multicuisine,30,False,False
+The Darzi Bar & Kitchen,Delhi-NCR,"Connaught Place (CP), Central Delhi",3.7,1500.0,Multicuisine,15,False,False
+Sakura,Delhi-NCR,"The Metropolitan Hotel & Spa, New Delhi",4.0,4500.0,"Japanese, Sushi",35,False,False
+Ministry Of Beer,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.1,1500.0,"Cocktail Menu, Multicuisine",25,False,False
+Cafe Out of the Box Courtyard,Delhi-NCR,"Connaught Place (CP), Central Delhi",3.9,1200.0,Multicuisine,25,False,False
+Chido,Delhi-NCR,"Connaught Place (CP), Central Delhi",3.9,1800.0,"Cocktail Menu, Multicuisine",30,False,False
+Thyme,Delhi-NCR,"The Umrao, New Delhi",4.1,1800.0,Multicuisine,30,False,False
+Themis Barbecue House,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.5,2400.0,Multicuisine,50,False,False
+Lazeez Affaire,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.3,1600.0,North Indian,50,False,False
+Aqua,Delhi-NCR,"The Park, New Delhi",3.9,2800.0,Multicuisine,20,False,False
+Lord of the Drinks,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,1800.0,"Cocktail Menu, Multicuisine",40,False,False
+Plum Coffee & Cocktails,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.3,2000.0,Multicuisine,15,False,False
+Openhouse Cafe,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,2000.0,Multicuisine,30,False,False
+Drama Delhi,Delhi-NCR,"Janpath, Connaught Place (CP), Central Delhi",3.3,1700.0,"Indian, Multicuisine",15,False,False
+Zing,Delhi-NCR,"The Metropolitan Hotel & Spa, New Delhi",1.0,3500.0,Multicuisine,50,False,False
+Baluchi,Delhi-NCR,"The Lalit, New Delhi",4.0,2500.0,North Indian,25,False,False
+Ghoomar Traditional Thali Restaurant,Delhi-NCR,"Connaught Place (CP), Central Delhi",3.9,1000.0,"North Indian, Rajasthani",30,False,False
+Warehouse Cafe,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.1,1300.0,"Cocktail Menu, Multicuisine",50,False,False
+The Embassy,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,2000.0,Multicuisine,20,False,False
+38 Barracks,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,1100.0,Multicuisine,15,False,False
+Sorrento,Delhi-NCR,Shangri-La Eros New Delhi,4.6,3000.0,Italian,30,False,False
+Gola Sizzlers,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.3,1500.0,"Multicuisine, Sizzlers",25,False,False
+"Chutney, Bar + Tandoor",Delhi-NCR,"The Metropolitan Hotel & Spa, New Delhi",3.5,3000.0,Indian,10,False,False
+Royal Bistro Brewery,Delhi-NCR,"The Royal Plaza, New Delhi",4.1,2500.0,Multicuisine,25,False,False
+Roasted,Delhi-NCR,"Roseate House, New Delhi",4.4,1000.0,"Bakery, Cafe",20,False,False
+Tamra,Delhi-NCR,Shangri-La Eros New Delhi,4.4,3000.0,Multicuisine,50,False,False
+Moti Mahal,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,1500.0,North Indian,50,False,False
+Yeti-The Himalayan Kitchen,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.3,1200.0,"Chinese, Nepalese, Tibetan",25,False,False
+The Beer Cafe - BIGGIE,Delhi-NCR,"Connaught Place (CP), Central Delhi",3.9,1800.0,"Cocktail Menu, Multicuisine",15,False,False
+Quoin Bar,Delhi-NCR,Novotel New Delhi Aerocity-An AccorHotels Brand,4.8,3500.0,"Finger Food, Cocktail Menu",15,False,False
+The Imperial Spice,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.4,2000.0,"Continental, North Indian",50,False,False
+Shang Palace,Delhi-NCR,Shangri-La Eros New Delhi,4.5,3000.0,Chinese,20,False,False
+DEL,Delhi-NCR,"Roseate House, New Delhi",4.3,3000.0,Multicuisine,25,False,False
+Chidyaghar Bar,Delhi-NCR,"Roseate House, New Delhi",4.6,3000.0,Multicuisine,50,False,False
+Farzi Cafe,Delhi-NCR,"Connaught Place (CP), Central Delhi",4.2,1500.0,Modern Indian,50,False,False
+Cacao- A Restrobar,Mumbai,"Aralia International Airport, Mumbai",4.0,1200.0,"Mexican, Indian, Italian",30,False,False
+24/7 Restaurant,Mumbai,"The Lalit, Mumbai",4.4,3500.0,"Multicuisine, Bengali",25,False,False
+Zytun- The Restaurant,Mumbai,"Hotel Metropolis, Mumbai",4.3,1200.0,Multicuisine,25,False,False
+Fusion Ville,Mumbai,"Marol, Central Mumbai",4.1,1200.0,Multicuisine,25,False,False
+SPICE OASIS,Mumbai,"IRA BY ORCHID HOTELS, Mumbai",4.1,2600.0,Multicuisine,50,False,False
+The Brasserie BY HILTON MUMBAI,Mumbai,"Hilton Mumbai, Mumbai",4.2,2200.0,Multicuisine,50,False,False
+Fiona,Mumbai,Radisson Blu Mumbai International Airport,4.2,3000.0,"Cocktail Menu, Multicuisine",50,False,False
+Madeleine De Proust,Mumbai,"Fairmont, Vile Parle, Mumbai",5.0,2000.0,Multicuisine,25,False,False
+Heritage Kitchen & Bar,Mumbai,"Andheri East, Western Suburbs",3.4,1000.0,Multicuisine,20,False,False
+Global Coffee House & Eatery,Mumbai,"Bloom Hotel - Saki Vihar, Powai",5.0,2500.0,Multicuisine,40,False,False
+SMOOR,Mumbai,"Powai, Central Mumbai",4.7,600.0,European,10,False,False
+Mado Mado,Mumbai,Fairfield by Marriott Mumbai International Airport,4.3,3000.0,Multicuisine,50,False,False
+Uttam Da Dhaba,Mumbai,"Marol, Central Mumbai",4.3,1200.0,South Indian,10,False,False
+Fly Kitchen and Bar,Mumbai,"Andheri East, Western Suburbs",1.0,1700.0,Multicuisine,20,False,False
+Gallery Cafe,Mumbai,Radisson Mumbai Andheri MIDC,4.2,2500.0,Multicuisine,55,False,False
+72 Bar,Mumbai,"Holiday Inn Mumbai International Airport, Mumbai",4.3,2000.0,"Finger Food, Cocktail Menu",50,False,False
+Baluchi,Mumbai,"The Lalit, Mumbai",4.4,3500.0,North Indian,25,False,False
+"Castor Bistro Café By Aralia – A Business Hotel, Midc",Mumbai,"Andheri East, Western Suburbs",4.6,1200.0,Multicuisine,30,False,False
+Shetty Lounge,Mumbai,"Marol, Central Mumbai",4.0,1600.0,"Chinese, Indian",10,False,False
+Dhaba,Mumbai,"Marol, Central Mumbai",5.0,800.0,Multicuisine,10,False,False
+Lounge Bar BY HILTON MUMBAI,Mumbai,"Hilton Mumbai, Mumbai",4.1,2000.0,"Finger Food, Cocktail Menu",30,False,False
+Gourmet Bar By Novotel,Mumbai,Novotel Mumbai International Airport,4.9,2500.0,Modern Indian,30,False,False
+JW Cafe,Mumbai,"JW Marriott Mumbai Sahar, Mumbai",4.5,4000.0,Multicuisine,25,False,False
+Navya,Mumbai,"The Regale by Tunga, Mumbai",4.5,850.0,Multicuisine,25,False,False
+Kohana,Mumbai,"Powai, Central Mumbai",3.6,3500.0,Multicuisine,10,False,False
+Saptami,Mumbai,"Holiday Inn Mumbai International Airport, Mumbai",4.4,2000.0,Multicuisine,30,False,False
+Kona Kona Kitchen & Bar,Mumbai,"Andheri East, Western Suburbs",4.0,1500.0,"European, Indian",25,False,False
+British Brewing Company,Mumbai,"Marol, Central Mumbai",4.1,2000.0,"Desserts, Cocktail Menu, Multicuisine",30,False,False
+Mayouchi,Mumbai,The Westin Mumbai Powai Lake,4.5,2000.0,"Japanese, oriental",25,False,False
+MoMo Cafe,Mumbai,Courtyard Mumbai International Airport,4.3,3000.0,Multicuisine,25,False,False
+Food Exchange By Novotel,Mumbai,Novotel Mumbai International Airport,4.4,2000.0,Multicuisine,50,False,False
+Indriya Mishran,Mumbai,"Andheri East, Western Suburbs",4.5,1600.0,"Multicuisine, Japanese, Asian",30,False,False
+Lake View Cafe,Mumbai,The Westin Mumbai Powai Lake,4.4,3000.0,Multicuisine,25,False,False
+Something's Fishy,Mumbai,"Tunga International, Mumbai",4.6,1700.0,Seafood,10,False,False
+Fame Garden Prive,Mumbai,"Powai, Central Mumbai",4.4,2500.0,European,20,False,False
+Crimson,Mumbai,"Marriott Executive Apartments, Powai",5.0,2000.0,Multicuisine,20,False,False
+Whats Your Plan ?,Mumbai,"Sakinaka, Central Mumbai",4.7,1600.0,"Multicuisine, Asian",25,False,False
+Episode One,Mumbai,"Powai, Central Mumbai",4.3,1400.0,Finger Food,20,False,False
+Asia Kitchen By Mainland China,Mumbai,"Sakinaka, Central Mumbai",4.4,1600.0,Pan Asian,20,False,False
+Deli Shop BY HILTON MUMBAI,Mumbai,"Hilton Mumbai, Mumbai",5.0,800.0,Bakery,50,False,False
+Brew Code- Holiday Inn,Mumbai,"Holiday Inn Mumbai International Airport, Mumbai",5.0,800.0,"Cafe, Bakery",50,False,False
+190 AMSL By Novotel,Mumbai,Novotel Mumbai International Airport,4.8,995.0,"Asian, Continental",30,False,False
+Foo Powai,Mumbai,"Powai, Central Mumbai",4.5,2000.0,"Chinese, Sushi, Asian",25,False,False
+The Solitaire Restaurant,Mumbai,"Hotel Kohinoor Continental, Mumbai",4.4,2500.0,Multicuisine,50,False,False
+Avartana,Mumbai,"ITC Maratha, Mumbai",5.0,5000.0,Indian,10,False,False
+Savera Lassi Shop,Bengaluru,"Shivajinagar, Central Bengaluru",4.7,2000.0,"Ice Cream, Beverages",10,False,False
+My Breakfast,Bengaluru,"Shivajinagar, Central Bengaluru",4.0,2000.0,Multicuisine,10,False,False
+Masha Allah Hot And Cool Point,Bengaluru,"Shivajinagar, Central Bengaluru",4.0,2000.0,Fast Food,10,False,False
+Tipsy Cafe,Bengaluru,"Shivajinagar, Central Bengaluru",4.0,2000.0,Fast Food,10,False,False
+Shahi Restaurant,Bengaluru,"Shivajinagar, Central Bengaluru",3.0,2000.0,Multicuisine,10,False,False
+Main Lassi Shop,Bengaluru,"Shivajinagar, Central Bengaluru",1.0,2000.0,Multicuisine,10,False,False
+Maggi Baba,Bengaluru,"Shivajinagar, Central Bengaluru",5.0,2000.0,Beverages,25,False,False
+Romeo Cafe,Bengaluru,"Shivajinagar, Central Bengaluru",4.0,2000.0,Multicuisine,25,False,False
+Flo,Bengaluru,"Church Street, Central Bengaluru",3.4,2000.0,"Cocktail Menu, Multicuisine",45,False,False
+CBD Central Bar District,Bengaluru,"MSR Nagar, Bengaluru",4.9,1200.0,Multicuisine,20,False,False
+Juliana's,Bengaluru,"Infantry Road, Central Bengaluru",5.0,1400.0,"Pan Asian, Continental",25,False,False
+ShakesBierre,Bengaluru,"MG Road, Central Bengaluru",4.4,2000.0,"Cocktail Menu, Multicuisine",10,False,False
+SMOOR,Bengaluru,"Lavelle Road, Central Bengaluru",4.5,2000.0,European,10,False,False
+Hard Rock Cafe,Bengaluru,"St. Marks Road, Central Bengaluru",4.5,2500.0,"Multicuisine, Burgers",20,False,False
+By Chance,Bengaluru,"Brigade Road, Central Bengaluru",4.5,1500.0,Multicuisine,50,False,False
+Tiamo,Bengaluru,Conrad Bengaluru,4.4,3000.0,"Italian, Mediterranean",20,False,False
+Burnout Cafe,Bengaluru,"Infantry Road, Central Bengaluru",3.9,2000.0,"Continental, Chinese, Multicuisine",15,False,False
+Muro India,Bengaluru,"Museum Road, Ashok Nagar, Bengaluru",4.6,5000.0,"Thai, Cantonese",25,False,False
+Rolls On Wheels,Bengaluru,"Cunningham Road, Central Bengaluru",4.0,500.0,"Chinese, Fast Food",15,False,False
+Church Street Social,Bengaluru,"Church Street, Central Bengaluru",4.2,2000.0,Multicuisine,15,False,False
+Kling Brewery,Bengaluru,"Church Street, Central Bengaluru",4.5,2000.0,Multicuisine,25,False,False
+The Market,Bengaluru,"The Ritz-Carlton, Bengaluru",4.5,4000.0,"All Day Dining, Multicuisine",25,False,False
+Utse Kitchen,Bengaluru,"Shivajinagar, Central Bengaluru",5.0,1500.0,Asian,25,False,False
+Café Azzure,Bengaluru,"MG Road, Central Bengaluru",4.2,2000.0,European,15,False,False
+Punjab Grill,Bengaluru,"Ashok Nagar, Bengaluru",4.2,2000.0,North Indian,20,False,False
+KA 01 - Rooftop Bar & Eats,Bengaluru,"Ibis Hotel, Richmond Road",4.4,2000.0,"Indian, Cocktail Menu",10,False,False
+Hatti Kaapi,Bengaluru,"Infantry Road, Central Bengaluru",5.0,400.0,Multicuisine,10,False,False
+Mikusu,Bengaluru,Conrad Bengaluru,4.5,3000.0,"Thai, Chinese, Japanese",25,False,False
+Maayaa,Bengaluru,"The Courtyard by Sublime, Bengaluru",4.4,2000.0,South Indian,25,False,False
+Pizza Stop,Bengaluru,"Lavelle Road, Central Bengaluru",4.0,700.0,"Fast Food, Italian",25,False,False
+JW Kitchen,Bengaluru,"JW Marriott, Bengaluru, Central Bengaluru",4.4,2500.0,Multicuisine,25,False,False
+Serious Slice,Bengaluru,"Cunningham Road, Central Bengaluru",4.0,5000.0,Italian,25,False,False
+Beijing Bites,Bengaluru,"Frazer Town, Central Bengaluru",5.0,450.0,Pan Asian,15,False,False
+Ta'aam,Bengaluru,"Cunningham Road, Central Bengaluru",5.0,600.0,"Arabian, North Indian",25,False,False
+Republic Of Noodles,Bengaluru,"Lemon Tree Premier, Ulsoor",4.6,1500.0,Pan Asian,25,False,False
+Hoppipola,Bengaluru,"Church Street, Central Bengaluru",3.9,2000.0,Cocktail Menu,30,False,False
+The Biere Club,Bengaluru,"Lavelle Road, Central Bengaluru",4.4,2000.0,"Multicuisine, Cocktail Menu",10,False,False
+Cafe Noir,Bengaluru,"UB City, Central Bengaluru",4.4,1000.0,European,15,False,False
+Monarch Cafe,Bengaluru,"Infantry Road, Central Bengaluru",4.0,2000.0,Multicuisine,25,False,False
+New Kudla Family Restaurant,Bengaluru,"MG Road, Central Bengaluru",4.0,2000.0,"Chinese, North Indian",50,False,False
+Cafe Adams,Bengaluru,"Shivajinagar, Central Bengaluru",4.0,2000.0,European,25,False,False
+Ihmiets Momos,Bengaluru,"Old Madras Road, East Bengaluru",4.0,2000.0,Momos,50,False,False
+Easy Tiger,Bengaluru,"Church Street, Central Bengaluru",4.2,2000.0,"Cocktail Menu, American",30,False,False
+Levista Gourmet Studio,Bengaluru,"Church Street, Central Bengaluru",5.0,2000.0,American,25,False,False
+Toca Terrace,Bengaluru,"Brigade Road, Central Bengaluru",4.2,2000.0,Multicuisine,40,False,False
+Mazdana,Pune,"Camp Area, Pune",4.5,1000.0,Multicuisine,15,False,False
+Citrus Cafe,Pune,"Lemon Tree Premier, City Center, Pune",4.6,1600.0,Multicuisine,20,False,False
+Feast,Pune,"Sheraton Grand Pune Bund Garden Hotel, Pune",4.6,3000.0,Multicuisine,25,False,False
+Kiki,Pune,"The Mills, Bund Garden Road, Pune",5.0,1500.0,Multicuisine,15,False,False
+Mosaic,Pune,"Crowne Plaza Pune City Centre, Pune",4.2,1500.0,"Multicuisine, All Day Dining",50,False,False
+Evviva,Pune,"Crowne Plaza Pune City Centre, Pune",3.9,2500.0,"Finger Food, Cocktail Menu",50,False,False
+Chingari,Pune,"Sheraton Grand Pune Bund Garden Hotel, Pune",4.3,2500.0,North Indian,25,False,False
+Acai,Pune,"Dhole Patil Road, Pune",4.3,1500.0,Multicuisine,15,False,False
+Epitome,Pune,"The Mills, Bund Garden Road, Pune",2.4,1800.0,Multicuisine,10,False,False
+Millers - The Luxury Club,Pune,"Bund Garden Road, Pune",4.8,1800.0,Multicuisine,20,False,False
+The Game Palacio,Pune,"Dhole Patil Road, Pune",4.9,1500.0,Multicuisine,20,False,False
+The lobby @Sheraton,Pune,"Sheraton Grand Pune Bund Garden Hotel, Pune",4.6,700.0,Bakery,25,False,False
+Slounge,Pune,Lemon Tree Premier Pune,4.0,1500.0,"North Indian, Finger Food",30,False,False
+Bira 91 Taproom,Pune,"Sangamvadi, Pune",4.0,3000.0,Multicuisine,30,False,False
+Mirage,Pune,"Sangamvadi, Pune",4.0,2000.0,Pan Asian,30,False,False
+Kukoo,Pune,"Sangamvadi, Pune",5.0,1800.0,Multicuisine,20,False,False
+Nawab Asia,Pune,"Bund Garden Road, Pune",5.0,1500.0,North Indian,25,False,False
+Ba Da Bom,Pune,"Sangamvadi, Pune",4.5,1500.0,Korean,10,False,False
+KMCY,Pune,"Raja Bahadur Mill Road, Pune",4.0,2500.0,"Sichuan, Chinese",20,False,False
+Hotel Madhav Pure Veg,Pune,"Sangamvadi, Pune",5.0,1000.0,"North Indian, Chinese",25,False,False
+Mahesh Lunch Home,Pune,"Camp Area, Pune",4.4,1400.0,Seafood,10,False,False
+Surve's Pure Non Veg (Camp),Pune,"Camp Area, Pune",4.0,700.0,Multicuisine,10,False,False
+Sante Spa Cuisine,Pune,"1st Lane, Koregaon Park, Pune",4.6,1000.0,"Healthy Food, Vegan",25,False,False
+Kuai Kitchen,Pune,"Koregaon Park, Pune",5.0,1600.0,Pan Asian,25,False,False
+Grandmama's Cafe,Pune,"Koregaon Park, Pune",4.4,1600.0,"Cafe, Multicuisine",10,False,False
+"Hippie @ Heart, Mills",Pune,"Sangamvadi, Pune",4.0,1000.0,Multicuisine,25,False,False
+Shahji's Paratha House,Pune,"Dhole Patil Road, Pune",4.0,800.0,North Indian,25,False,False
+Maratha Samrat,Pune,"Camp Area, Pune",2.0,1200.0,"Seafood, Biryani, Maharashtrian",10,False,False
+Asia Kitchen By Mainland China,Pune,"Dhole Patil Road, Pune",4.6,1600.0,Chinese,15,False,False
+Chafa Cafe,Pune,"Koregaon Park, Pune",4.4,600.0,Healthy Food,10,False,False
+Ebony,Pune,"St Laurn Business Hotel, Pune",3.7,1400.0,Multicuisine,25,False,False
+Shisha Jazz Cafe,Pune,"Sangamvadi, Pune",4.0,1500.0,Multicuisine,25,False,False
+Atmosphere 6,Pune,"Viman Nagar, Pune",4.4,2000.0,Multicuisine,15,False,False
+Boho Boho,Pune,"Koregaon Park, Pune",5.0,900.0,Multicuisine,10,False,False
+Yolo Gastro Lounge,Pune,"Spot 18 Mall, Pimple Saudagar",3.6,1800.0,Multicuisine,55,False,False
+Zanzibar,Pune,The Central Park Hotel,4.8,1100.0,"Cocktail Menu, Multicuisine",25,False,False
+Time After Time,Pune,The Central Park Hotel,3.5,1400.0,"Multicuisine, European",25,False,False
+IHOP Restaurant,Pune,"Senapati Bapat Road, Pune",4.6,1500.0,American,50,False,False
+Tim Luck Luck,Pune,"East Street, Pune",4.1,1000.0,"Chinese, North Indian, Cocktail Menu",15,False,False
+Kiosk kaffee,Pune,"SGS Mall, Camp Area",4.0,300.0,Coffee,25,False,False
+The Square,Pune,Novotel Pune Nagar Road,4.2,2500.0,Multicuisine,30,False,False
+The Rooftop Project,Pune,"MG Road, Pune",3.9,1400.0,Multicuisine,10,False,False
+QORA - Cocktail Bar & Kitchen,Pune,"Koregaon Park, Pune",4.1,1500.0,Asian,25,False,False
+Dario's,Pune,"Koregaon Park, Pune",4.0,1500.0,Italian,15,False,False
+INOX,Pune,"Bund Garden Road, Pune",1.0,500.0,Fast Food,25,False,False
+Doors Dubai Mall,Dubai,"Dubai Mall, Downtown Dubai",4.0,500.0,Multicuisine,50,False,False
+Asha's,Dubai,"Umm Hurair, Bur Dubai",4.7,370.0,"Indian, North Indian",10,False,False
+Carnival By Tresind,Dubai,"DIFC, Financial Center",4.8,500.0,Modern Indian,30,False,False
+Bikanervala,Dubai,"Silicon Oasis, Outer Dubai",5.0,65.0,Street Food,20,False,False
+Revelry,Dubai,Dubai Hills Mall,5.0,300.0,Indian,25,False,False
+Thai Chi,Dubai,"Pyramids At Wafi, Umm Hurair",4.0,200.0,Multicuisine,15,False,False
+Bombay Brasserie,Dubai,Taj Dubai,4.6,500.0,Indian,20,False,False
+Nine Squares,Dubai,"Umm Suqeim, Jumeirah",4.0,250.0,Multicuisine,25,False,False
+Maharaja Bhog - Premium veg thali,Dubai,"Al Karama, Dubai",4.6,106.0,Rajasthani,15,False,False
+Jolly's Restaurant,Dubai,"Cluster Q, Jumeirah Lake Towers (JLT)",5.0,60.0,Indian,50,False,False
+Seville's,Dubai,"Pyramids At Wafi, Umm Hurair",4.8,350.0,"Spanish, Tapas",50,False,False
+Mann Marzi,Dubai,Raffles Dubai,4.0,600.0,Indian,20,False,False
+Dencio's,Dubai,"Asiana Grand Hotel, Al Muraqqabat, Dubai",5.0,110.0,Filipino,10,False,False
+TGI Friday's The Dubai Mall,Dubai,"Dubai Mall, Downtown Dubai",5.0,100.0,American,25,False,False
+88 Hongkong,Dubai,Golden Tulip Al Barsha Dubai,5.0,200.0,"Chinese, Korean",15,False,False
+Haveli Lounge & Cafe,Dubai,"Sheikh Zayed Road, Dubai",5.0,150.0,"Chinese, Indonesian",15,False,False
+Kobe Sizzler,Dubai,"Al Karama, Dubai",5.0,100.0,Sizzlers,30,False,False
+WAWA Dining,Dubai,Golden Tulip Al Barsha Dubai,4.0,320.0,"Japanese, Korean",30,False,False
+Punjab Grill Anantara Dubai Downtown,Dubai,Anantara Downtown Dubai Hotel,4.8,400.0,Indian,50,False,False
+Bisou Restaurant,Dubai,"Sheikh Mohammed bin Rashid Blvd, Dubai",4.0,500.0,French,25,False,False
+Tanatan,Dubai,"Ramee Dream Hotel Downtown, Dubai",5.0,180.0,Indian,25,False,False
+Bambooda,Dubai,Mövenpick Grand Al Bustan Dubai,5.0,80.0,Thai,25,False,False
+Bombay Bungalow,Dubai,"The Walk, Jumeirah Beach Residence",3.3,275.0,Indian,25,False,False
+Cosmic Kitchen,Dubai,"Courtyard by Marriott, Dubai World Trade Centre",4.0,150.0,Multicuisine,10,False,False
+Zahr El Laymoun Alasly,Dubai,"Souk Al Bahar, Downtown Dubai",4.0,250.0,Lebanese,1,False,False
+Atrangi By Ritu Dalmia,Dubai,"Al Qasr, Madinat Jumeirah",5.0,550.0,Indian,10,False,False
+Kanpai Restaurant & Lounge,Dubai,"Souk Al Bahar, Downtown Dubai",4.4,480.0,"Asian, Fusion, Japanese",25,False,False
+Freddy's,Dubai,Fortune Atrium Hotel,4.0,130.0,"Chinese, Finger Food",50,False,False
+India Palace,Dubai,"Jumeirah Beach Residence (JBR), New Dubai",5.0,180.0,Indian,25,False,False
+Desi Dhaba,Dubai,Fortune Atrium Hotel,3.8,150.0,North Indian,10,False,False
+Fat Frog,Dubai,"Wescott Hotel, Dubai",4.0,120.0,"Chinese, Indian, Continental",25,False,False
+Shooterz,Dubai,"Wescott Hotel, Dubai",4.0,110.0,"Continental, Indian, Chinese",25,False,False
+"TGI Friday's, Rove Downtown Hotel",Dubai,Rove Downtown Dubai,4.0,100.0,American,25,False,False
+Da Gama,Dubai,"Century Village, Garhoud",4.6,250.0,"Portuguese, Mexican",15,False,False
+Vintage,Dubai,"Pyramids At Wafi, Umm Hurair",4.0,200.0,Finger Food,50,False,False
+Rasa,Dubai,Fortune Atrium Hotel,4.0,120.0,Kerala,20,False,False
+Nine Squares,Dubai,"International City, Outer Dubai",4.0,250.0,Chinese,50,False,False
+Shabestan,Dubai,Radisson Blu Hotel Dubai Deira Creek,4.8,350.0,Persian,25,False,False
+Daftar,Dubai,"DIFC, Financial Center",4.0,100.0,Indian,25,False,False
+Indikaya,Dubai,"Shangri La Hotel, Dubai",4.0,250.0,"Modern Indian, Tapas",25,False,False
+Punjabi Dhaba,Dubai,"BurJuman Centre, Khalid Bin Al Waleed",5.0,80.0,Multicuisine,25,False,False
+Kailash Parbat,Dubai,"Umm Hurair 1, Bur Dubai",5.0,120.0,Multicuisine,20,False,False
+Pizzaexpress,Dubai,DoubleTree by Hilton Dubai - Business Bay,4.9,250.0,Italian,10,False,False
+Stories Lounge and Bar,Dubai,"Al Fahidi, Dubai",4.0,150.0,"Chinese, Indian",25,False,False
+Mu-Kii Pan Asian Tapas,Dubai,"Jumeirah Beach Residence (JBR), New Dubai",5.0,360.0,Pan Asian,30,False,False
+Pepper Town,Kolkata,"Sector 1, Salt Lake",4.2,1200.0,Multicuisine,25,False,False
+Loafer's Cafe,Kolkata,"Sector 1, Salt Lake",4.1,500.0,Multicuisine,10,False,False
+Calcutta Bakery Cafe,Kolkata,"Sector 1, Salt Lake",4.0,1200.0,European,15,False,False
+Gondhoraj,Kolkata,"Sector 1, Salt Lake",4.7,1000.0,Bengali,15,False,False
+Yarana Supper Club,Kolkata,"Sector 1, Salt Lake",4.8,2000.0,"Cocktail Menu, Multicuisine",10,False,False
+Port -15,Kolkata,"Bidhannagar, Kolkata",5.0,1000.0,Multicuisine,15,False,False
+Kouzina Mining Co.,Kolkata,"Sector 1, Salt Lake",4.4,1200.0,"oriental, North Indian",25,False,False
+Cafe Proof,Kolkata,"Bidhannagar, Kolkata",4.0,800.0,Multicuisine,25,False,False
+New Labong Cafe and Steakhouse,Kolkata,"Bidhannagar, Kolkata",5.0,900.0,"Steakhouse, Continental",15,False,False
+Cafe Florista,Kolkata,"Sector 1, Salt Lake",5.0,1400.0,Multicuisine,25,False,False
+Momo I Am,Kolkata,"Sector 1, Salt Lake",4.9,1000.0,"Chinese, Thai, Asian",25,False,False
+Twisty,Kolkata,"Bidhannagar, Kolkata",4.0,400.0,Cafe,10,False,False
+Calcutta 64,Kolkata,"Sector 1, Salt Lake",4.2,950.0,Cafe,25,False,False
+Korean Grill by Momo I Am,Kolkata,"Sector 5, Salt Lake",3.5,2800.0,"Korean, Barbeque",25,False,False
+Friday Release,Kolkata,"Sector 1, Salt Lake",4.3,1000.0,"Cocktail Menu, Multicuisine",30,False,False
+Sky View Cafe,Kolkata,"De Sovrani, Kolkata",3.6,800.0,"Cocktail Menu, Multicuisine",25,False,False
+Que Pasa,Kolkata,"Sector 1, Salt Lake",4.5,900.0,Multicuisine,15,False,False
+Craft Coffee,Kolkata,"City Centre 1, Sector 1, Salt Lake",5.0,800.0,Coffee,10,False,False
+Shorshe,Kolkata,"Sector 1, Salt Lake",4.0,700.0,"Indian, Continental",25,False,False
+Ambrosia Restaurant & Bar,Kolkata,"Sector 1, Salt Lake",4.3,900.0,"Multicuisine, Cocktail Menu",30,False,False
+Orko'ss Restaurant & Lounge Bar,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.4,1200.0,Multicuisine,25,False,False
+Plush 28,Kolkata,"Sector 1, Salt Lake",4.5,800.0,Multicuisine,20,False,False
+Mintelaa,Kolkata,"Sector 1, Salt Lake",4.7,1000.0,Multicuisine,10,False,False
+Noir Glass House,Kolkata,"Golden Tulip, Kolkata",4.0,1000.0,Multicuisine,30,False,False
+Canteen Pub and Grub,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.3,1200.0,Multicuisine,20,False,False
+Afraa Lounge & Restaurant,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.0,1800.0,Multicuisine,10,False,False
+Calcutta Retro,Kolkata,"Sector 1, Salt Lake",4.0,1500.0,"Bengali, North Indian",20,False,False
+Kouzina Marine,Kolkata,"Sector 1, Salt Lake",4.2,1000.0,Multicuisine,20,False,False
+Oudh 1590,Kolkata,"Sector 1, Salt Lake",4.1,1200.0,"Awadhi, Mughlai",10,False,False
+Fly Kouzina,Kolkata,"Sector 1, Salt Lake",4.3,1000.0,Multicuisine,15,False,False
+Anti Pasti,Kolkata,"Golden Tulip, Kolkata",4.1,1200.0,Continental,35,False,False
+Sonar Tori,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.5,1200.0,Bengali,10,False,False
+Uddta Punjab,Kolkata,"Sector 1, Salt Lake",4.0,800.0,"Italian, Pizza, Continental",30,False,False
+Burger Factory,Kolkata,"Sector 1, Salt Lake",4.0,800.0,European,30,False,False
+Zaairah,Kolkata,"Sector 1, Salt Lake",2.7,1000.0,Multicuisine,15,False,False
+Aura,Kolkata,"The Sonnet, Kolkata",4.2,1400.0,Multicuisine,25,False,False
+Don Giovanni's,Kolkata,"Sector 1, Salt Lake",3.0,1000.0,Continental,30,False,False
+Aqua Java,Kolkata,"Sector 2, Salt Lake",4.0,1000.0,"North Indian, Continental",10,False,False
+"The Orient, Salt Lake",Kolkata,"Sector 1, Salt Lake",4.4,1200.0,Asian,10,False,False
+Chef & Mixologist,Kolkata,"Lake Town, Kolkata",4.0,1200.0,"Cafe, European, Pan Asian",20,False,False
+Kung pao,Kolkata,"Sector 1, Salt Lake",2.2,900.0,"Pizza, Continental",30,False,False
+Panasa,Kolkata,"Sector 1, Salt Lake",5.0,800.0,Multicuisine,10,False,False
+Noir The Sky Lounge,Kolkata,"Golden Tulip, Kolkata",4.3,800.0,Multicuisine,30,False,False
+Haka,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.2,800.0,Multicuisine,15,False,False
+Chili's American Grill & Bar,Kolkata,"City Centre 1, Sector 1, Salt Lake",4.0,1200.0,"Mexican, Tex-Mex",25,False,False
+Gujraj Veg Restaurant,Chennai,"Hotel AK International, Chennai",4.7,800.0,North Indian,30,False,False
+North Indian And Bengali Pearl Restaurant,Chennai,"Periamet, Chennai",4.0,500.0,"Indian, Chinese",25,False,False
+Wow! Momo,Chennai,"Ekkaduthangal, Chennai",4.0,400.0,Momos,15,False,False
+Message In A Bottle,Chennai,"Fortel, Chennai",4.2,1200.0,Finger Food,25,False,False
+Enoki,Chennai,"Egmore, Chennai",5.0,1000.0,Pan Asian,15,False,False
+The Madras Taproom,Chennai,"Egmore, Chennai",2.7,1000.0,Multicuisine,25,False,False
+Chilli Malli,Chennai,"Fortel, Chennai",4.0,1000.0,South Indian,10,False,False
+Symphony,Chennai,Ramada Chennai Egmore,4.0,4000.0,Multicuisine,20,False,False
+Waves Bar & Lounge,Chennai,Ramada Chennai Egmore,3.7,1950.0,"Finger Food, Cocktail Menu",10,False,False
+Board Walk,Chennai,Ramada Chennai Egmore,3.9,1200.0,Multicuisine,35,False,False
+You Mee,Chennai,"Express Avenue Mall, Royapettah",4.7,1500.0,Pan Asian,20,False,False
+Punjab Grill,Chennai,"Express Avenue Mall, Royapettah",4.4,1800.0,North Indian,20,False,False
+City Diners,Chennai,"Hotel City Tower, Chennai",4.0,500.0,Multicuisine,10,False,False
+Cafe Stop,Chennai,Ramada Chennai Egmore,4.0,700.0,"Cafe, Fast Food",10,False,False
+Marina Sands,Chennai,Ramada Chennai Egmore,3.5,1200.0,Multicuisine,10,False,False
+Cafe Noci,Chennai,"Royapettah, Chennai",5.0,1400.0,"Multicuisine, Continental",30,False,False
+Oasis,Chennai,"Radisson Blu, Egmore",4.0,2500.0,Multicuisine,30,False,False
+The Great Kabab Factory,Chennai,"Radisson Blu, Egmore",4.5,3000.0,North Indian,25,False,False
+Jonah's Bistro,Chennai,"Express Avenue Mall, Royapettah",4.4,1000.0,European,25,False,False
+The Scallion,Chennai,Ramada Plaza Chennai,4.3,2500.0,Pan Asian,50,False,False
+Sin & Tonic,Chennai,"T. Nagar, Chennai",3.9,1500.0,Finger Food,30,False,False
+Noci Adante,Chennai,"Royapettah, Chennai",4.0,1500.0,Multicuisine,25,False,False
+Shadows,Chennai,"Hotel Abu Palace, Chennai",4.0,1500.0,Multicuisine,30,False,False
+Mirchi Express,Chennai,"Marina Inn, Chennai",4.3,800.0,Indian,25,False,False
+Hard Rock Cafe,Chennai,"Nungambakkam, Chennai",4.5,1500.0,"American, Cocktail Menu, Burgers",20,False,False
+The Society Restaurant,Chennai,"Ambassador Pallava, Chennai",4.0,1500.0,Multicuisine,15,False,False
+SOS - Same Old Story,Chennai,"Thousand Lights, Chennai",4.2,1600.0,"Cocktail Menu, oriental",50,False,False
+Brew Bites,Chennai,"Vestin Park, Chennai",4.2,550.0,Multicuisine,25,False,False
+Garrison,Chennai,"The Kings Hotel, Chennai",4.6,2000.0,Finger Food,30,False,False
+Bombay Brasserie,Chennai,"Nungambakkam, Chennai",4.4,1500.0,Indian,15,False,False
+R&G,Chennai,"Green Park Hotel, Chennai",3.9,2000.0,Multicuisine,35,False,False
+Darbar,Chennai,"Alsa Mall, Egmore",4.3,750.0,Multicuisine,10,False,False
+HOB Club & Lounge,Chennai,"The Kings Park Grand, Chennai",3.0,1000.0,Finger Food,40,False,False
+The Reef,Chennai,Sheraton Grand Chennai Resort & Spa,4.4,3200.0,Multicuisine,30,False,False
+Café Manana,Chennai,"Anna Nagar East, Chennai",4.4,1300.0,Multicuisine,25,False,False
+Canvas,Chennai,"Raja Annamalai Puram, Chennai",4.0,1600.0,Multicuisine,15,False,False
+Yazhee World,Chennai,"Porur, Chennai",4.2,800.0,"Biryani, Indian",25,False,False
+Goldman's Steakhouse,Chennai,"Nungambakkam, Chennai",2.9,1400.0,American,10,False,False
+Tamizh Koodam Mess,Chennai,"Mylapore, Chennai",4.0,1000.0,South Indian,15,False,False
+Fasta Pizza,Chennai,"Kattupakkam, Chennai",5.0,400.0,Pizza,50,False,False
+Babal Da Punjabi Dhaba,Chennai,"Egmore, Chennai",5.0,1200.0,Multicuisine,15,False,False
+Colony,Chennai,"The Raintree, St. Mary’s Road",4.1,2500.0,Multicuisine,25,False,False
+Fuel Juice And Pasta Bar,Chennai,"Kilpauk, Chennai",4.5,400.0,"Fast Food, Beverages",20,False,False
+Woodlands Drive-in,Chennai,"Arumbakkam, Chennai",4.6,1000.0,South Indian,10,False,False
+Coal Barbecues,Chennai,"T. Nagar, Chennai",3.8,2000.0,"Multicuisine, Barbeque",10,False,False
+The Bun-Wigi,Hyderabad,"Banjara Hills, Hyderabad",4.0,800.0,"European, Pan Asian, Continental",50,False,False
+Exotica,Hyderabad,"Banjara Hills, Hyderabad",4.3,1500.0,Multicuisine,10,False,False
+Fuel Cafe,Hyderabad,"Banjara Hills, Hyderabad",4.0,800.0,Cafe,15,False,False
+7 Sisters,Hyderabad,"Banjara Hills, Hyderabad",4.4,700.0,North Eastern,15,False,False
+Habitat Cafe,Hyderabad,"Banjara Hills, Hyderabad",4.7,1200.0,Multicuisine,30,False,False
+A'La Liberty,Hyderabad,"Banjara Hills, Hyderabad",4.3,1300.0,"Indian, European",10,False,False
+Hummus House,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",4.8,1100.0,Mediterranean,15,False,False
+Hibacci,Hyderabad,"Banjara Hills, Hyderabad",4.4,1250.0,Multicuisine,10,False,False
+Imli Sarai,Hyderabad,"Banjara Hills, Hyderabad",3.0,1800.0,European,15,False,False
+Mazuri Cafe,Hyderabad,"Banjara Hills, Hyderabad",4.0,1000.0,"European, Multicuisine",50,False,False
+Chill and Terrace,Hyderabad,"Radisson Blu Plaza Hotel, Hyderabad",3.9,1500.0,"Indian, European",10,False,False
+Namchi - Fusion Of Taste Buds,Hyderabad,"Banjara Hills, Hyderabad",4.4,1000.0,Indian,25,False,False
+Vasaara,Hyderabad,"Banjara Hills, Hyderabad",4.0,1000.0,"European, South Indian",10,False,False
+Bar 41,Hyderabad,"Radisson Blu Plaza Hotel, Hyderabad",4.5,2000.0,"Finger Food, Cocktail Menu",30,False,False
+The Dining Room-Buffet-Park Hyatt,Hyderabad,"Park Hyatt, Hyderabad",4.1,3500.0,"South Indian, Continental",25,False,False
+Holy Basil,Hyderabad,"Radisson Blu Plaza Hotel, Hyderabad",4.5,1200.0,Pan Asian,30,False,False
+Bourbon & Breeze,Hyderabad,"Banjara Hills, Hyderabad",4.1,1500.0,Multicuisine,25,False,False
+Hard Rock Cafe,Hyderabad,"GVK One Mall, Banjara Hills",4.2,1800.0,Multicuisine,50,False,False
+La Pino'z Pizza,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",4.6,400.0,"Italian, Pizza",50,False,False
+Lemerian Workin Cafe,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",5.0,800.0,Multicuisine,10,False,False
+Ohri's Eatmor,Hyderabad,"Banjara Hills, Hyderabad",3.8,1200.0,Multicuisine,10,False,False
+Pakka Local,Hyderabad,"Road No. 7, Banjara Hills, Hyderabad",4.3,1200.0,Multicuisine,10,False,False
+Rium Cafe,Hyderabad,"Banjara Hills, Hyderabad",3.2,1200.0,"Chinese, Continental",25,False,False
+Amyra Cafe & Kitchen,Hyderabad,"Banjara Hills, Hyderabad",4.0,700.0,North Indian,50,False,False
+Kasuall,Hyderabad,"Somajiguda, Hyderabad",3.5,1200.0,Multicuisine,25,False,False
+Chef Inam's Steak House,Hyderabad,"Banjara Hills, Hyderabad",5.0,1800.0,"American, Barbeque",50,False,False
+ZYTHUM Brewing Co.,Hyderabad,"Jubilee Hills, Hyderabad",4.5,2500.0,Multicuisine,10,False,False
+The Octagon Cafe,Hyderabad,"Banjara Hills, Hyderabad",4.0,1600.0,European,50,False,False
+Flurys,Hyderabad,"Road No. 7, Banjara Hills, Hyderabad",5.0,1000.0,Bakery,10,False,False
+Alfi's Kitchen,Hyderabad,"Banjara Hills, Hyderabad",4.0,300.0,Bakery,10,False,False
+Hydrate The Bar,Hyderabad,"Hampshire Plaza Hotel, Hyderabad",4.0,1100.0,"Finger Food, Cocktail Menu",10,False,False
+Ohri's Cake Nation,Hyderabad,"Banjara Hills, Hyderabad",1.0,800.0,Bakery,20,False,False
+Harry's The Pub,Hyderabad,"Aditya Park, Hyderabad",4.8,1400.0,"Finger Food, Cocktail Menu",10,False,False
+Cayenne,Hyderabad,Mercure Hyderabad KCP,4.3,2000.0,Multicuisine,35,False,False
+Paneer palace Fine Dine Restaurant,Hyderabad,"Banjara Hills, Hyderabad",4.0,800.0,"North Indian, Chinese",40,False,False
+Kuchipudi,Hyderabad,"Katriya Hotels, Hyderabad",3.8,1000.0,South Indian,10,False,False
+Blu Café Lounge,Hyderabad,"Radisson Blu Plaza Hotel, Hyderabad",4.3,900.0,"Bakery, Cafe",50,False,False
+Aish,Hyderabad,"The Park, Hyderabad",4.0,2400.0,"Indian, South Indian",25,False,False
+Insomnia,Hyderabad,"Road No. 36, Jubilee Hills, Hyderabad",4.0,1500.0,"Finger Food, Cocktail Menu",30,False,False
+Rasa by Ashoka,Hyderabad,"Best Western Ashoka, Hyderabad",4.6,1500.0,Indian,25,False,False
+The Waterfront Bar & Grill,Hyderabad,"Necklace Road, Hyderabad",3.5,1200.0,"Indian, Chinese",25,False,False
+Verandah,Hyderabad,"The Park, Hyderabad",4.5,2500.0,Multicuisine,20,False,False
+Zouq,Hyderabad,"Road No. 2, Banjara Hills, Hyderabad",4.0,600.0,Turkish,35,False,False
+Wow! China Bistro,Hyderabad,"Banjara Hills, Hyderabad",1.0,600.0,Chinese,10,False,False
+Rayalaseema Ruchulu,Hyderabad,"Ameerpet, Hyderabad",4.5,800.0,"Andhra, South Indian",25,False,False
+The Chocolate Room,Ahmedabad,"Prahlad Nagar, West Ahmedabad",5.0,500.0,Bakery,35,False,False
+Essence,Ahmedabad,"Crowne Plaza, Ahmedabad",4.5,2000.0,"Indian, North Indian",20,False,False
+South Leaf - The Food Chain,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.5,900.0,South Indian,15,False,False
+Bella Aroma,Ahmedabad,"Crowne Plaza, Ahmedabad",4.6,700.0,Cafe,30,False,False
+Khichdi,Ahmedabad,"Prahlad Nagar, West Ahmedabad",1.0,700.0,Indian,25,False,False
+Sundew,Ahmedabad,"Hotel Ramada, Ahmedabad",4.4,1400.0,Multicuisine,10,False,False
+The Shaka Cafe,Ahmedabad,"Prahlad Nagar, West Ahmedabad",3.9,1000.0,Multicuisine,10,False,False
+La Milano Pizzeria,Ahmedabad,"Prahlad Nagar, West Ahmedabad",2.5,500.0,Pizza,25,False,False
+Sphere Lounge,Ahmedabad,"Hotel Ramada, Ahmedabad",4.2,900.0,"Continental, Indian",10,False,False
+Amritsar Haveli,Ahmedabad,"Prahlad Nagar, West Ahmedabad",3.3,1100.0,Multicuisine,50,False,False
+Barbeque Nation,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.5,2100.0,Multicuisine,25,False,False
+Grill Kitchen,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.4,1000.0,Multicuisine,10,False,False
+Salad Time,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.2,500.0,"Healthy Food, Salad",20,False,False
+Atrangi - The Modern Indian Kitchen,Ahmedabad,"Prahlad Nagar, West Ahmedabad",5.0,1200.0,Multicuisine,10,False,False
+1944 The Hocco Kitchen,Ahmedabad,"Prahlad Nagar, West Ahmedabad",5.0,1000.0,North Indian,10,False,False
+Express Cafe,Ahmedabad,Holiday Inn Express Ahmedabad Prahlad Nagar,4.1,600.0,Multicuisine,25,False,False
+Devi Coffee Day,Ahmedabad,"Satellite, West Ahmedabad",4.5,600.0,"Cafe, Fast Food",15,False,False
+SambharSa,Ahmedabad,"Prahlad Nagar, West Ahmedabad",5.0,400.0,Multicuisine,25,False,False
+Kitcha: Together We Eat,Ahmedabad,"Prahlad Nagar, West Ahmedabad",5.0,800.0,Multicuisine,15,False,False
+Topspin,Ahmedabad,"Devarc Mall, Ramdev Nagar",3.8,1200.0,Multicuisine,20,False,False
+Numeron,Ahmedabad,"Bodakdev, West Ahmedabad",4.4,1100.0,"North Indian, Italian, Chinese",30,False,False
+No Great Shakes,Ahmedabad,"Prahlad Nagar, West Ahmedabad",1.0,600.0,Multicuisine,20,False,False
+Fayrouz,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.8,800.0,Multicuisine,10,False,False
+U boat Gourmet Subs,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.0,400.0,Healthy Food,10,False,False
+Roastery Cultur - The Coffee Company,Ahmedabad,"Bodakdev, West Ahmedabad",4.6,700.0,"Coffee and Tea, Beverages",10,False,False
+Baba Budan Cafe,Ahmedabad,"Bodakdev, West Ahmedabad",5.0,600.0,Cafe,20,False,False
+Dolce Vita Ristorante,Ahmedabad,"Shilaj, Ahmedabad",5.0,1500.0,Multicuisine,25,False,False
+Ishtaa - Truly South Indian,Ahmedabad,"Bodakdev, West Ahmedabad",4.7,1000.0,South Indian,20,False,False
+Huber & Holly,Ahmedabad,"Bodakdev, West Ahmedabad",4.4,500.0,Ice Cream,15,False,False
+The Penthouse Chapter 1- By Novel Chef,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.0,1100.0,Multicuisine,15,False,False
+Starboy Pizza,Ahmedabad,"Prahlad Nagar, West Ahmedabad",4.0,300.0,"Italian, Desserts",25,False,False
+The Square - Novotel,Ahmedabad,"Novotel, Ahmedabad",4.2,1500.0,Multicuisine,25,False,False
+MAD By Tomato's,Ahmedabad,"Bodakdev, West Ahmedabad",5.0,1500.0,Multicuisine,10,False,False
+The Latin House,Ahmedabad,"Thaltej, West Ahmedabad",5.0,1000.0,"American, Mexican",25,False,False
+Cafe Treat,Ahmedabad,"The Pride Hotel, Ahmedabad",4.2,1800.0,Multicuisine,30,False,False
+Three Quarter Indian,Ahmedabad,"Satellite, West Ahmedabad",4.2,1200.0,Multicuisine,20,False,False
+Amala,Ahmedabad,"Bodakdev, West Ahmedabad",4.6,1100.0,Multicuisine,15,False,False
+Dakshin Bhojnam,Ahmedabad,Iskcon Cross Road,4.2,600.0,South Indian,10,False,False
+Tuk Tuk Thai - Pure Veg Asian Fine Dine,Ahmedabad,"Bodakdev, West Ahmedabad",4.8,1200.0,Asian,10,False,False
+Sappadu,Ahmedabad,"Bodakdev, West Ahmedabad",5.0,600.0,South Indian,10,False,False
+Desi Rasoi,Ahmedabad,"Satellite, West Ahmedabad",5.0,800.0,Gujarati,20,False,False
+Balista Bistro,Ahmedabad,"Makarba, Ahmedabad",4.5,500.0,"Italian, American",20,False,False
+Hella Good Pizzeria,Ahmedabad,"SOBO Center, Bopal",5.0,1000.0,Italian,15,False,False
+Bigly,Ahmedabad,"Thaltej, West Ahmedabad",4.8,1600.0,Multicuisine,10,False,False
+Zozi - Gujarat's First Diecast Cafe,Ahmedabad,"Bodakdev, West Ahmedabad",4.3,800.0,Italian,20,False,False
+Ministry Of Beer,Lucknow,"Gomti Nagar, Lucknow",4.3,2000.0,Multicuisine,50,False,False
+Spice Sutra,Lucknow,"Gomti Nagar, Lucknow",4.4,700.0,Multicuisine,35,False,False
+Arabania Indo-Arabic Restaurant,Lucknow,"Alambagh, Lucknow",4.4,1000.0,Arabian,30,False,False
+Criollo By Craft Coffee,Lucknow,"Hazratganj, Lucknow",5.0,1000.0,Coffee,25,False,False
+Moti Mahal Delux,Lucknow,"Hazratganj, Lucknow",4.8,1000.0,Multicuisine,20,False,False
+Hons - All Day Dining,Lucknow,"Hazratganj, Lucknow",4.3,1500.0,Multicuisine,20,False,False
+Barkaas Indo Arabic Restaurant,Lucknow,"Hazratganj, Lucknow",3.9,800.0,Indonesian,15,False,False
+Urban Club,Lucknow,"Hazratganj, Lucknow",4.0,800.0,"Finger Food, Cocktail Menu",25,False,False
+Tanatan,Lucknow,"Hazratganj, Lucknow",4.4,2500.0,Indian,40,False,False
+Wat-A-Burger!,Lucknow,"Hazratganj, Lucknow",4.0,500.0,"Fast Food, Burgers",50,False,False
+Haloz Cafe,Lucknow,"Hazratganj, Lucknow",5.0,1000.0,Italian,25,False,False
+Starbelly Cafe & Restaurant,Lucknow,"Hazratganj, Lucknow",4.0,700.0,"Chinese, Italian, Indian",10,False,False
+Urban Smoky Cafe,Lucknow,"Hazratganj, Lucknow",3.0,800.0,Indian,20,False,False
+Philtre & Co.,Lucknow,"Hazratganj, Lucknow",4.3,1200.0,Continental,20,False,False
+PVR,Lucknow,"Hazratganj, Lucknow",4.0,500.0,Fast Food,25,False,False
+34 Chowringhee Lane,Lucknow,"Hazratganj, Lucknow",4.0,600.0,Fast Food,25,False,False
+Truccos,Lucknow,"Hazratganj, Lucknow",4.8,500.0,"Cafe, Continental",25,False,False
+The Chocolate Room,Lucknow,"Hazratganj, Lucknow",4.3,450.0,"Bakery, Desserts",15,False,False
+Pavilion Awadh & Beyond,Lucknow,"La Place Sarovar Portico, Lucknow",4.4,1200.0,Multicuisine,50,False,False
+Fo'sho - Pan Asian & Italian Bistro,Lucknow,"Hazratganj, Lucknow",4.9,1500.0,"Pan Asian, Italian",25,False,False
+Vito's Pizzeria,Lucknow,"Hazratganj, Lucknow",4.5,800.0,Italian,15,False,False
+The Tangra Grill,Lucknow,"La Place Sarovar Portico, Lucknow",4.0,1200.0,Chinese,20,False,False
+Kool Break,Lucknow,"Hazratganj, Lucknow",4.3,1000.0,Multicuisine,20,False,False
+Nahari Junction,Lucknow,"Lalbagh, Lucknow",5.0,600.0,Mughlai,10,False,False
+Wow! Momo,Lucknow,"Hazratganj, Lucknow",4.9,400.0,Momos,15,False,False
+Karim's,Lucknow,"Lalbagh, Lucknow",3.3,800.0,Mughlai,15,False,False
+Blue Corriander,Lucknow,"Lalbagh, Lucknow",5.0,1000.0,Multicuisine,10,False,False
+Chicago Pizza,Lucknow,"Hazratganj, Lucknow",4.0,600.0,Pizza,50,False,False
+L14,Lucknow,Renaissance Lucknow Hotel,3.4,1800.0,Multicuisine,25,False,False
+Delisia,Lucknow,"Hotel Myriad, Lucknow",4.0,1200.0,"Indian, Chinese",1,False,False
+Bar Bar,Lucknow,Regenta Central Lucknow,4.0,1500.0,"Multicuisine, Cocktail Menu",20,False,False
+Pinxx,Lucknow,Regenta Central Lucknow,4.0,1000.0,Multicuisine,20,False,False
+Sidewalk Bakehouse & Cafe,Lucknow,"Hazratganj, Lucknow",4.0,1300.0,"Italian, Continental",10,False,False
+FashionTV Diner,Lucknow,"Hazratganj, Lucknow",3.5,1000.0,Multicuisine,10,False,False
+Mantar,Lucknow,"Hazratganj, Lucknow",4.5,800.0,Multicuisine,30,False,False
+Molecule Air Bar,Lucknow,"Riverside Mall, Gomti Nagar",4.0,1500.0,"Multicuisine, Cocktail Menu",20,False,False
+Danbro,Lucknow,"Hazratganj, Lucknow",4.0,800.0,Bakery,50,False,False
+Royal Cafe,Lucknow,"Royal Inn, Hazratganj",4.4,800.0,Multicuisine,25,False,False
+Orchid,Lucknow,"Fortune Park BBD, Lucknow",4.2,1700.0,Multicuisine,20,False,False
+Side Walk Cafe,Lucknow,"Gomti Nagar, Lucknow",4.1,1000.0,Multicuisine,30,False,False
+Masaki Couture & Cafe,Lucknow,"Hazratganj, Lucknow",4.3,1100.0,"Asian, Continental",25,False,False
+Sky Bar,Lucknow,Renaissance Lucknow Hotel,4.5,2000.0,"Cocktail Menu, Finger Food",25,False,False
+Zaika By Gemini Continental,Lucknow,"Gemini Continental, Hazratganj",4.6,2000.0,Multicuisine,1,False,False
+Caprice,Lucknow,Radisson Lucknow  City Centre,4.1,1200.0,Multicuisine,20,False,False
+Zaffran,Lucknow,Renaissance Lucknow Hotel,4.7,2000.0,Awadhi,35,False,False
+Brot Company,Jaipur,"Civil Lines, Jaipur",5.0,1600.0,"Bakery, Pan Asian, Continental",10,False,False
+Dyore Experiences,Jaipur,"C Scheme, Jaipur",3.3,1800.0,Multicuisine,20,False,False
+Spice Court,Jaipur,"Civil Lines, Jaipur",4.4,800.0,"Beverages, Multicuisine",10,False,False
+Cafe Auberge,Jaipur,"Civil Lines, Jaipur",4.8,800.0,Multicuisine,20,False,False
+Zarza Club & Terrace,Jaipur,"Bais Godam, Jaipur",4.0,1500.0,Multicuisine,55,False,False
+Spice It,Jaipur,"Ibis Hotel, Jaipur",3.8,1600.0,Multicuisine,30,False,False
+Brewvana Coffee House,Jaipur,"C Scheme, Jaipur",4.0,1200.0,"Coffee and Tea, Cafe",25,False,False
+Baari- The House of Fusion,Jaipur,"Gopalbari, Jaipur",4.0,800.0,Multicuisine,30,False,False
+Nibs Cafe & Chocolataria,Jaipur,"Gopalbari, Jaipur",4.4,600.0,Cafe,20,False,False
+Thirsty Camel,Jaipur,"Hathroi, Jaipur",5.0,1600.0,Multicuisine,40,False,False
+Veda by Jaipur Coffee Co.,Jaipur,"Hathroi, Jaipur",4.0,1400.0,Multicuisine,50,False,False
+Peshawri,Jaipur,"ITC Rajputana Hotel, Jaipur",4.5,4500.0,North West Frontier,10,False,False
+Little French Home,Jaipur,"Gopalbari, Jaipur",5.0,1200.0,Continental,25,False,False
+Waraahi,Jaipur,"C Scheme, Jaipur",3.7,1000.0,Multicuisine,15,False,False
+Le Farsan - Rooftop & Cafe,Jaipur,"C Scheme, Jaipur",4.7,1300.0,Indian,25,False,False
+Strings-Cocktail Lounge,Jaipur,"C Scheme, Jaipur",4.0,1600.0,"Cocktail Menu, Multicuisine",20,False,False
+Blackout,Jaipur,"Hotel Golden Oak, Jaipur",3.6,1800.0,Multicuisine,50,False,False
+Peepal Restaurant,Jaipur,"Rambagh, Jaipur, Jaipur",5.0,1500.0,Multicuisine,10,False,False
+Daniel's Oriental Kitchen,Jaipur,"Gopalbari, Jaipur",5.0,800.0,oriental,15,False,False
+Skyza,Jaipur,"C Scheme, Jaipur",4.3,1200.0,"Cocktail Menu, Multicuisine",20,False,False
+The Colonnade,Jaipur,"Rajmahal Palace, Jaipur",4.7,6000.0,Multicuisine,25,False,False
+TGIH - Thank God It's Healthy,Jaipur,"Gopalbari, Jaipur",4.0,900.0,Healthy Food,25,False,False
+Beans & Buns By Hotel Anuraag Villa,Jaipur,"Bani Park, Jaipur",4.0,1000.0,Multicuisine,20,False,False
+PURGATORY 777,Jaipur,"Ashok Nagar, Jaipur",3.4,2000.0,"Casual Eclectic, Multicuisine",50,False,False
+The Dome,Jaipur,"MI Road, Jaipur",4.3,1500.0,Multicuisine,20,False,False
+Meraaki Kitchen,Jaipur,"Civil Lines, Jaipur",4.3,1000.0,"North Indian, Chinese, Italian",25,False,False
+Kalyan Rooftop And Indoor Restaurant,Jaipur,"Gopalbari, Jaipur",4.2,600.0,Multicuisine,10,False,False
+Chaat Bistro,Jaipur,"Civil Lines, Jaipur",4.0,800.0,Chaat,15,False,False
+Sura - Cocktails & Cuisine,Jaipur,"Gopalbari, Jaipur",5.0,2000.0,Multicuisine,10,False,False
+Arth Spaces,Jaipur,"C Scheme, Jaipur",4.0,900.0,Cafe,10,False,False
+Carbon,Jaipur,"Ashok Nagar, Jaipur",4.4,900.0,Coffee,15,False,False
+Jaipur Pavilion,Jaipur,"ITC Rajputana Hotel, Jaipur",5.0,1800.0,Multicuisine,10,False,False
+Peacock Roof Top Restaurant,Jaipur,"Hotel Pearl Palace, Jaipur",4.6,800.0,Pan Asian,25,False,False
+Le Farsan - Thali Restaurant,Jaipur,"C Scheme, Jaipur",2.3,1000.0,Indian,10,False,False
+Café White Sage,Jaipur,"Civil Lines, Jaipur",4.8,1900.0,Multicuisine,25,False,False
+Brewlicious Rooftop Bar,Jaipur,"C Scheme, Jaipur",4.5,2000.0,"Cocktail Menu, Multicuisine",30,False,False
+Native Cocktail Room,Jaipur,"Hotel Pearl Palace, Jaipur",5.0,2000.0,Multicuisine,25,False,False
+Kohhee by The Night Jar,Jaipur,"C Scheme, Jaipur",5.0,700.0,Multicuisine,20,False,False
+OTH - On The House,Jaipur,"C Scheme, Jaipur",4.5,1100.0,Multicuisine,20,False,False
+Farmacy - A Healthy Restaurant By Doctors,Jaipur,"C Scheme, Jaipur",5.0,800.0,Multicuisine,15,False,False
+Sirka,Jaipur,"C Scheme, Jaipur",4.4,1300.0,Indian,35,False,False
+Sipsss,Jaipur,"Gopalbari, Jaipur",4.5,1000.0,Multicuisine,15,False,False
+Monarch - World Dining,Jaipur,"Holiday Inn Jaipur City Centre, Jaipur",4.3,2300.0,Multicuisine,30,False,False
+Palila Cafe & Kitchen,Jaipur,"Gopalbari, Jaipur",4.0,900.0,Italian,15,False,False
+Jal Mahal,Jaipur,"ITC Rajputana Hotel, Jaipur",5.0,3300.0,Multicuisine,10,False,False
+Biryani By Kilo,Chandigarh-Tricity,"Sector 30, Chandigarh",4.4,700.0,Biryani,50,False,False
+Downtown Cafe and Kitchen 21,Chandigarh-Tricity,"Sector 21, Chandigarh",4.0,850.0,Multicuisine,20,False,False
+Prankster,Chandigarh-Tricity,"Sector 26, Chandigarh",4.5,1500.0,"Modern Indian, Cocktail Menu",40,False,False
+Tiger Five,Chandigarh-Tricity,"Sector 26, Chandigarh",4.4,1400.0,Multicuisine,50,False,False
+Sir Dough,Chandigarh-Tricity,"Sector 7, Chandigarh",4.0,1200.0,"Italian, Continental",1,False,False
+Punjab Grill,Chandigarh-Tricity,"Elante Mall, Chandigarh Industrial Area",4.4,1400.0,North Indian,50,False,False
+Urban Cafe,Chandigarh-Tricity,"Hyatt Regency, Chandigarh",4.4,4000.0,Multicuisine,25,False,False
+Eddies,Chandigarh-Tricity,"Sector 26, Chandigarh",4.6,1600.0,"Italian, Continental, American",25,False,False
+Anardana Modern Kitchen & Bar,Chandigarh-Tricity,"City Emporium Mall, Chandigarh",4.5,1800.0,"Multicuisine, Cocktail Menu",1,False,False
+Ministry of Bar Exchange,Chandigarh-Tricity,"Sector 26, Chandigarh",4.5,2000.0,Multicuisine,50,False,False
+Dhaba 7,Chandigarh-Tricity,"Sector 7, Chandigarh",4.4,1200.0,North Indian,50,False,False
+O Chicken,Chandigarh-Tricity,"Sector 8, Chandigarh",4.0,400.0,Fast Food,45,False,False
+Sante Brewery & Kitchen,Chandigarh-Tricity,"Sector 26, Chandigarh",4.0,1500.0,Multicuisine,30,False,False
+Asia Kitchen By Mainland China,Chandigarh-Tricity,"Elante Mall, Chandigarh Industrial Area",5.0,1000.0,Chinese,40,False,False
+The Breevity Cafe,Chandigarh-Tricity,"Sector 18, Chandigarh",4.0,1000.0,Cafe,15,False,False
+Dialogue Cafe,Chandigarh-Tricity,"Sector 35, Chandigarh",4.1,900.0,"Beverages, Cafe",20,False,False
+Rhapsody,Chandigarh-Tricity,"Sector 17, Chandigarh",5.0,1600.0,Multicuisine,25,False,False
+Wild Thyme,Chandigarh-Tricity,"Sector 7, Chandigarh",3.1,2100.0,"Italian, Mediterranean, Continental",10,False,False
+Avra x  dochi pizzeria,Chandigarh-Tricity,"Sector 7, Chandigarh",4.4,1500.0,"Italian, Pizza",50,False,False
+Bargain Booze,Chandigarh-Tricity,"Sector 26, Chandigarh",3.7,2000.0,Multicuisine,10,False,False
+The Local House,Chandigarh-Tricity,"Sector 26, Chandigarh",5.0,1500.0,Multicuisine,15,False,False
+Bistro 1427,Chandigarh-Tricity,"Sector 5, Panchkula",4.0,900.0,Multicuisine,20,False,False
+Ministry of Bar Exchange,Chandigarh-Tricity,"Elante Mall, Chandigarh Industrial Area",4.1,1200.0,Multicuisine,20,False,False
+Ikk Panjab,Chandigarh-Tricity,"Sector 26, Chandigarh",5.0,2500.0,"Punjabi, North Indian",50,False,False
+Brooklyn Central,Chandigarh-Tricity,"Elante Mall, Chandigarh Industrial Area",4.8,1500.0,American,10,False,False
+Ketliwala,Chandigarh-Tricity,"Sector 22, Chandigarh",5.0,800.0,Street Food,15,False,False
+The Cafe @ JW,Chandigarh-Tricity,"JW Marriott, Chandigarh",4.3,3500.0,Multicuisine,15,False,False
+Deluxe Dhaba,Chandigarh-Tricity,"Sector 28, Chandigarh",4.0,600.0,Multicuisine,50,False,False
+Cafe Olio,Chandigarh-Tricity,"Sector 35, Chandigarh",5.0,1500.0,"Cafe, Multicuisine",20,False,False
+Seville Bar and Lounge,Chandigarh-Tricity,"Sector 26, Chandigarh",4.9,2500.0,Multicuisine,15,False,False
+United Coffee House,Chandigarh-Tricity,"Elante Mall, Chandigarh Industrial Area",4.5,1200.0,Multicuisine,20,False,False
+Stage,Chandigarh-Tricity,"Hyatt Regency, Chandigarh",4.6,1500.0,Finger Food,25,False,False
+The G.T. Road,Chandigarh-Tricity,"Sector 26, Chandigarh",4.4,2400.0,Indian,25,False,False
+Hard Rock Cafe,Chandigarh-Tricity,"Sector 26, Chandigarh",3.9,1500.0,"Finger Food, Cocktail Menu",10,False,False
+Saffron,Chandigarh-Tricity,"JW Marriott, Chandigarh",4.2,3000.0,North Indian,20,False,False
+Chawla's 2,Chandigarh-Tricity,"Sector 22, Chandigarh",1.0,1400.0,Indian,30,False,False
+Xero Degrees,Chandigarh-Tricity,"Sector 35, Chandigarh",4.2,800.0,"Beverages, Fast Food, Cafe",50,False,False
+Komo House,Chandigarh-Tricity,"Sector 7, Chandigarh",4.0,1500.0,Multicuisine,10,False,False
+Beyon,Chandigarh-Tricity,"Sector 26, Chandigarh",4.0,1500.0,Multicuisine,10,False,False
+Purple Frog,Chandigarh-Tricity,"Sector 9, Panchkula",4.0,1200.0,"Cafe, Cocktail Menu",15,False,False
+Sip & Stories - Premium BYOB,Chandigarh-Tricity,"Sector 7, Chandigarh",4.0,1500.0,Multicuisine,20,False,False
+Refections Cafe,Chandigarh-Tricity,"Sector 35, Chandigarh",4.0,1500.0,"North Indian, Chinese, Multicuisine",15,False,False
+Talez Patisserie & Kitchen,Chandigarh-Tricity,"Sector 26, Chandigarh",4.6,1500.0,Multicuisine,25,False,False
+Tatami,Chandigarh-Tricity,"Sector 7, Chandigarh",4.1,1500.0,Japanese,10,False,False
+Cafe De Piccolo,Chandigarh-Tricity,"Sector 9, Chandigarh",5.0,1200.0,Italian,20,False,False
+Backyard Restaurant & Bar,Goa,"Calangute, North Goa",5.0,1500.0,Multicuisine,10,False,False
+Bharat Bar & Restaurant,Goa,"Baga, North Goa",4.0,800.0,Multicuisine,25,False,False
+Jazz Bistro,Goa,"Calangute Baga Road, Goa",4.7,1000.0,Multicuisine,25,False,False
+Café De Port By Radisson Resort Goa Baga,Goa,"Arpora, North Goa",4.9,2200.0,Multicuisine,30,False,False
+Souza Lobo - Since 1932,Goa,"Calangute, North Goa",4.3,1300.0,Goan,25,False,False
+Krishna Bar & Restaurant,Goa,"Calangute, North Goa",4.0,550.0,Multicuisine,15,False,False
+Tom's Resto By The Beach,Goa,"Calangute, North Goa",5.0,1000.0,Multicuisine,10,False,False
+BunnyKins Cafe,Goa,"Calangute, North Goa",4.0,900.0,Multicuisine,10,False,False
+Elrow Ocean Front,Goa,"Calangute Baga Road, Goa",2.8,2000.0,Asian,25,False,False
+Cafe Fika,Goa,"Panaji, North Goa",5.0,1000.0,Cafe,30,False,False
+One Calangute,Goa,"Calangute, North Goa",3.8,1000.0,Multicuisine,10,False,False
+Beans & Bistro,Goa,"Calangute, North Goa",4.0,400.0,"Cafe, Coffee",10,False,False
+Oceana Restaurant,Goa,"Calangute, North Goa",4.0,1000.0,"Indian, Continental",10,False,False
+Bloom Cafe,Goa,"Bloom Hotel ,Calangute",4.0,1200.0,Multicuisine,25,False,False
+GROK,Goa,Hyatt Centric Candolim Goa,4.2,1200.0,Goan,35,False,False
+Just Lobo's,Goa,"Calangute, North Goa",4.7,1000.0,"Goan, Multicuisine",20,False,False
+Pepper Bar and Restaurant,Goa,"Le Seasons Resort, Goa",4.0,1200.0,Multicuisine,50,False,False
+Peace,Goa,The Park Calangute Goa,4.4,1500.0,Multicuisine,25,False,False
+Palms n Sands,Goa,"Candolim, North Goa",4.4,2000.0,Multicuisine,25,False,False
+Aur Jalsa,Goa,"Calangute Baga Road, Goa",3.0,4500.0,"Indian, Rajasthani",20,False,False
+Kava - Fairfield by Marriott Calangute,Goa,Fairfield by Marriott Goa Calangute,5.0,1000.0,Multicuisine,25,False,False
+You & Me,Goa,"Baga, North Goa",4.0,900.0,Multicuisine,25,False,False
+The Square,Goa,Novotel Goa Shrem Hotel,5.0,2000.0,Multicuisine,25,False,False
+Cafe De Port - Alfresco,Goa,"Arpora, North Goa",5.0,2200.0,Multicuisine,25,False,False
+Bar Asia,Goa,Novotel Goa Shrem Hotel,5.0,1500.0,Finger Food,25,False,False
+Raeeth,Goa,"Ozran Beach Road , Goa",3.2,1500.0,Mediterranean,10,False,False
+Spice It,Goa,"ibis, Calangute, Goa",5.0,1000.0,Multicuisine,15,False,False
+Novu Rooftop Dining,Goa,"Fort Aguada Rd, Candolim, North Goa",4.7,1200.0,Multicuisine,35,False,False
+Sessions,Goa,Hard Rock Hotel Goa,4.7,2000.0,"Indian, Beverages",10,False,False
+The Fisherman's Wharf,Goa,"Calangute, North Goa",4.2,1100.0,Goan,25,False,False
+De Little Goa,Goa,"Calangute, North Goa",5.0,1500.0,Indian,15,False,False
+Hibiscus,Goa,"Arpora, North Goa",1.0,1000.0,Multicuisine,35,False,False
+Spice Mantraa,Goa,"Candolim, North Goa",4.6,1200.0,Multicuisine,25,False,False
+Saipe,Goa,Hilton Goa Resort,5.0,2400.0,Multicuisine,35,False,False
+Rio Cafe Bar,Goa,"Calangute, North Goa",4.8,1000.0,Continental,25,False,False
+The Market,Goa,"The Westin,Goa",4.5,3000.0,Multicuisine,25,False,False
+Sizzler House,Goa,"Anjuna Vagator Road, Goa",5.0,700.0,Multicuisine,25,False,False
+Zodiac - All Day Dining Benaulim,Goa,"Fortune Resort Benaulim, Goa by ITC",4.0,1100.0,"Seafood, Multicuisine",25,False,False
+Comida,Goa,DoubleTree by Hilton Goa - Panaji,4.4,1500.0,Multicuisine,40,False,False
+CHY Lounge & Bar,Goa,Novotel Goa Resorts & Spa,4.0,1200.0,Finger Food,25,False,False
+Julep,Goa,"Calangute Baga Road, Goa",4.0,2500.0,Multicuisine,25,False,False
+Samudra Family Restaurant & Bar,Goa,"Calangute, North Goa",5.0,500.0,South Indian,10,False,False
+The Little Place,Goa,"Candolim, North Goa",4.0,600.0,Cafe,15,False,False
+Pickled Mango,Goa,"Bardez, North Goa",5.0,1600.0,Multicuisine,25,False,False
+Casita Multi-Cuisine Restaurant,Goa,"Bardez, North Goa",4.0,1500.0,Multicuisine,10,False,False
+INOX,Indore,"Sapna Sangeeta Mall, Indore",4.0,500.0,Fast Food,50,False,False
+Aarambh,Indore,"Snehnagar, Indore",3.0,700.0,Indian,25,False,False
+Kava,Indore,Fairfield By Marriott,4.7,1500.0,Multicuisine,20,False,False
+11:11 Coffee,Indore,"South Tukoganj, Indore",4.5,600.0,"Desserts, Coffee",50,False,False
+Trikaay Delight,Indore,"South Tukoganj, Indore",4.2,1000.0,Multicuisine,20,False,False
+Coriander Leaf Restaurant,Indore,"Ratlam Kothi, Indore",4.6,800.0,Multicuisine,50,False,False
+H3 Cafe,Indore,Indore,5.0,600.0,Multicuisine,20,False,False
+Around the Block,Indore,"South Tukoganj, Indore",5.0,700.0,Multicuisine,20,False,False
+The Monroe Cafe,Indore,"New Palasia, Indore",3.4,1050.0,Multicuisine,10,False,False
+Barbeque Nation,Indore,"South Tukoganj, Indore",4.4,,₹1800 for two,50,False,False
+Mama Loca,Indore,Mediterranean,2.0,,₹1000 for two,25,False,False
+S Cafe,Indore,Multicuisine,4.0,,₹3000 for two,20,False,False
+Makhanwala - Modern Indian Dhaba,Indore,₹400 for two,4.0,,"MR 10 Road, Indore",50,False,False
+Punjab Grill,Indore,₹1700 for two,4.0,,"South Tukoganj, Indore",20,False,False
+Enigma Rooftop,Indore,₹1200 for two,4.0,,"Bicholi Mardana, Indore",25,False,False
+Mangosteen Cafe,Indore,₹1500 for two,5.0,,"Kibe Compound, Indore",25,False,False
+Al Karam Kitchens,Indore,₹600 for two,3.0,,"New Palasia, Indore",30,False,False
+Spruzzo - The Cocktail garden,Indore,₹700 for two,3.6,1986.0,Biryani Restaurants Near MeBritish Restaurants Near MeBurmese Restaurants Near MeCafe Restaurants Near MeChettinad Restaurants Near MeChinese Restaurants Near MeCoffee and Tea Near MeDesserts Restaurants Near MeDrinks Only Restaurants Near MeEuropean Restaurants Near MeFast Food Restaurants Near MeFinger Food Restaurants Near MeFrench Restaurants Near MeGerman Restaurants Near MeGoan Restaurants Near MeGreek Restaurants Near MeGujarati Restaurants Near MeHealthy Food Restaurants Near MeHyderabadi Restaurants Near MeIce Cream Near Me,15,False,False
+Biryani By Kilo,Indore,Indore,4.5,700.0,Biryani,50,False,False
+Gol Roti Restaurant and Cafe,Indore,"Patel Nagar, Indore",5.0,500.0,Multicuisine,25,False,False
+Ohlio Gourmet Cafe & Bar,Indore,"AB Road, Indore",3.7,2000.0,Multicuisine,20,False,False
+Tiffin,Indore,"Hotel Winway, RNT Marg",2.5,1000.0,Multicuisine,30,False,False
+Tandoor Bar and Restaurant,Indore,"Scheme No 54, Indore",4.0,800.0,Multicuisine,25,False,False
+Veg Bites Cafe & Restaurant,Indore,"Snehnagar, Indore",4.0,400.0,"Coffee, Fast Food",15,False,False
+Chill by Sarovar Portico,Indore,Sarovar Portico Hotel Indore,2.0,1600.0,Multicuisine,10,False,False
+Jeeman by Kitchen Ministry,Indore,"South Tukoganj, Indore",4.0,600.0,Multicuisine,20,False,False
+Kabelo Veg Barbecues,Indore,"AB Road, Indore",4.3,1500.0,Multicuisine,20,False,False
+Wow! China,Indore,"Treasure Island Mall, South Tukoganj",5.0,600.0,Chinese,50,False,False
+Wow! Momo,Indore,"Chappan Market, Indore",4.0,400.0,Momos,15,False,False
+Nomadic By Firangi,Indore,"Vijay Nagar, Indore",5.0,1500.0,Multicuisine,15,False,False
+Alba bistro,Indore,"Vijay Nagar, Indore",4.2,600.0,Multicuisine,50,False,False
+Sukoon Rooftop by the Tripti,Indore,"The Tripti Hotel,Indore",4.0,1000.0,North Indian,20,False,False
+Tyger Tyger,Indore,"Scheme 94, Indore",3.9,1000.0,Pan Asian,30,False,False
+Pincode by Kunal Kapur,Indore,"Niranjanpur, Indore",4.0,1800.0,Multicuisine,40,False,False
+The Roof,Indore,"Hotel Kanchan Tilak, Indore",4.0,1000.0,"Asian, Indian",10,False,False
+Citrus Cafe,Indore,"Lemon Tree Hotel, indore",4.4,1200.0,Multicuisine,15,False,False
+Slounge,Indore,"Lemon Tree Hotel, indore",4.9,2000.0,Cocktail Menu,50,False,False
+Lite Meal Cafe & Restaurant,Indore,"New Palasia, Indore",4.0,300.0,Cafe,25,False,False
+Asia Seven,Indore,"Treasure Island Mall, South Tukoganj",4.0,400.0,Asian,10,False,False
+Street Foods By Punjab Grill,Indore,"South Tukoganj, Indore",4.0,800.0,"Chinese, Fast Food, North Indian",10,False,False
+Uncle Peter's Pancakes,Indore,Geeta Bhavan,4.0,400.0,"Finger Food, American",10,False,False
+Bon Bon,Indore,"Hotel Kanchan Tilak, Indore",4.0,800.0,Multicuisine,10,False,False
+Ubud,Indore,"By Pass Road (North), Indore",4.0,1500.0,Multicuisine,30,False,False
+Mithya Club,Indore,"Vijay Nagar, Indore",4.0,1200.0,Multicuisine,25,False,False
+Manbhavan Premium Thali,Indore,"Hotel Princes' Palace, Indore",1.0,1000.0,Rajasthani,50,False,False
+Myz-Uno Brew Pub,Visakhapatnam,"Siripuram, Visakhapatnam",4.3,1400.0,Multicuisine,50,False,False
+Eatery,Visakhapatnam,Four Points by Sheraton Visakhapatnam,4.2,1000.0,Multicuisine,35,False,False
+AB's - Absolute Barbecues,Visakhapatnam,Visakhapatnam,4.4,1800.0,"Multicuisine, Barbeque",20,False,False
+Barkaas Arabic Restaurant,Visakhapatnam,"Dwarka Nagar, Visakhapatnam",3.9,600.0,"Arabian, Biryani",25,False,False
+The Square,Visakhapatnam,Novotel Varun Beach Visakhapatnam,4.3,3000.0,Multicuisine,20,False,False
+Varun's Eat (Varun Beach Inox),Visakhapatnam,"Maharani Peta, Visakhapatnam",4.3,900.0,Multicuisine,25,False,False
+Gypsy Resto Cafe,Visakhapatnam,"Sagar Nagar, Visakhapatnam",4.2,600.0,Multicuisine,15,False,False
+Barbeque Nation,Visakhapatnam,"Waltair Road, Visakhapatnam",4.4,1950.0,Multicuisine,25,False,False
+Olive - V Hotel,Visakhapatnam,"V hotel, Visakhapatnam",4.0,900.0,Multicuisine,25,False,False
+House of Punjab,Visakhapatnam,"Sector 11, MVP Colony, Visakhapatnam",4.3,1000.0,North Indian,50,False,False
+Kava,Visakhapatnam,Fairfield by Marriott Visakhapatnam,4.6,1500.0,Multicuisine,10,False,False
+Makkhan Masala Pure Veg,Visakhapatnam,"Dwaraka Nagar, Visakhapatnam",4.7,1000.0,Multicuisine,30,False,False
+Moon Bar & Kitchen,Visakhapatnam,"Siripuram, Visakhapatnam",4.1,1100.0,Multicuisine,10,False,False
+Dine Destiny,Visakhapatnam,"East Point Colony, Visakhapatnam",3.4,1000.0,Multicuisine,20,False,False
+Ironhill,Visakhapatnam,"Siripuram, Visakhapatnam",4.7,1000.0,Multicuisine,10,False,False
+The Shack,Visakhapatnam,"The Park, Visakhapatnam",4.3,1500.0,Multicuisine,25,False,False
+Gluttons Garage,Visakhapatnam,"Pandurangapuram, Visakhapatnam",3.2,1050.0,Multicuisine,25,False,False
+Hot Chilli,Visakhapatnam,"Northway Hotel, Visakhapatnam",3.6,600.0,Multicuisine,15,False,False
+Mekong Restaurant,Visakhapatnam,"Hotel GreenPark, Visakhapatnam",4.3,1800.0,Multicuisine,50,False,False
+V Hangout,Visakhapatnam,"Rushikonda, Visakhapatnam",4.4,900.0,Multicuisine,25,False,False
+Vista,Visakhapatnam,"The Park, Visakhapatnam",3.9,1500.0,Multicuisine,10,False,False
+Red Bowl,Visakhapatnam,Novotel Varun Beach Visakhapatnam,3.8,1800.0,Pan Asian,25,False,False
+Barkaas Indo-Arabic Restaurant,Visakhapatnam,"Chaitanya Nagar, Visakhapatnam",3.7,600.0,Multicuisine,25,False,False
+Sam's Griddle,Visakhapatnam,"Siripuram, Visakhapatnam",4.2,1200.0,Multicuisine,20,False,False
+Aha Yemi Ruchulu,Visakhapatnam,"M V P Colony, Visakhapatnam",4.6,800.0,Multicuisine,25,False,False
+Ethnic,Visakhapatnam,"Hotel Radisson Blu Resort, Visakhapatnam",4.7,4000.0,"Andhra, South Indian",10,False,False
+Zaffran,Visakhapatnam,Novotel Varun Beach Visakhapatnam,4.3,2000.0,North Indian,20,False,False
+The light house bar,Visakhapatnam,"The Park, Visakhapatnam",4.0,1500.0,"Finger Food, Cocktail Menu",50,False,False
+Royal Spice,Visakhapatnam,"Sector 10, MVP Colony, Visakhapatnam",4.8,1000.0,North Indian,25,False,False
+Planet 9,Visakhapatnam,"Dwaraka Nagar, Visakhapatnam",4.3,700.0,Multicuisine,20,False,False
+Bot 9 AI Themed Restaurant,Visakhapatnam,"Pothinamallayya Palem, Visakhapatnam",4.2,800.0,Multicuisine,10,False,False
+Platform 65,Visakhapatnam,"Siripuram, Visakhapatnam",3.9,800.0,Multicuisine,10,False,False
+Tulips,Visakhapatnam,"Hotel GreenPark, Visakhapatnam",4.1,1300.0,Multicuisine,15,False,False
+Harbour Vue,Visakhapatnam,Novotel Varun Beach Visakhapatnam,4.7,1500.0,Finger Food,15,False,False
+Liquid Lounge Bar,Visakhapatnam,Fairfield by Marriott Visakhapatnam,4.0,1500.0,"Finger Food, Cocktail Menu",25,False,False
+Cosmic House,Visakhapatnam,"Siripuram, Visakhapatnam",3.9,1000.0,Multicuisine,30,False,False
+Aqua,Visakhapatnam,"The Park, Visakhapatnam",4.8,1500.0,"Italian, Cocktail Menu",50,False,False
+Waltair Kitchen - PL Grand,Visakhapatnam,"Treebo PL Grand - Siripuram, Visakhapatnam",4.3,1000.0,Multicuisine,25,False,False
+Varun's Eat Restaurant,Visakhapatnam,"Rushikonda, Visakhapatnam",4.2,1000.0,Multicuisine,20,False,False
+Stone Water Bar & Kitchen,Visakhapatnam,"Yendada, Visakhapatnam",3.9,1400.0,Finger Food,15,False,False
+365 - All Day Dining,Visakhapatnam,"Hotel Radisson Blu Resort, Visakhapatnam",4.3,3600.0,Multicuisine,25,False,False
+Zest,Visakhapatnam,"Hotel Radisson Blu Resort, Visakhapatnam",5.0,600.0,Bakery,20,False,False
+The Crave Restobar,Visakhapatnam,"Sagar Nagar, Visakhapatnam",4.0,1500.0,"Chinese, Continental",20,False,False
+Best Brews,Visakhapatnam,Four Points by Sheraton Visakhapatnam,4.0,1950.0,Finger Food,20,False,False
+Amritsar haveli,Visakhapatnam,"Madhurawada, Visakhapatnam",5.0,1000.0,Indian,20,False,False
+Pankhuri Reloaded,Agra,"Hotel Moti Palace, Agra",3.7,1000.0,Multicuisine,50,False,False
+Shahen Shah,Agra,"Rakabganj, Agra",4.0,2000.0,Multicuisine,25,False,False
+Downtown Cafe,Agra,"Hotel Moti Palace, Agra",4.2,1000.0,Multicuisine,25,False,False
+Noosh,Agra,"Hotel Orange, Agra",5.0,1500.0,Multicuisine,25,False,False
+Barbeque Nation,Agra,"Civil Lines, Agra",4.6,1800.0,"Multicuisine, Barbeque",25,False,False
+Cosmos Cafe & Bar,Agra,"Fairfield by Marriott, Agra",2.4,2000.0,Multicuisine,25,False,False
+The Salt Cafe Kitchen & Bar,Agra,"Tajganj, Agra",4.4,1000.0,Multicuisine,30,False,False
+Chopstix,Agra,"Civil Lines, Agra",3.0,600.0,Chinese,10,False,False
+Incanto,Agra,"Civil Lines, Agra",4.7,1500.0,Multicuisine,35,False,False
+Biryani by Kilo,Agra,"Civil Lines, Agra",3.5,800.0,Biryani,50,False,False
+Naivedyam,Agra,"Fatehabad Road, Agra",5.0,700.0,South Indian,25,False,False
+Chatora Station Restaurant,Agra,"Agra Cantt, Agra",4.0,400.0,Multicuisine,25,False,False
+Cafe G,Agra,"Holiday Inn Agra Mg Road, Agra",4.3,2000.0,Multicuisine,20,False,False
+Berco’s,Agra,"Civil Lines, Agra",4.0,800.0,"Chinese, Thai, Asian",25,False,False
+Xero Degrees,Agra,"Civil Lines, Agra",4.7,1000.0,Fast Food,10,False,False
+The Nawaabs,Agra,"Tajganj, Agra",4.4,750.0,North Indian,20,False,False
+Sidewalk Bakehouse And Cafe,Agra,"Tajganj, Agra",4.0,1000.0,Continental,10,False,False
+Lobby Bar,Agra,"Holiday Inn Agra Mg Road, Agra",4.8,2000.0,"Finger Food, Cocktail Menu",15,False,False
+Rossogulla House,Agra,"Agra Cantt, Agra",3.7,700.0,Multicuisine,50,False,False
+Desi Vibes,Agra,"Tajganj, Agra",4.3,1200.0,North Indian,25,False,False
+Star Ultimate Pizza,Agra,"Arjun Nagar, Agra",4.0,400.0,Italian,15,False,False
+Burger Panda,Agra,"Civil Lines, Agra",4.0,500.0,Fast Food,15,False,False
+Molecule,Agra,"Tajganj, Agra",4.4,2000.0,Multicuisine,10,False,False
+The Kesar Restaurant,Agra,"Agra Cantt, Agra",3.4,600.0,Multicuisine,15,False,False
+Haldiram's,Agra,"Civil Lines, Agra",5.0,400.0,Street Food,10,False,False
+Momo Cafe,Agra,Courtyard by Marriott Agra,4.2,2000.0,"Finger Food, Cocktail Menu",50,False,False
+Om Cafe,Agra,"Agra Cantt, Agra",4.0,500.0,Multicuisine,25,False,False
+Deviram Royal Restaurant,Agra,"MG Road, Agra",4.0,500.0,Multicuisine,50,False,False
+Berco’s,Agra,"Hotel Howard Plaza, Tajganj",4.0,1000.0,"Tibetan, Thai Food, Chinese",25,False,False
+The Grand Buffet,Agra,"Jaypee Palace Hotel, Agra",4.0,2500.0,Multicuisine,10,False,False
+Altitude Rooftop Restaurant & Lounge,Agra,"Shahganj, Agra, Agra",4.0,1000.0,Multicuisine,30,False,False
+Beep Gastropub 2.0,Agra,"Sikandra, Agra",3.3,1000.0,Multicuisine,15,False,False
+Hello Anna,Agra,"Guru Ka Taal, Agra",5.0,1000.0,Multicuisine,15,False,False
+Taj Bano,Agra,"ITC Mughal, Tajganj",4.5,3500.0,Multicuisine,20,False,False
+North 27,Agra,"DoubleTree by Hilton Hotel Agra, Tajganj",4.3,2100.0,Multicuisine,10,False,False
+Hangout Bar,Agra,"Bhawna Clarks Inn, Agra",4.6,1500.0,"Finger Food, Cocktail Menu",30,False,False
+Qairo Rooftop Social Bar,Agra,"Fatehabad Road, Agra",4.0,1800.0,Multicuisine,50,False,False
+Anise,Agra,Courtyard by Marriott Agra,4.0,2000.0,Awadhi,15,False,False
+C'est Chine,Agra,"Jaypee Palace Hotel, Agra",5.0,300.0,Chinese,30,False,False
+London Coffee Club,Agra,"Tajganj, Agra",4.0,1200.0,"Italian, Turkish, Continental",15,False,False
+Fakira Club,Agra,"Bhawna Clarks Inn, Agra",4.0,1500.0,Multicuisine,15,False,False
+Chow’s Kitchen,Agra,"Kamla Nagar, Agra",4.0,1000.0,Multicuisine,10,False,False
+Karchi,Agra,"Kamla Nagar, Agra",4.0,600.0,Multicuisine,25,False,False
+Two Saints Bar and Kitchen,Agra,"Tajganj, Agra",3.7,1700.0,Multicuisine,25,False,False
+Taj Mahal Restaurant,Agra,"Tajganj, Agra",4.1,900.0,Multicuisine,15,False,False
+Zeno Bistro Lounge By Raghu Mahal Hotel,Udaipur,"Raghu Mahal Hotel, Udaipur",4.1,2000.0,"Multicuisine, Cocktail Menu",50,False,False
+Nyaaro,Udaipur,"Panchwati, Udaipur",5.0,800.0,Multicuisine,20,False,False
+Sun N Moon,Udaipur,"Pichola, Udaipur",4.6,1250.0,Multicuisine,20,False,False
+Notomoro by Fern Residency,Udaipur,"The Fern Residency, Udaipur",4.0,1400.0,"Cocktail Menu, Multicuisine",25,False,False
+Aura By Arihant,Udaipur,"Aura, Udaipur",4.3,1300.0,Multicuisine,30,False,False
+Panna Vilas Restaurant & Lounge,Udaipur,"Rani Rd, Udaipur",4.6,900.0,Multicuisine,30,False,False
+Roar Bistro & Lounge,Udaipur,"Pulla Bhuwana, Udaipur",4.0,1600.0,Multicuisine,15,False,False
+Kale - A Modern Heritage Restaurant & Bar,Udaipur,"Ambamata, Udaipur",5.0,1200.0,Multicuisine,25,False,False
+Sangria : An Art Of Mixology,Udaipur,"Fateh Sagar, Udaipur",4.2,2300.0,"Multicuisine, Tapas",50,False,False
+Soul Bistro & Lounge,Udaipur,"Haridas Ji Ki Magri, Udaipur",4.6,1200.0,Multicuisine,50,False,False
+O'Brew,Udaipur,"Ambamata, Udaipur",4.9,650.0,"Beverages, Continental",15,False,False
+Lemon Cafe N Lounge,Udaipur,"Hotel Mandiram Palace, Udaipur",4.7,1200.0,Multicuisine,10,False,False
+Taro Sky Bar,Udaipur,"Parallel Hotel, Udaipur",4.5,2500.0,"Cocktail Menu, Multicuisine",20,False,False
+Mr. Sandwich,Udaipur,"Shakti Nagar, Udaipur",1.0,400.0,Fast Food,15,False,False
+Urban Diaries,Udaipur,"Shakti Nagar, Udaipur",4.0,800.0,Multicuisine,10,False,False
+Ruchivantam | Authentic South Indian Restaurant |,Udaipur,"Kharakua, Udaipur",5.0,500.0,South Indian,10,False,False
+Inaara By Oriental Palace Resort,Udaipur,"Oriental Palace Resorts, Udaipur",5.0,1400.0,Multicuisine,10,False,False
+Mathara - The Heights,Udaipur,"Lake City Mall, Ashok Nagar",3.7,1150.0,Indian,25,False,False
+F3 Bar by Radisson,Udaipur,Radisson Udaipur,4.0,2200.0,"Cocktail Menu, Multicuisine",50,False,False
+Royal Arabia,Udaipur,"Kharakua, Udaipur",3.7,1000.0,"Arabian, Mughlai, North Indian",30,False,False
+Two Rabbits Gastropub,Udaipur,"Lake City Mall, Ashok Nagar",4.0,1200.0,Multicuisine,10,False,False
+INOX,Udaipur,"Lake City Mall, Ashok Nagar",1.0,500.0,Fast Food,25,False,False
+Biryani By Kilo,Udaipur,"Subhash Nagar, Udaipur",2.0,1200.0,Biryani,25,False,False
+SAANJH By Historia Royal,Udaipur,"Hotel Historia Royal, Udaipur",3.0,1300.0,Multicuisine,25,False,False
+Mandovin Restaurant,Udaipur,"B.N college, Udaipur",4.0,800.0,Multicuisine,20,False,False
+Sugarboo,Udaipur,"Hotel Historia Royal, Udaipur",4.0,800.0,Bakery,25,False,False
+Z27 Cafe,Udaipur,"Shobhagpura, Udaipur",5.0,300.0,"Bakery, Cafe",20,False,False
+Angara Bar,Udaipur,"Raghu Mahal Hotel, Udaipur",2.3,1000.0,"Cocktail Menu, Multicuisine",50,False,False
+Flames Restaurant by Raghu Mahal Hotel,Udaipur,"Raghu Mahal Hotel, Udaipur",3.3,800.0,Multicuisine,25,False,False
+Pracheen by Historia Royal,Udaipur,"Hotel Historia Royal, Udaipur",4.3,1250.0,Multicuisine,15,False,False
+The Mini Punjab,Udaipur,"Sikh Colony, Udaipur",4.0,600.0,Multicuisine,20,False,False
+Skyraa by Martini Bistro,Udaipur,"Shobhagpura, Udaipur",4.0,1200.0,Multicuisine,10,False,False
+7 Dayz,Udaipur,"Hotel Varju Villa, Udaipur",4.0,600.0,Indian,25,False,False
+Vegetrainian - The Train Restaurant,Udaipur,"Panchwati, Udaipur",4.1,1000.0,Multicuisine,20,False,False
+Vana Restro & Lounge,Udaipur,"Champion Prime, Udaipur",4.0,800.0,Multicuisine,25,False,False
+Aosa - Bakehouse & Roastery,Udaipur,"Panchwati, Udaipur",4.7,800.0,Bakery,50,False,False
+Green Grotto Bistro,Udaipur,"Shobhagpura, Udaipur",5.0,600.0,Multicuisine,50,False,False
+Hashtag Restro & Bar,Udaipur,"Pahada, Udaipur",4.0,1500.0,Multicuisine,15,False,False
+Balaji Pure Veg Restaurant,Udaipur,"Silawatwari, Udaipur",4.0,700.0,Indian,15,False,False
+Parkview Heights,Udaipur,"Ashok Nagar, Udaipur, Udaipur",5.0,800.0,Multicuisine,10,False,False
+Delhi Live Kitchen,Udaipur,"RK Circle, Udaipur",5.0,900.0,Multicuisine,25,False,False
+Craveo By Grandrosse,Udaipur,"Grandrosse - A Boutique Hotel, Udaipur",3.3,1500.0,Multicuisine,15,False,False
+Flavours By The Grand Continent,Udaipur,"Grand Continent Luxury Collection, Udaipur",4.0,1500.0,"Indian, Continental",30,False,False
+Bottegaa Café & Patisserie,Udaipur,"New Fatehpura, Udaipur",4.8,1100.0,"Cafe, Continental",20,False,False
+PlatterzZ,Udaipur,"GBH American Hospital, Udaipur",4.0,1500.0,Multicuisine,15,False,False
+Liquor Lounge Family Restaurant and Bar,Mangalore-Tricity,"Derebail, Mangalore",4.0,1000.0,Multicuisine,50,False,False
+Kulture,Mangalore-Tricity,"Yeyyadi, Mangalore",4.0,600.0,Multicuisine,25,False,False
+Viraasat - The Heritage Fine Dine,Mangalore-Tricity,"Manipal Inn, Udupi",4.5,800.0,Multicuisine,15,False,False
+Ginger House Family Restaurant,Mangalore-Tricity,"Kottara, Mangalore",4.5,790.0,Indian,15,False,False
+Firefly Family Lounge & Bar,Mangalore-Tricity,"Manipal Inn, Udupi",4.8,850.0,"Cocktail Menu, Multicuisine",25,False,False
+The Curry Wok (TCW),Mangalore-Tricity,"Hampankatta, Mangalore",4.2,1000.0,Italian,15,False,False
+Hotel Trishna Family Restaurant,Mangalore-Tricity,"Hotel Trishna, Mangalore",5.0,1000.0,Indian,10,False,False
+The Asian Patio (TAP),Mangalore-Tricity,"Attavar, Mangalore",4.3,900.0,Multicuisine,25,False,False
+Uttam Punjabi Dhaba,Mangalore-Tricity,"Kottara, Mangalore",4.3,600.0,North Indian,10,False,False
+Udupi Rasoi,Mangalore-Tricity,"Manipal Inn, Udupi",4.1,800.0,Indian,50,False,False
+Naadu Restaurant,Mangalore-Tricity,"Ladyhill, Mangalore",4.6,1500.0,Multicuisine,15,False,False
+Swadisht Bar & Kitchen,Mangalore-Tricity,"Kankanady, Mangalore",4.0,400.0,Multicuisine,25,False,False
+Underground11 coffee bar,Mangalore-Tricity,"Yeyyadi, Mangalore",4.0,500.0,Cafe,25,False,False
+K9 Restro,Mangalore-Tricity,"Kadri, Mangalore",5.0,650.0,"Chinese, Continental",10,False,False
+The Loft,Mangalore-Tricity,"The Avatar Hotel & Convention, Mangalore",4.4,800.0,Multicuisine,15,False,False
+Macchi & More,Mangalore-Tricity,"Kottara, Mangalore",5.0,550.0,Multicuisine,15,False,False
+Le Grande Multicuisine Restaurant,Mangalore-Tricity,"AJ Grand Elite Hotel, Mangalore",3.5,1000.0,Multicuisine,25,False,False
+Kaapi Tindi,Mangalore-Tricity,"Kadri, Mangalore",4.0,400.0,"Fast Food, Beverages, South Indian",25,False,False
+Basil Cafe,Mangalore-Tricity,"Kavoor, Mangalore",5.0,600.0,Multicuisine,50,False,False
+Kni Hau,Mangalore-Tricity,Goldfinch Hotel Mangaluru,4.6,1400.0,Chinese,25,False,False
+Rajdhaani Bar & Restaurant,Mangalore-Tricity,"Kavoor, Mangalore",5.0,450.0,Multicuisine,20,False,False
+Cafe Wrk Wrk,Mangalore-Tricity,"Yeyyadi, Mangalore",5.0,700.0,Cafe,25,False,False
+Hotel Rajdhani,Mangalore-Tricity,"Kavoor, Mangalore",2.0,500.0,Multicuisine,25,False,False
+Big Buddha Cafe,Mangalore-Tricity,"Konchady, Mangalore",4.0,800.0,Cafe,10,False,False
+7th Heaven,Mangalore-Tricity,"Derebail, Mangalore",4.0,1000.0,"Bakery, Cafe",25,False,False
+Gufaa The Pub,Mangalore-Tricity,"Bejai, Mangalore",4.0,800.0,Multicuisine,25,False,False
+Qualitiz Cakes & Bakes,Mangalore-Tricity,"Kottara, Mangalore",4.0,200.0,Bakery,25,False,False
+Brownie Point Kavoor,Mangalore-Tricity,"Kavoor, Mangalore",4.0,500.0,"Bakery, Cafe",50,False,False
+Hotel Samrat Inn,Mangalore-Tricity,"Kavoor, Mangalore",4.0,700.0,Multicuisine,25,False,False
+Taste Of Parika,Mangalore-Tricity,"Kapikad, Mangalore Tricity",4.0,500.0,Multicuisine,25,False,False
+Koyla Restaurant,Mangalore-Tricity,"Kavoor, Mangalore",4.0,600.0,Multicuisine,25,False,False
+Horse Ranch Cafe,Mangalore-Tricity,"Kadri, Mangalore",1.0,700.0,Cafe,25,False,False
+Sanadige,Mangalore-Tricity,"Balmatta, Mangalore",4.6,1200.0,"Cocktail Menu, Multicuisine",10,False,False
+Ira - The Fresh Kitchen,Mangalore-Tricity,"Mangala Nagar, Mangalore",5.0,1000.0,Italian,25,False,False
+Spindrift,Mangalore-Tricity,"Bharath Mall, Bejai",3.9,500.0,Fast Food,10,False,False
+Rob's Kitchen & Bar,Mangalore-Tricity,"Vamanjoor, Mangalore",4.9,1600.0,"Cocktail Menu, Multicuisine",25,False,False
+Grub Monkey's,Mangalore-Tricity,"Bendoor, Mangalore",4.0,1000.0,Fast Food,50,False,False
+Pallkhi Restaurant,Mangalore-Tricity,"Hampankatta, Mangalore",3.7,700.0,Multicuisine,25,False,False
+Tokyo Bistro,Mangalore-Tricity,"Bendoor, Mangalore",4.6,1000.0,"Japanese, Sushi",10,False,False
+Sagar Ratna Restaurant,Mangalore-Tricity,"The Ocean Pearl, Mangalore",4.3,800.0,South Indian,25,False,False
+White Rock,Mangalore-Tricity,"Saibrakatte, Udupi",4.4,650.0,Multicuisine,10,False,False
+Shetty Lunch Home,Mangalore-Tricity,"Balmatta, Mangalore",4.3,800.0,Seafood,10,False,False
+Barbeque Nation,Mangalore-Tricity,Mangalore,4.7,1900.0,"Multicuisine, Barbeque",25,False,False
+Surabhi Rooftop Garden Restaurant,Mangalore-Tricity,"Bejai, Mangalore",4.0,800.0,Multicuisine,25,False,False
+Coral,Mangalore-Tricity,"The Ocean Pearl, Mangalore",5.0,1400.0,Multicuisine,25,False,False
+Lal Miri,Patna,"Bailey Road, Patna",4.3,600.0,"Chinese, Indian",50,False,False
+Cafe Zodiac,Patna,"Kankarbagh, Patna",3.5,1000.0,Multicuisine,50,False,False
+Afraa,Patna,"Lodipur, Patna",4.0,1200.0,Multicuisine,50,False,False
+The Sum Of Us,Patna,"Sri Krishna Puri, Patna",5.0,800.0,Multicuisine,25,False,False
+Anandam Family Restaurant,Patna,"Fraser Road Area, Patna",4.0,600.0,Multicuisine,20,False,False
+Cafe Hideout,Patna,"Patliputra Colony, Patna",4.5,800.0,Multicuisine,40,False,False
+Paradise The Barbeque,Patna,"Kankarbagh, Patna",4.0,1500.0,Multicuisine,15,False,False
+Bikaner Elite,Patna,"Danapur, Patna",4.0,800.0,Multicuisine,10,False,False
+The Royal Jail Restro,Patna,"Kaliket Nagar, Patna",4.3,500.0,Multicuisine,15,False,False
+The Fifth Avenue,Patna,"Lodipur, Patna",5.0,1000.0,Italian,50,False,False
+Flavor Town,Patna,"Gola Road, Patna",4.9,700.0,Multicuisine,25,False,False
+Karim's Ashiana- Digha,Patna,"Khajpura, Patna",3.9,400.0,Mughlai,15,False,False
+Café Amaayra- A Multi-Cuisine Kitchen,Patna,"Khajpura, Patna",4.7,1000.0,Multicuisine,20,False,False
+Rasoi,Patna,"Mithapur, Patna",5.0,700.0,Indian,10,False,False
+The Grind House,Patna,"Kankarbagh, Patna",3.5,1000.0,Multicuisine,40,False,False
+ONE - N - ONLY (RESTAURANT - CAFE - STREET FOOD),Patna,"Bankman Colony, Patna",4.0,800.0,"Chinese, Indian, Continental",25,False,False
+Afra Tafri Cafe Restaurant,Patna,"Kidwaipuri, Patna",3.0,800.0,"Indian, Chinese",15,False,False
+Ghoomar Traditional Thali,Patna,"Raja Bazarr, Patna",4.2,1400.0,Rajasthani,20,False,False
+Moodlight Cafe,Patna,"Anandpuri, Patna",3.3,500.0,"Multicuisine, Beverages",50,False,False
+Cafe Skylite (Rooftop Lounge),Patna,"Silkhouse Premier Hotel, Patna",4.2,1000.0,Multicuisine,50,False,False
+Harilal's,Patna,"Sri Krishna Puri, Patna",5.0,400.0,Indian,15,False,False
+Kake - Da - Hotel,Patna,"Danapur, Patna",4.2,700.0,Multicuisine,25,False,False
+Swaaddesh,Patna,"Boring Road, Patna",4.1,750.0,Indian,15,False,False
+Dosa (by Dakshin) Chilli Cafe,Patna,"Kankarbagh, Patna",4.0,800.0,"South Indian, Multicuisine",20,False,False
+Vasa Cafe & Lounge,Patna,"Boring Road, Patna",2.0,1000.0,Multicuisine,40,False,False
+Dine & Disc Restaurant,Patna,"Kidwaipuri, Patna",4.0,600.0,Multicuisine,20,False,False
+Bihari Baithak,Patna,"Kaliket Nagar, Patna",4.4,800.0,Multicuisine,20,False,False
+The Atmos 3,Patna,"Sri Krishna Puri, Patna",4.0,1000.0,Indian,50,False,False
+Craft Coffee,Patna,"Lodipur, Patna",4.9,700.0,"Cafe, Fast Food",25,False,False
+Brewbites Cafe & Restaurant,Patna,"Kaliket Nagar, Patna",4.0,1000.0,Multicuisine,10,False,False
+The Downtown Cafe,Patna,"Kankarbagh, Patna",3.5,600.0,Multicuisine,20,False,False
+Cafe the Cartel,Patna,"Lodipur, Patna",1.0,700.0,Multicuisine,35,False,False
+17 Degrees,Patna,P&M Mall,4.0,1200.0,Multicuisine,15,False,False
+Infinity Cafe,Patna,"Lodipur, Patna",2.0,800.0,Multicuisine,25,False,False
+LIGHTHOUSE CAFE,Patna,"Lodipur, Patna",4.2,1000.0,Multicuisine,10,False,False
+Biryani by Kilo,Patna,Patna,4.5,700.0,Biryani,15,False,False
+Barkaas,Patna,"Fraser Road Area, Patna",4.7,1000.0,Arabian,50,False,False
+Fiesta By Barbeque Nation,Patna,"KP Mall, Patna",4.8,1600.0,Multicuisine,10,False,False
+Namo Hotel,Patna,Patna,4.0,1000.0,Multicuisine,25,False,False
+Baithke Bihari Cafe,Patna,"Boring Road, Patna",4.0,1000.0,Multicuisine,50,False,False
+Chilli Lime,Patna,"Bankman Colony, Patna",5.0,1000.0,Multicuisine,10,False,False
+The Delhi Story,Patna,"City Centre Mall, Patna",4.0,800.0,"Chinese, Italian, Continental",20,False,False
+Pind The Revolving,Patna,"Gandhi Maidan Rd, Patna",3.6,1000.0,"Chinese, North Indian",15,False,False
+Dhaba Estd 1986 Delhi,Patna,"Kidwaipuri, Patna",2.0,1200.0,North Indian,15,False,False
+Hotel President (Atithi Restaurant),Patna,"Lodipur, Patna",4.0,1000.0,Indian,20,False,False
+DVG Benne Dosa,Vadodara,"Bhayli, Vadodara",4.5,800.0,South Indian,50,False,False
+Cocco n Curry,Vadodara,"Bhayli, Vadodara",4.7,1000.0,Multicuisine,25,False,False
+The Glass House Restaurant,Vadodara,"Eastin Hotels Residences, Vadodara",3.8,1200.0,Multicuisine,30,False,False
+Amaya,Vadodara,The Fern Residency Vadodara,4.2,1200.0,Multicuisine,35,False,False
+Deckers,Vadodara,Sunday Hotel Vadodara,5.0,1600.0,Multicuisine,50,False,False
+Myra,Vadodara,"Hotel Surya Ln, Vadodara",3.9,600.0,Gujarati,25,False,False
+Vega,Vadodara,"Hotel Surya Ln, Vadodara",4.2,750.0,Multicuisine,25,False,False
+Citrus Cafe,Vadodara,"Lemon Tree Hotel, Vadodara",4.0,1200.0,Multicuisine,25,False,False
+Just Rolls,Vadodara,"Sayajiganj, Vadodara",4.0,300.0,Fast Food,25,False,False
+Kansaar Gujarati Thali,Vadodara,"Hotel Apex International, Vadodara",5.0,600.0,Gujarati,50,False,False
+Parampara,Vadodara,"HOTEL YUVRAJ, Vadodara",3.0,1000.0,North Indian,10,False,False
+Cinnamon,Vadodara,"Sayajiganj, Vadodara",4.0,1500.0,Multicuisine,15,False,False
+Arab Ino,Vadodara,"Sayajiganj, Vadodara",4.5,1500.0,"Mughlai, Pasta",20,False,False
+Goodies,Vadodara,"Sayajiganj, Vadodara",5.0,600.0,Cafe,15,False,False
+Pizza Nimos,Vadodara,"Sayajiganj, Vadodara",4.0,300.0,Pizza,10,False,False
+Trippy Bakes,Vadodara,"Sayajiganj, Vadodara",4.0,650.0,Bakery,10,False,False
+Cafe Local Patio,Vadodara,"Alkapuri, Vadodara",4.0,600.0,Cafe,10,False,False
+Western Restaurant,Vadodara,"Sayajiganj, Vadodara",4.7,1400.0,Multicuisine,15,False,False
+PVR,Vadodara,"Ved Transcube Plaza, Vadodara",4.0,500.0,Fast Food,50,False,False
+Teal Restaurant,Vadodara,"Fairfield by Marriott, Vadodara",3.5,1500.0,"Indian, European",25,False,False
+Zeste,Vadodara,"The Fern - An Ecotel Hotel, Akota Vadodara",4.6,1000.0,Multicuisine,50,False,False
+The Cravings,Vadodara,"Sayaji Hotel, Vadodara",3.0,1000.0,Multicuisine,25,False,False
+Tru Kitchen,Vadodara,"Akota, Vadodara",3.9,800.0,"Fusion, Modern Indian",10,False,False
+The House of Makeba,Vadodara,"Alkapuri, Vadodara",4.3,1400.0,Multicuisine,25,False,False
+The Chocolate Room,Vadodara,"Fatehgunj, Vadodara",4.6,500.0,"Bakery, Desserts",20,False,False
+Kala Ghoda Restaurant,Vadodara,"Effotel By Sayaji, Vadodara",4.5,1000.0,Indian,35,False,False
+Pizzawala's,Vadodara,"Sayajiganj, Vadodara",4.7,800.0,Pizza,10,False,False
+1944 The Hocco Kitchen,Vadodara,"Sayajiganj, Vadodara",4.0,600.0,Continental,50,False,False
+Kebabsville,Vadodara,"Sayaji Hotel, Vadodara",3.9,2000.0,"Multicuisine, Barbeque",20,False,False
+Best Western,Vadodara,"Alkapuri, Vadodara",3.0,1200.0,Multicuisine,10,False,False
+The Tandoor Junction,Vadodara,"Sayajiganj, Vadodara",4.0,500.0,"Biryani, North Indian",50,False,False
+Fat Stoned Pizzeria,Vadodara,"Sayajiganj, Vadodara",4.0,1100.0,Pizza,20,False,False
+In & Out Burgers,Vadodara,"Sayajiganj, Vadodara",4.0,300.0,Burgers,20,False,False
+Burger me up,Vadodara,"Sayajiganj, Vadodara",4.0,250.0,Burgers,20,False,False
+Momentt,Vadodara,"Enrise By Sayaji, Vadodara",4.0,1400.0,North Indian,20,False,False
+Ustad Miyaan,Vadodara,"Alkapuri, Vadodara",5.0,1000.0,"Mughlai, North Indian",25,False,False
+The China Wok,Vadodara,"Sayajiganj, Vadodara",1.0,300.0,Chinese,50,False,False
+Dilly's Veg Kitchen,Vadodara,"Gotri, Vadodara",4.7,1000.0,Multicuisine,20,False,False
+Morsel,Vadodara,"Race Course Rd, Vadodara",4.4,1000.0,Multicuisine,30,False,False
+Just Got Baked,Vadodara,"Sayajiganj, Vadodara",4.0,500.0,Desserts,25,False,False
+Smash It Up - Smashed Burgers,Vadodara,"Sayajiganj, Vadodara",4.0,500.0,Fast Food,10,False,False
+The Classic Kitchen,Vadodara,"Sayajiganj, Vadodara",4.0,500.0,Multicuisine,10,False,False
+Matka Biryani,Vadodara,"Sayajiganj, Vadodara",4.0,500.0,Biryani,10,False,False
+Hocco eatery,Vadodara,"Sayajiganj, Vadodara",4.0,800.0,Fast Food,10,False,False
+Hotel President Mezban,Vadodara,"President Hotel, Vadodara",4.0,1000.0,Multicuisine,10,False,False
+The Fisherman's Wharf,Mysuru,"Krishnamurthy Puram, Mysuru",3.8,2500.0,"Cocktail Menu, Finger Food",50,False,False
+Zoca - Veg Restaurant.,Mysuru,"Lakshmipuram, Mysuru",5.0,700.0,Multicuisine,10,False,False
+Tashan,Mysuru,"Kuvempunagar , Mysuru",4.5,800.0,North Indian,10,False,False
+Pankhii Veg Restaurant,Mysuru,"Lakshmipuram, Mysuru",4.9,800.0,Multicuisine,15,False,False
+Amber,Mysuru,"Lakshmipuram, Mysuru",5.0,2500.0,Multicuisine,10,False,False
+Turmeric Kitchen,Mysuru,"Hotel Airlines, Mysuru",4.2,800.0,Indian,10,False,False
+Heritage Hashtag Cafe,Mysuru,"Lakshmipuram, Mysuru",5.0,800.0,Multicuisine,10,False,False
+The Glass house,Mysuru,"Lakshmipuram, Mysuru",4.0,500.0,"Finger Food, Ice Cream",10,False,False
+The Wadeyar's Cafe,Mysuru,"Kuvempunagar , Mysuru",4.0,300.0,Cafe,10,False,False
+Hari Govindas,Mysuru,"Chamrajpura, Mysuru",5.0,600.0,Indian,50,False,False
+The Firangi Sutra,Mysuru,"Vinayakanagara, Mysuru",4.8,600.0,"Cafe, Fast Food",25,False,False
+Salt Restaurant,Mysuru,"Lakshmipuram, Mysuru",5.0,800.0,Multicuisine,25,False,False
+Sitara Cafe,Mysuru,"Lakshmipuram, Mysuru",4.0,800.0,Multicuisine,10,False,False
+Poojari Fishland,Mysuru,"KR Mohalla, Mysuru",4.0,800.0,Mangalorean,10,False,False
+Infinit Rooftop Restaurant,Mysuru,"Doora, Mysuru",4.0,500.0,Multicuisine,25,False,False
+Be cafe,Mysuru,"Saraswathipuram, Mysuru",4.0,600.0,Fast Food,25,False,False
+The Tiffany's House,Mysuru,"Saraswathipuram, Mysuru",4.0,600.0,Fast Food,10,False,False
+Zest,Mysuru,"Kajjihundi, Mysore",3.2,2500.0,Multicuisine,25,False,False
+Keralapura Military Hotel,Mysuru,"K.G Koppal, Mysuru",4.0,500.0,"Kerala, South Indian",50,False,False
+Cafe De Aroma,Mysuru,"Kuvempunagar , Mysuru",4.0,800.0,Multicuisine,25,False,False
+Hotel Chakravarthy,Mysuru,"Chamrajpura, Mysuru",4.0,500.0,Indian,25,False,False
+Havana,Mysuru,"Saraswathipuram, Mysuru",4.6,700.0,Multicuisine,25,False,False
+Javaji Mixx,Mysuru,"Regenta Central Javaji, Mysuru",3.4,1500.0,Multicuisine,20,False,False
+Aire,Mysuru,"Regenta Central Javaji, Mysuru",5.0,2500.0,Multicuisine,30,False,False
+Aaina,Mysuru,"Bimba Hotels, Mysuru",4.7,1000.0,Multicuisine,20,False,False
+High Tea - Royal Orchid Metropole,Mysuru,"Royal Orchid Metropole, Mysore",4.0,900.0,Cafe,10,False,False
+Barista Coffee,Mysuru,"Jayalakshmipuram, Mysuru",4.0,500.0,Cafe,25,False,False
+Highpark Revolving Restaurant,Mysuru,"Chamrajpura, Mysuru",4.8,1000.0,Multicuisine,50,False,False
+Verve,Mysuru,"Regenta Central Javaji, Mysuru",4.7,2500.0,Multicuisine,25,False,False
+Gufha,Mysuru,"Doora, Mysuru",4.0,2500.0,Multicuisine,25,False,False
+Kudla Fish Land,Mysuru,"Chamrajpura, Mysuru",5.0,2500.0,"Continental, American",25,False,False
+W Coffee Kitchen & Patisseries,Mysuru,"Yadavgiri, Mysore",5.0,800.0,"Bakery, Cafe",25,False,False
+Uchiha,Mysuru,"Kuvempunagar , Mysuru",5.0,1000.0,"Indian, Pan Asian",25,False,False
+Beer Tapper By Toms,Mysuru,"Gangothri Layout, Mysuru",1.0,600.0,"Finger Food, Cocktail Menu",10,False,False
+Shikari Bar-Be-Que,Mysuru,"Royal Orchid Metropole, Mysore",4.0,3000.0,Multicuisine,20,False,False
+Haveli,Mysuru,"Chamrajpura, Mysuru",4.5,1000.0,Multicuisine,25,False,False
+The Cafe,Mysuru,"The Quorum Hotel, Mysuru",4.3,2500.0,Multicuisine,50,False,False
+Andhara Ruchulu,Mysuru,"Bangalore Nilgiri Road, Mysuru",4.3,2500.0,Andhra,25,False,False
+Tiger Trail,Mysuru,"Royal Orchid Metropole, Mysore",2.9,3000.0,Multicuisine,25,False,False
+Kapoor's Cafe,Mysuru,"Jayalakshmipuram, Mysuru",4.0,600.0,North Indian,25,False,False
+Soko By House Of Commons,Mysuru,"JC Nagar, Mysuru",3.0,1500.0,Multicuisine,25,False,False
+Sattvik - Rooftop Cafe,Mysuru,"KR Mohalla, Mysuru",5.0,800.0,Multicuisine,10,False,False
+The Moon Hub,Mysuru,"Kukkarahalli Lake, Mysuru",4.0,800.0,Chinese,25,False,False
+Lounge Bar,Mysuru,Southern Star Mysore,4.0,1500.0,Multicuisine,10,False,False
+The Indian Curry House,Mysuru,"Chamrajpura, Mysuru",5.0,1500.0,Multicuisine,10,False,False
+Hooch - The House Of Cocktails,Amritsar,"Ranjit Avenue, Amritsar",4.0,1000.0,Multicuisine,50,False,False
+Ranjit's,Amritsar,"Hotel Ritz Plaza, Amritsar",4.0,1300.0,Multicuisine,45,False,False
+Crystal  Restaurant Plaza,Amritsar,"INA Colony,, Amritsar",2.5,1200.0,Multicuisine,10,False,False
+Polaris,Amritsar,"Hotel Ritz Plaza, Amritsar",4.0,1400.0,"Finger Food, Cocktail Menu",30,False,False
+Golden Gate By Kumars,Amritsar,"Hotel Kumar elite, Amritsar",5.0,600.0,Multicuisine,10,False,False
+365 - All Day Dining,Amritsar,Sarovar Premiere Amritsar,4.0,2000.0,Multicuisine,20,False,False
+Krsko,Amritsar,"White Avenue, Amritsar",5.0,1200.0,Multicuisine,40,False,False
+Tikka Trail,Amritsar,"TreeHouse Stamp, Amritsar",4.0,1500.0,Multicuisine,10,False,False
+Housewood Villas,Amritsar,"Ranjit Avenue, Amritsar",5.0,2000.0,Multicuisine,50,False,False
+Kava Grill & Lounge,Amritsar,"Fairfield by Marriott, Amritsar",4.0,1200.0,Multicuisine,50,False,False
+The Muse,Amritsar,"The Earth Amritsar - Trademark Collection By Wyndham, Amritsar",4.0,2200.0,Multicuisine,50,False,False
+The Lutyens,Amritsar,"The Earth Amritsar - Trademark Collection By Wyndham, Amritsar",3.0,1400.0,Multicuisine,25,False,False
+Chef's Theory,Amritsar,"White Avenue, Amritsar",4.3,1500.0,Multicuisine,25,False,False
+BHK- Brick House Kitchen,Amritsar,"Ranjit Avenue, Amritsar",3.0,800.0,Multicuisine,50,False,False
+Sanjha Chulha,Amritsar,"Lawrence Road, Amritsar",4.5,1000.0,Indian,10,False,False
+Amritsari Haveli,Amritsar,"Ranjit Avenue, Amritsar",3.2,1400.0,"North Indian, Punjabi",10,False,False
+Oak Bar,Amritsar,Four Points by Sheraton Amritsar,4.0,3000.0,"Finger Food, Cocktail Menu",40,False,False
+Vooom Gaming Zone,Amritsar,"Mall Road, Amritsar",4.0,700.0,Fast Food,10,False,False
+Pardeco Coffee Roasters,Amritsar,"Ranjit Avenue, Amritsar",4.0,500.0,Cafe,50,False,False
+Tan Chi,Amritsar,Four Points by Sheraton Amritsar,4.0,2500.0,Pan Asian,15,False,False
+Lobby Lounge - Four Points By Sheraton,Amritsar,Four Points by Sheraton Amritsar,4.0,1500.0,Cafe,10,False,False
+Oasis Baklawa,Amritsar,"Mall Road, Amritsar",4.0,300.0,Desserts,50,False,False
+Zoreko,Amritsar,"Lawrence Road, Amritsar",4.4,1200.0,Multicuisine,10,False,False
+EatAsia,Amritsar,"Ranjit Avenue, Amritsar",5.0,1000.0,Multicuisine,20,False,False
+Nectar By HK Clarks Inn,Amritsar,"Ranjit Avenue, Amritsar",4.0,1500.0,"Cocktail Menu, Finger Food",10,False,False
+Bratty's,Amritsar,"Lawrence Road, Amritsar",5.0,600.0,Fast Food,30,False,False
+Kitchen 1574,Amritsar,Four Points by Sheraton Amritsar,4.0,2000.0,"Continental, Asian, Indian",10,False,False
+Sky Rooftop,Amritsar,"Quality Inn Elite, Amritsar",4.0,1000.0,Multicuisine,50,False,False
+Cafe Blusalzz,Amritsar,"BluSalzz Residence Amritsar, Amritsar",5.0,1800.0,Multicuisine,10,False,False
+Kake Da Hotel,Amritsar,"Ranjit Avenue, Amritsar",4.0,1000.0,Indian,25,False,False
+Barista Coffee,Amritsar,"Summer Palace, Amritsar",4.0,500.0,Multicuisine,15,False,False
+SGF- Tree House Stamp,Amritsar,"TreeHouse Stamp, Amritsar",4.0,800.0,Fast Food,25,False,False
+Shosha - Sarovar Portico,Amritsar,"Golden Sarovar Portico, Amritsar",5.0,1200.0,Multicuisine,25,False,False
+Mabels,Amritsar,"Ranjit Avenue, Amritsar",4.8,1500.0,Multicuisine,30,False,False
+Olive 97,Amritsar,"Ranjit Avenue, Amritsar",3.8,1200.0,Multicuisine,30,False,False
+Taal,Amritsar,"M K Hotel, Amritsar",1.0,1900.0,Multicuisine,10,False,False
+True Blend Modern Coffee,Amritsar,"Ranjit Avenue, Amritsar",4.0,1000.0,Cafe,50,False,False
+The Machhiwala,Amritsar,"Green Avenue, Amritsar",5.0,1400.0,Multicuisine,10,False,False
+Soho - Best Western Merrion,Amritsar,"Best Western Merrion, Amritsar",4.0,1400.0,Multicuisine,15,False,False
+TGI Friday's,Amritsar,"Ranjit Avenue, Amritsar",5.0,1500.0,Multicuisine,20,False,False
+Blink,Amritsar,"Ranjit Avenue, Amritsar",3.8,1500.0,Multicuisine,10,False,False
+Coffee in Hand,Amritsar,"Ranjit Avenue, Amritsar",4.0,800.0,Multicuisine,15,False,False
+Tepah By The Bagh,Amritsar,"Ranjit Avenue, Amritsar",4.0,1500.0,Multicuisine,10,False,False
+Diago | Roof Top Restaurant and Bar,Amritsar,"Ranjit Avenue, Amritsar",5.0,1700.0,Multicuisine,10,False,False
+Dynasty,Amritsar,"M K Hotel, Amritsar",4.0,1900.0,Multicuisine,20,False,False
+Latest Recipe,Kochi,"Le Meridien, Kochi",4.8,2000.0,Multicuisine,50,False,False
+Kochi Kitchen,Kochi,"Marriott, Kochi",4.3,1900.0,Multicuisine,30,False,False
+Punjab Grill,Kochi,"Forum mall, Kochi",4.7,1400.0,North Indian,35,False,False
+Lila's Kitchen,Kochi,"Port Muziris, a Tribute Portfolio Hotel, Kochi",4.0,1500.0,Multicuisine,25,False,False
+Kyra,Kochi,"Vennala, Kochi",4.0,2000.0,"Greek, Persian, Turkish",30,False,False
+Mosaic,Kochi,"Crowne Plaza, Kochi",4.3,1450.0,Multicuisine,25,False,False
+Roastown Global Grill,Kochi,"Edappally, Kochi",4.4,1000.0,Multicuisine,30,False,False
+You Mee,Kochi,"Forum mall, Kochi",4.6,1500.0,Pan Asian,10,False,False
+Cassava,Kochi,"Marriott, Kochi",3.8,2000.0,"South Indian, Kerala",15,False,False
+Malabar Cafe,Kochi,Grand Hyatt Kochi Bolgatty,4.7,2400.0,Kerala,50,False,False
+Thai Soul,Kochi,Grand Hyatt Kochi Bolgatty,4.7,2200.0,Thai,20,False,False
+Artiste The Restaurant by Marriott Bonvoy,Kochi,"The Artiste, Kochi",4.0,1800.0,Multicuisine,20,False,False
+The square,Kochi,"Novotel Kochi Infopark, Kakkanad",2.0,2500.0,Multicuisine,25,False,False
+The Eatery,Kochi,"Four Points by Sheraton, Kochi",4.6,1600.0,Multicuisine,50,False,False
+Masala,Kochi,"Holiday Inn Cochin, Kochi",4.3,2500.0,Multicuisine,50,False,False
+Hoy Momo,Kochi,"Edappally, Kochi",3.6,700.0,Asian,25,False,False
+All Spice,Kochi,"Four Points by Sheraton, Kochi",4.5,2000.0,Indian,25,False,False
+Chopstix,Kochi,"Kakkanad, Kochi",4.6,700.0,Pan Asian,30,False,False
+Caper,Kochi,"Four Points by Sheraton, Kochi",4.0,2600.0,Finger Food,50,False,False
+Keshia,Kochi,Radisson Blu Kochi,4.4,1500.0,Multicuisine,25,False,False
+Big Mouth BBQ & Grill,Kochi,"Kakkanad, Kochi",4.7,1000.0,Multicuisine,25,False,False
+The Pavilion,Kochi,The Renai Cochin,4.2,1300.0,Multicuisine,10,False,False
+The Grillax,Kochi,"Perumbavoor, Kochi",5.0,600.0,Multicuisine,20,False,False
+Ceylon Bake House,Kochi,"Ernakulam South, Kochi",5.0,1000.0,Indian,10,False,False
+Ciao Cochin,Kochi,"Holiday Inn Cochin, Kochi",4.4,1500.0,Italian,10,False,False
+Nagas,Kochi,"Kakkanad, Kochi",4.0,1000.0,"Andhra, Hyderabadi",25,False,False
+Hoy Punjab,Kochi,"Edappally, Kochi",4.3,1300.0,North Indian,25,False,False
+Dindigul Thalappakatti,Kochi,"Kalamassery, Kochi",5.0,950.0,Biryani,50,False,False
+Kubaba Kuzhimandhi,Kochi,"Edappally, Kochi",4.3,900.0,"Mandi, Arabian",25,False,False
+East India Street Café,Kochi,"Panampilly Nagar, Kochi",4.0,600.0,Western,25,False,False
+Areena Bar,Kochi,"Olive Downtown, Kochi",4.0,1000.0,Finger Food,10,False,False
+Pandhal Cafe & Deli,Kochi,"Fort, Kochi",4.5,800.0,Bakery,20,False,False
+Cafe Moon By Sol Kitchen,Kochi,"Vyttila, Kochi",5.0,500.0,Multicuisine,25,False,False
+The Oven,Kochi,"Durbar Hall Road, Ernakulam, Kochi",4.8,600.0,Multicuisine,10,False,False
+Let's Dine Riverview,Kochi,"Kakkanad, Kochi",4.5,900.0,Multicuisine,25,False,False
+Bektash,Kochi,Nettoor,4.3,400.0,Arabian,25,False,False
+Aah,Kochi,The Postcard Mandalay Hall,4.0,1800.0,Kerala,50,False,False
+Noorjehan Multi-Cuisine Restaurant,Kochi,"Aluva, Kochi",4.6,1000.0,Multicuisine,25,False,False
+Talk of the Town,Kochi,"Palarivattom, Kochi",4.0,550.0,Multicuisine,25,False,False
+Chopstix Signature,Kochi,"Panampilly Nagar, Kochi",4.5,700.0,"Thai, Chinese",15,False,False
+Kannimango,Kochi,"Kadavanthra, Kochi",3.5,900.0,Kerala,10,False,False
+Al Taza,Kochi,"Edappally, Kochi",4.7,400.0,Lebanese,25,False,False
+Pavillion Restaurant By Abad Fort,Kochi,"Hotel Abad Fort, Kochi",4.0,1000.0,Multicuisine,25,False,False
+The Muze - The rooftop pool bar by Port Muziris,Kochi,"Port Muziris, a Tribute Portfolio Hotel, Kochi",4.0,1500.0,"Finger Food, Cocktail Menu",15,False,False
+Spice It,Kochi,"ibis Kochi City Centre, Kochi",3.7,2478.0,Multicuisine,20,False,False
+Aqua,Bhubaneswar,"Hotel Swosti, Bhubaneswar",4.7,1200.0,"North Indian, Seafood, Continental",50,False,False
+Terra Rosso,Bhubaneswar,"Kharvela Nagar, Bhubaneswar",5.0,1100.0,Multicuisine,15,False,False
+BOCCA CAFE,Bhubaneswar,"Kharvela Nagar, Bhubaneswar",4.5,600.0,"Beverages, Cafe, Coffee and Tea",25,False,False
+Wow! Momo,Bhubaneswar,"Master Canteen Area, Bhubaneswar",4.7,400.0,Momos,25,False,False
+Oceana,Bhubaneswar,"Hotel Swosti, Bhubaneswar",3.0,1200.0,"Chinese, Finger Food, North Indian",15,False,False
+Brown n Cream,Bhubaneswar,"Hotel Swosti, Bhubaneswar",5.0,400.0,Bakery,10,False,False
+Galleria,Bhubaneswar,"Hotel Swosti, Bhubaneswar",4.0,1600.0,Multicuisine,25,False,False
+Cafe Sundowner,Bhubaneswar,"Laxmisagar, Bhubaneswar",4.0,800.0,Multicuisine,25,False,False
+Xcuse Bar,Bhubaneswar,"Mango Hotels–Prangan, Bhubaneswar",3.9,1800.0,Multicuisine,10,False,False
+Beyrut Classy Dine,Bhubaneswar,"Kharvela Nagar, Bhubaneswar",4.6,800.0,Lebanese,50,False,False
+Narula's Restaurant,Bhubaneswar,"Hotel Basera,Ashok Nagar,Bhubaneswar",5.0,800.0,Multicuisine,10,False,False
+Bar Bliss,Bhubaneswar,"The Adventure Luxury Hotels, Bhubaneswar",5.0,1700.0,"North Indian, Cocktail Menu, Desserts",15,False,False
+Green garden,Bhubaneswar,"The Adventure Luxury Hotels, Bhubaneswar",5.0,1600.0,"Cocktail Menu, Multicuisine",20,False,False
+Curry Bowl,Bhubaneswar,"The Adventure Luxury Hotels, Bhubaneswar",4.0,1800.0,Multicuisine,20,False,False
+Pulp Cafe,Bhubaneswar,"Hotel Orange, Laxmisagar",4.0,1300.0,Multicuisine,20,False,False
+Enigma - The Club Culture (HHI),Bhubaneswar,"Janpath Road, Bhubaneswar",4.0,1500.0,Multicuisine,15,False,False
+Sip & Bite Restaurant,Bhubaneswar,"Hotel Miland Palace, Bhubaneswar",4.0,1000.0,Multicuisine,20,False,False
+Chili's Grill & Bar,Bhubaneswar,"Rasulgarh, Bhubaneswar",4.6,1200.0,Multicuisine,10,False,False
+Punjab Grill,Bhubaneswar,"Esplanade One Mall, Rasulgarh",4.5,1100.0,North Indian,50,False,False
+Adda Unplugged,Bhubaneswar,"Satya Nagar, Bhubaneswar",4.0,900.0,Cafe,20,False,False
+Mad Over Brownie,Bhubaneswar,"Kharvela Nagar, Bhubaneswar",4.0,600.0,Cafe,20,False,False
+Confetti,Bhubaneswar,"Hotel New Marrion, Bhubaneswar",4.0,500.0,Bakery,25,False,False
+Narula's Bakery,Bhubaneswar,"Hotel Basera,Ashok Nagar,Bhubaneswar",4.0,400.0,Bakery,25,False,False
+Raasta,Bhubaneswar,"Laxmisagar, Bhubaneswar",3.5,1500.0,Multicuisine,25,False,False
+Escalate Club & Lounge,Bhubaneswar,"Hotel Sun Green, Bhubaneswar",5.0,2100.0,Multicuisine,10,False,False
+Saami,Bhubaneswar,"Madhusudan Nagar, Bhubaneswar",4.1,1600.0,Multicuisine,40,False,False
+Silver Streak Premium,Bhubaneswar,"Shaheed Nagar, Bhubaneswar",4.9,1200.0,Multicuisine,10,False,False
+Dil-E-Mughlai,Bhubaneswar,"Khandagiri, Bhubaneswar",4.4,800.0,"Chinese, Mughlai, North Indian",50,False,False
+STARLIT - LOUNGE BAR & RESTAURANT,Bhubaneswar,"Satya Nagar, Bhubaneswar",5.0,1000.0,Cocktail Menu,20,False,False
+VOX POP 2.0,Bhubaneswar,"Shaheed Nagar, Bhubaneswar",4.0,1000.0,Multicuisine,10,False,False
+OOPRE - Kitchen & Bar,Bhubaneswar,"Chandrasekharpur, Bhubaneswar",3.0,1200.0,Multicuisine,20,False,False
+Civilians,Bhubaneswar,"Satya Nagar, Bhubaneswar",4.3,1000.0,Multicuisine,20,False,False
+Dyaus Court,Bhubaneswar,"Infocity Avenue, Bhubaneswar",4.0,900.0,Multicuisine,10,False,False
+KEGS AND BARRELS BREWING CO.,Bhubaneswar,"Patia, Bhubaneswar",4.0,1500.0,Multicuisine,25,False,False
+9th Street,Bhubaneswar,"UNIT- 9, Bhubaneswar",4.5,700.0,Multicuisine,20,False,False
+Aawhan Restaurant,Bhubaneswar,"Laxmisagar, Bhubaneswar",2.0,800.0,Multicuisine,10,False,False
+#BBi Booze Buzz Inhouse,Bhubaneswar,"Chandrasekharpur, Bhubaneswar",4.6,1200.0,Multicuisine,50,False,False
+CAFE 16,Bhubaneswar,"Satya Nagar, Bhubaneswar",4.7,800.0,Cafe,20,False,False
+Sweet Basil,Bhubaneswar,"Lyfe Hotel, Bhubaneswar",4.3,1800.0,Pan Asian,25,False,False
+Aqua Bar & Pool Lounge,Bhubaneswar,"Satya Nagar, Bhubaneswar",5.0,1200.0,Multicuisine,25,False,False
+Blinkk,Bhubaneswar,"Patia, Bhubaneswar",4.0,800.0,Multicuisine,10,False,False
+Adda Cafe,Bhubaneswar,"Khandagiri, Bhubaneswar",4.7,900.0,Cafe,10,False,False
+Lyfe Kitchen,Bhubaneswar,"Lyfe Hotel, Bhubaneswar",3.9,1600.0,Multicuisine,20,False,False
+Mojo Bar,Bhubaneswar,"Lyfe Hotel, Bhubaneswar",4.0,1800.0,Cocktail Menu,25,False,False
+Slounge,Bhubaneswar,"Lemon Tree Premier, Bhubaneswar",4.8,2500.0,"Finger Food, Cocktail Menu",25,False,False
+Zero Degrees,Coimbatore,"Gokulam Park, Coimbatore",4.0,1400.0,Casual Eclectic,50,False,False
+24x7 Bytes,Coimbatore,"Gokulam Park, Coimbatore",4.0,1200.0,Multicuisine,35,False,False
+Hyyper Permit Room Bar,Coimbatore,"Hotel Kiscol Grands, Coimbatore",4.0,1000.0,"Finger Food, Cocktail Menu",20,False,False
+Sazz Kitchen And Lounge,Coimbatore,"Ukkadam, Coimbatore",4.2,800.0,Mexican,200,False,False
+Warehouse Bar & Kitchen,Coimbatore,"Kalapatti, Coimbatore",4.3,1200.0,Multicuisine,25,False,False
+Neydhal The Coast,Coimbatore,"Avinashi Road, Coimbatore",4.0,1000.0,"Seafood, South Indian",10,False,False
+The living Room,Coimbatore,"Peelamedu, Coimbatore",4.4,1200.0,Multicuisine,15,False,False
+Little Soi,Coimbatore,"Pudur, Coimbatore",4.7,900.0,Pan Asian,10,False,False
+Ammani Mess,Coimbatore,"Avinashi Road, Coimbatore",4.0,1200.0,Multicuisine,25,False,False
+Cream Centre  - Vegetarian Legacy Since 1958,Coimbatore,"Race Course, Coimbatore",4.8,1000.0,Multicuisine,50,False,False
+Barbeque Nation,Coimbatore,Coimbatore,4.7,2000.0,"Multicuisine, Barbeque",25,False,False
+China Valley,Coimbatore,"Sungam, Coimbatore",4.0,800.0,Chinese,25,False,False
+Ninhao Chinese Restaurant,Coimbatore,"Saibaba Colony, Coimbatore",4.5,800.0,"Chinese, Fast Food",15,False,False
+AB's - Absolute Barbecues,Coimbatore,Coimbatore,4.3,1850.0,"Multicuisine, Barbeque",15,False,False
+On The Rocks Restobar,Coimbatore,"Vilankurichi, Coimbatore",5.0,950.0,"Finger Food, Cocktail Menu",25,False,False
+Rasanai,Coimbatore,"Pappanaickenpalayam, Coimbatore",4.5,800.0,South Indian,20,False,False
+Lord of The Drinks,Coimbatore,"Peelamedu, Coimbatore",3.9,1500.0,Multicuisine,25,False,False
+The Crimson by Broadway,Coimbatore,"Indira Nagar, Coimbatore, Coimbatore",5.0,1000.0,"Italian, South Indian",10,False,False
+Chives,Coimbatore,"Siddhapudur, Coimbatore",4.9,1000.0,Multicuisine,50,False,False
+The Great Kebab Factory,Coimbatore,"Peelamedu, Coimbatore",4.0,1500.0,Indian,25,False,False
+Spice It,Coimbatore,"Ibis Coimbatore City Centre, Coimbatore",3.5,950.0,"Cocktail Menu, Multicuisine",20,False,False
+Beyond The Stories Bistro & Bar,Coimbatore,"Saibaba Colony, Coimbatore",4.3,1500.0,"Finger Food, Cocktail Menu",50,False,False
+Tapriwala - The Contemporary Tea Cafe,Coimbatore,"Saibaba Colony, Coimbatore",4.5,400.0,"Fast Food, Multicuisine",10,False,False
+Seasons,Coimbatore,Radisson Blu Coimbatore,4.1,2000.0,Multicuisine,10,False,False
+Hide in Heaven,Coimbatore,"Saravanampatti, Coimbatore",4.6,1500.0,"Finger Food, Cocktail Menu",20,False,False
+Wah Wah,Coimbatore,"Saibaba Colony, Coimbatore",5.0,1000.0,Asian,25,False,False
+MUFASA COIMBATORE,Coimbatore,"Avinashi Road, Coimbatore",4.1,1000.0,Multicuisine,25,False,False
+The bermuda- A Cocktail Commune,Coimbatore,"R.S. Puram, Coimbatore",4.0,1200.0,Indian,50,False,False
+Vap Club,Coimbatore,"Pappanaickenpalayam, Coimbatore",4.0,1200.0,"Finger Food, Cocktail Menu",25,False,False
+Latest Recipe,Coimbatore,Le Méridien Coimbatore,4.1,2000.0,Multicuisine,20,False,False
+Big Ben Bar,Coimbatore,"Gandhipuram, Coimbatore",4.0,1000.0,Indian,15,False,False
+Welcomcafe Kovai,Coimbatore,"Welcomhotel By ITC Hotels, Coimbatore",4.5,2200.0,Multicuisine,15,False,False
+Eat Alley Cafe,Coimbatore,"Saibaba Colony, Coimbatore",4.7,500.0,"Italian, Street Food",10,False,False
+Harusaki Coffee,Coimbatore,"Peelamedu, Coimbatore",4.0,700.0,"Beverages, Coffee",25,False,False
+Kaanchan Kitchen,Coimbatore,"R.S. Puram, Coimbatore",4.0,500.0,Indian,25,False,False
+Kanakthara Restaurant,Coimbatore,"Ganapathy, Coimbatore",4.0,1000.0,Indian,10,False,False
+Nosh Up Cafe,Coimbatore,"Saibaba Colony, Coimbatore",4.0,400.0,"Asian, Cafe, Continental",50,False,False
+Ganga Cafe - Darza Resorts,Coimbatore,"Darza Luxury Resorts, Coimbatore",4.0,1500.0,Indian,10,False,False
+Cafe D,Coimbatore,"Windstone Residency, Peelamedu",4.0,500.0,"Italian, Continental",10,False,False
+Indchicoo,Coimbatore,"POPPYS TOWER, Coimbatore",4.4,800.0,"Chinese, Indian, Continental",10,False,False
+Woow Briyani,Coimbatore,"Ganapathy, Coimbatore",4.0,300.0,Biryani,10,False,False
+Dindigul Thalappakatti,Coimbatore,"Neelambur, Coimbatore",5.0,950.0,Biryani,25,False,False
+Liyaqat,Coimbatore,"Singanallur, Coimbatore",5.0,700.0,Fast Food,25,False,False
+Longitude- Le Meridien,Coimbatore,Le Méridien Coimbatore,5.0,1200.0,Cafe,25,False,False
+That's Y Food,Coimbatore,"R.S. Puram, Coimbatore",4.3,800.0,Multicuisine,15,False,False
+Raasta,Ludhiana,"Model Town, Ludhiana",4.0,1400.0,"Continental, Chinese, Italian",50,False,False
+Aamrak,Ludhiana,"Pakhowal Road, Ludhiana",4.0,1000.0,Multicuisine,35,False,False
+Cafe Delish,Ludhiana,Radisson Blu Hotel Ludhiana,4.8,3000.0,Multicuisine,25,False,False
+.Peg Bar,Ludhiana,Radisson Blu Hotel Ludhiana,4.0,3000.0,Multicuisine,30,False,False
+Under The Mango Tree,Ludhiana,"Civil Lines, Ludhiana",4.7,1600.0,Multicuisine,50,False,False
+Barn Fox,Ludhiana,"Civil Lines, Ludhiana",5.0,2000.0,Multicuisine,15,False,False
+R Feastory,Ludhiana,Ludhiana,4.0,800.0,"Italian, Indian",20,False,False
+10 Dur’s Premium,Ludhiana,"Civil Lines, Ludhiana",4.0,1000.0,Multicuisine,15,False,False
+The Cat Caffe & Restaurant,Ludhiana,"Civil Lines, Ludhiana",4.0,1000.0,Italian,10,False,False
+The Coffee Bean & Tea Leaf,Ludhiana,"Pavilion Mall, Civil Lines",4.0,1000.0,Coffee,50,False,False
+Tokkyoi  Club & Lounge,Ludhiana,"Pavilion Mall, Civil Lines",3.4,1800.0,Multicuisine,10,False,False
+Cafe Culture,Ludhiana,"Civil Street, Ludhiana",4.0,1000.0,"Italian, Mexican",15,False,False
+PVR,Ludhiana,"Pavilion Mall, Civil Lines",4.0,500.0,Fast Food,15,False,False
+Hot Breads,Ludhiana,"Sarabha Nagar, Ludhiana",4.3,1000.0,Multicuisine,25,False,False
+The Brew Estate,Ludhiana,Ludhiana,4.4,2000.0,Multicuisine,25,False,False
+Belfrance Bakers & Chocolatiers Cafe,Ludhiana,"Sarabha Nagar, Ludhiana",4.7,1500.0,Bakery,20,False,False
+Barbeque Nation,Ludhiana,Ludhiana,4.6,1800.0,"Multicuisine, Barbeque",25,False,False
+Barista Coffee,Ludhiana,"Model Town, Ludhiana",4.0,400.0,"Cafe, Coffee",25,False,False
+The Yellow Chilli,Ludhiana,"Sarabha Nagar, Ludhiana",4.5,1500.0,Multicuisine,50,False,False
+Over The Moon,Ludhiana,The Palm Court,4.0,1500.0,Multicuisine,20,False,False
+Club Aqua,Ludhiana,"Canal Road, Ludhiana",5.0,1000.0,Multicuisine,20,False,False
+Xero Courtyard,Ludhiana,"Aggar Nagar, Ludhiana",4.0,800.0,Multicuisine,40,False,False
+Khadak Singh Da Dhaba,Ludhiana,"Gurdev Nagar, Ludhiana",4.9,1000.0,North Indian,40,False,False
+Pirates of Grill,Ludhiana,"Ferozepur Road, Ludhiana",4.5,1800.0,Multicuisine,10,False,False
+House of SWAT,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,1000.0,Multicuisine,25,False,False
+The Imperial Courtyard,Ludhiana,"Ferozepur Road, Ludhiana",4.0,1000.0,Multicuisine,10,False,False
+Kultura,Ludhiana,"Gurdev Nagar, Ludhiana",4.0,2000.0,"Cocktail Menu, Multicuisine",10,False,False
+The Bear House Cafe & Bar,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,1200.0,Multicuisine,50,False,False
+Punjab Grill,Ludhiana,"Aggar Nagar, Ludhiana",3.7,1200.0,North Indian,20,False,False
+Grill House,Ludhiana,"Silver Arc Mall, Gurdev Nagar",4.0,1400.0,Multicuisine,30,False,False
+Suto Cafe Prime,Ludhiana,"Model Town, Ludhiana",4.0,500.0,Continental,15,False,False
+Gautam's-O-Dine,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,1000.0,Multicuisine,20,False,False
+Orient Blade,Ludhiana,Park Plaza Ludhiana,3.0,2000.0,oriental,10,False,False
+Akiba Cafe and Bistro,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,1000.0,Multicuisine,25,False,False
+Barish Luxe,Ludhiana,"Model Town, Ludhiana",5.0,1100.0,Multicuisine,20,False,False
+Punjabi Rasoi,Ludhiana,"Model Town, Ludhiana",4.0,800.0,North Indian,20,False,False
+Ruby By Imperial Hotel,Ludhiana,"Gurdev Nagar, Ludhiana",4.0,800.0,Indian,50,False,False
+Mad 4 Eat,Ludhiana,"Civil Lines, Ludhiana",4.0,1000.0,Fast Food,50,False,False
+PB 91,Ludhiana,Ludhiana,4.0,600.0,Indian,50,False,False
+Pindaura,Ludhiana,"Sarabha Nagar, Ludhiana",5.0,1000.0,Multicuisine,50,False,False
+Tim Hortons,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,800.0,Coffee,15,False,False
+Hera Feri Fries,Ludhiana,"Sarabha Nagar, Ludhiana",4.0,400.0,Fast Food,15,False,False
+Artisan Cafe,Ludhiana,"Gurdev Nagar, Ludhiana",4.0,500.0,Cafe,15,False,False
+Xero Degrees,Ludhiana,"Sarabha Nagar, Ludhiana",4.3,450.0,"Multicuisine, American",15,False,False
+Cakes & Coffee,Ludhiana,"Gurdev Nagar, Ludhiana",4.0,800.0,"Bakery, Cafe",20,False,False
+Zoi,Ranchi,"JD Hi Street Mall, Ranchi",4.5,1400.0,Multicuisine,50,False,False
+Thikana Bar and Restaurant,Ranchi,"Argora, Ranchi",3.9,1400.0,Multicuisine,30,False,False
+Greeka Kitchen & Bar,Ranchi,"Kanke Rd, Ranchi",4.5,1250.0,Multicuisine,20,False,False
+Hasty Tasty,Ranchi,"Purulia Rd, Ranchi",4.0,500.0,Multicuisine,30,False,False
+Biryani By Kilo,Ranchi,"Kutchery Chowk, Ranchi",3.2,1200.0,Biryani,25,False,False
+VIRAASAT – Courtyard by Marriott,Ranchi,Courtyard Ranchi,4.2,3000.0,Multicuisine,25,False,False
+Heaven - Lounge and Bar,Ranchi,"Argora, Ranchi",4.8,1300.0,Multicuisine,15,False,False
+Oona The One,Ranchi,"Kadru, Ranchi",4.7,1200.0,Multicuisine,25,False,False
+LOOP - Gastropub,Ranchi,"Lalpur, Ranchi",2.8,1600.0,Multicuisine,25,False,False
+Dhunki,Ranchi,"Lalpur, Ranchi",4.6,1400.0,"Multicuisine, Cocktail Menu",50,False,False
+ZOCA Dine & Bar,Ranchi,"Lalpur, Ranchi",3.7,1000.0,Multicuisine,40,False,False
+Kairo Bar and Lounge,Ranchi,"East Jail Road, Ranchi",4.8,2400.0,"Multicuisine, Cocktail Menu",20,False,False
+Dishaayen,Ranchi,"Kanka, Ranchi",4.3,500.0,Multicuisine,30,False,False
+Cafe Mysa,Ranchi,"Daud Nagar, Ranchi",4.7,850.0,Multicuisine,25,False,False
+QUNIKE RESTRO & BAR,Ranchi,"Kutchery Chowk, Ranchi",4.5,1000.0,Multicuisine,10,False,False
+The Studs Bar & Grill,Ranchi,"Sujata Chowk, Ranchi",4.0,1500.0,Multicuisine,40,False,False
+The Padosan,Ranchi,"Argora, Ranchi",5.0,600.0,Multicuisine,30,False,False
+ODR - On Da Rocks,Ranchi,"Gandhi Nagar, Ranchi, Ranchi",3.0,1000.0,Multicuisine,10,False,False
+The Sailors knot,Ranchi,"Doranda, Ranchi",4.6,800.0,Multicuisine,50,False,False
+Punjabi Kitchen,Ranchi,"Purulia Rd, Ranchi",3.3,600.0,Multicuisine,20,False,False
+Kadhi Patta,Ranchi,"Kutchery Chowk, Ranchi",3.8,900.0,Multicuisine,10,False,False
+Kasturi Restaurant & Cafe,Ranchi,"Harmu, Ranchi",4.0,700.0,Multicuisine,20,False,False
+Levee Tavern,Ranchi,"Karamtoli Rd, Ranchi",4.5,1000.0,Multicuisine,10,False,False
+LOTUS LEAF – Ramada by Wyndham,Ranchi,"Ramada by Wyndham, Ranchi",4.7,2000.0,Multicuisine,20,False,False
+The Rums Cafe,Ranchi,"Argora, Ranchi",3.8,900.0,Cafe,25,False,False
+Vedika,Ranchi,"Old Vidhan Sabha, Ranchi",4.0,800.0,Multicuisine,20,False,False
+Moontown Lounge & Bar,Ranchi,"Lalpur, Ranchi",4.0,800.0,Multicuisine,20,False,False
+OMG Cafe,Ranchi,"Lalpur, Ranchi",2.0,800.0,Multicuisine,50,False,False
+Niva kitchen A Little Pause,Ranchi,Delatoli,4.0,500.0,Multicuisine,15,False,False
+Anardana,Ranchi,"Mahatma Gandhi Main Rd, Ranchi",4.1,1800.0,Indian,30,False,False
+cuku cafe and bakehaus,Ranchi,"Lalpur, Ranchi",4.0,500.0,"Bakery, Cafe, Italian",25,False,False
+PA PA YA,Ranchi,Radisson Blu Hotel Ranchi,4.6,2500.0,Pan Asian,25,False,False
+The Lemon,Ranchi,"Morabadi, Ranchi",4.0,500.0,Multicuisine,35,False,False
+Crown 7,Ranchi,"Hawai Nagar, Ranchi",3.8,800.0,Multicuisine,10,False,False
+Dusk,Ranchi,"Lalpur, Ranchi",5.0,1600.0,Multicuisine,25,False,False
+Mocha Cafe & Bar,Ranchi,"Lalpur, Ranchi",4.3,1500.0,Multicuisine,10,False,False
+Aasman,Ranchi,"Hindpiri, Ranchi",5.0,1000.0,Multicuisine,50,False,False
+Never The Less,Ranchi,"Harmu, Ranchi",4.1,900.0,Multicuisine,25,False,False
+Ivora,Ranchi,"Lalpur, Ranchi",5.0,900.0,Multicuisine,15,False,False
+Barbeque Nation,Ranchi,Ranchi,4.6,1800.0,"Barbeque, Multicuisine",10,False,False
+Ansh,Ranchi,"Ahirtoli, Ranchi",3.5,900.0,Multicuisine,25,False,False
+Flaves,Ranchi,"Dhurwa, Ranchi",3.8,600.0,Multicuisine,15,False,False
+Little's Bistro,Ranchi,"Ashok Nagar,Ranchi",4.0,700.0,Multicuisine,10,False,False
+Waterfront,Ranchi,Radisson Blu Hotel Ranchi,4.3,800.0,Multicuisine,10,False,False
+Malhaari Food & Drinks,Ranchi,Ranchi,5.0,800.0,Multicuisine,35,False,False
+Dindigul Thalappakatti,Thiruvananthapuram,"Pattom, Thiruvananthapuram",4.8,950.0,Biryani,50,False,False
+Cofi Club,Thiruvananthapuram,"Kesavadasapuram, Thiruvananthapuram",4.5,600.0,"Beverages, Cafe",25,False,False
+Atelier By Ambrosia,Thiruvananthapuram,"Pattom, Thiruvananthapuram",4.1,1000.0,"Chinese, European",15,False,False
+Cafe Boba Queen,Thiruvananthapuram,"Pattom, Thiruvananthapuram",5.0,400.0,"Beverages, Bubble Tea",10,False,False
+Opal,Thiruvananthapuram,"The Ruby Arena, Thiruvananthapuram",4.0,900.0,Indian,25,False,False
+Skyy Bar,Thiruvananthapuram,"Hotel Libra, Thiruvananthapuram",2.8,1700.0,Multicuisine,10,False,False
+Tummy Tales,Thiruvananthapuram,"Pattom, Thiruvananthapuram",5.0,1050.0,European,10,False,False
+Aasife Biryani,Thiruvananthapuram,"Kesavadasapuram, Thiruvananthapuram",3.0,700.0,Biryani,25,False,False
+Bab Arabia,Thiruvananthapuram,"Marappalam, Thiruvananthapuram",4.5,800.0,Arabian,25,False,False
+Shawarmashi Hamra Mandhi,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",5.0,400.0,Arabian,50,False,False
+Oriental Spice,Thiruvananthapuram,"Kuravankonam, Thiruvananthapuram",4.0,500.0,Multicuisine,10,False,False
+La Forno Cafe,Thiruvananthapuram,"Ambalamukku, Thiruvananthapuram",4.7,700.0,"Beverages, Cafe",25,False,False
+Cafe Mojo,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",3.8,900.0,"Thai, Continental",25,False,False
+Hoy Punjab,Thiruvananthapuram,"Venpalavattom, Thiruvananthapuram",4.5,1400.0,"Indian, North Indian",25,False,False
+The Garden Grille & Bar,Thiruvananthapuram,"Hilton Garden Inn, Thiruvananthapuram",4.1,2000.0,Multicuisine,25,False,False
+Tangerine Restocafe,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",5.0,500.0,Continental,1,False,False
+Baker's Arch - A Garden Cafe,Thiruvananthapuram,"Kuravankonam, Thiruvananthapuram",4.9,1000.0,Continental,25,False,False
+Beijing Bites,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",3.7,450.0,"Thai, Chinese, Malaysian",25,False,False
+Huddles Cafe,Thiruvananthapuram,"Nandavanam, Thiruvananthapuram",5.0,700.0,Continental,50,False,False
+O Cafe,Thiruvananthapuram,O By Tamara Trivandrum,5.0,1000.0,Multicuisine,25,False,False
+Le Lumiere,Thiruvananthapuram,"Kunnukuzhy, Thiruvananthapuram",4.2,550.0,Multicuisine,15,False,False
+Bao Tao - The Boba Bar,Thiruvananthapuram,"Ambalamukku, Thiruvananthapuram",5.0,600.0,Fast Food,25,False,False
+Al Taza,Thiruvananthapuram,"Kuravankonam, Thiruvananthapuram",4.0,800.0,Shawarma,10,False,False
+Regency,Thiruvananthapuram,"The South Park, Thiruvananthapuram",5.0,1100.0,Multicuisine,25,False,False
+The Skyye Grill,Thiruvananthapuram,"The South Park, Thiruvananthapuram",4.0,2000.0,"Cocktail Menu, Multicuisine",20,False,False
+Fried Nation,Thiruvananthapuram,"Ambalamukku, Thiruvananthapuram",5.0,600.0,"American, Italian",25,False,False
+Falooda Nation,Thiruvananthapuram,"Kuravankonam, Thiruvananthapuram",1.0,400.0,"Desserts, Beverages",15,False,False
+Oakwood The Pub,Thiruvananthapuram,"The South Park, Thiruvananthapuram",3.0,2500.0,"Multicuisine, Cocktail Menu",50,False,False
+Grill to Chill,Thiruvananthapuram,"Vivin Luxury Suites, Thiruvananthapuram",5.0,1000.0,"Chinese, North Indian",20,False,False
+Keys Café,Thiruvananthapuram,Keys Select By Lemon Tree Hotels - Thiruvananthapuram,4.0,1500.0,"Indian, Asian, Continental",25,False,False
+Wrap A Loop,Thiruvananthapuram,"Pattom, Thiruvananthapuram",5.0,400.0,Middle Eastern,25,False,False
+Rasoi By Ruchi,Thiruvananthapuram,"Itsy Hotels Adrak, Thiruvananthapuram",5.0,400.0,Multicuisine,25,False,False
+Namma Veedu Vasanta Bhavan,Thiruvananthapuram,"Kuravankonam, Thiruvananthapuram",4.3,400.0,South Indian,25,False,False
+De Paris Grills,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",4.0,400.0,Indian,25,False,False
+On The Rocks Executive Bar,Thiruvananthapuram,"Biverah Hotel And Suites, Thiruvananthapuram",4.0,800.0,Multicuisine,25,False,False
+Bamboos Multicusine Restaurant,Thiruvananthapuram,"Windsor Rajadhani, Thiruvananthapuram",4.0,800.0,Multicuisine,25,False,False
+The Edge Cocktail Lounge,Thiruvananthapuram,"Kowdiar, Thiruvananthapuram",4.0,1500.0,"Finger Food, Cocktail Menu",50,False,False
+Le Capital,Thiruvananthapuram,"Palayam, Thiruvananthapuram",4.0,500.0,Multicuisine,25,False,False
+Diners' Summit - Multi Cuisine Restaurant,Thiruvananthapuram,"Biverah Hotel And Suites, Thiruvananthapuram",4.0,1000.0,Multicuisine,25,False,False
+Palace View Rooftop Restaurant,Thiruvananthapuram,"Windsor Rajadhani, Thiruvananthapuram",4.0,1000.0,Multicuisine,25,False,False
+Villa Maya,Thiruvananthapuram,"Vallakkadavu, Thiruvananthapuram",4.8,2500.0,Multicuisine,25,False,False
+V BAR,Thiruvananthapuram,"Hilton Garden Inn, Thiruvananthapuram",4.7,2500.0,Multicuisine,25,False,False
+Restaurant Chef Pillai,Thiruvananthapuram,"Vallakkadavu, Thiruvananthapuram",3.5,800.0,Multicuisine,25,False,False
+Barbeque Nation,Thiruvananthapuram,"LuLu Mall, Thiruvananthapuram",4.6,2000.0,"Multicuisine, Barbeque",25,False,False
+Ambrosia- The Classic Bakehouse,Thiruvananthapuram,"Palayam, Thiruvananthapuram",4.0,600.0,"Bakery, Chinese, Italian",25,False,False
+Suaa Club & Restro,Nagpur,"Sadar, Nagpur",4.0,1400.0,Multicuisine,50,False,False
+Brickhaus,Nagpur,"Civil Lines, Nagpur",4.0,1200.0,Continental,50,False,False
+The Beer Café,Nagpur,"Gokulpeth, Nagpur",4.8,800.0,"Cocktail Menu, Multicuisine",25,False,False
+Momentt,Nagpur,"ENRISE by Sayaji, Bajaj Nagar",4.0,1400.0,Multicuisine,50,False,False
+Tokii : Treasury of Asian Cuisine,Nagpur,"Trimurtee Nagar, Nagpur",4.3,1600.0,Pan Asian,15,False,False
+Yamazaki Pan Asian Cuisine,Nagpur,"Bajaj Nagar, Nagpur",4.0,1100.0,Pan Asian,25,False,False
+The Opera House,Nagpur,"Sitabuldi, Nagpur",5.0,1200.0,Multicuisine,25,False,False
+Barbeque Nation,Nagpur,Nagpur,4.7,1900.0,"Multicuisine, Barbeque",30,False,False
+Bella brew,Nagpur,"Gorepeth, Nagpur",3.8,800.0,Multicuisine,25,False,False
+Naivedhyam Restaurant,Nagpur,"Sitabuldi, Nagpur",4.1,1200.0,Multicuisine,50,False,False
+Side Walk,Nagpur,"Hotel Hardeo, Nagpur",5.0,1400.0,European,25,False,False
+Kalpataru,Nagpur,"Hotel Hardeo, Nagpur",5.0,1400.0,Indian,35,False,False
+Veerji Malai Chaap Wale,Nagpur,"Sitabuldi, Nagpur",4.0,400.0,North Indian,20,False,False
+AB's - Absolute Barbecues,Nagpur,Nagpur,4.5,1850.0,"Multicuisine, Barbeque",10,False,False
+Little Italy,Nagpur,"Civil Lines, Nagpur",4.1,1400.0,"Mexican, Italian",25,False,False
+Tattwam,Nagpur,"Ramdaspeth, Nagpur",4.5,1000.0,Indian,15,False,False
+East India Company,Nagpur,"Civil Lines, Nagpur",4.5,1200.0,Multicuisine,30,False,False
+Warehouse Cafe,Nagpur,"Rambagh Layout, Nagpur",5.0,1500.0,Multicuisine,15,False,False
+High Steaks,Nagpur,"Hotel Centre Point, Nagpur",3.7,2200.0,European,50,False,False
+Pablo,Nagpur,"Civil Lines, Nagpur",5.0,1600.0,Italian,10,False,False
+Hitchki,Nagpur,"Chaoni, Nagpur",3.3,2000.0,Modern Indian,25,False,False
+BellaVista Cafe & Skybar,Nagpur,"Civil Lines, Nagpur",5.0,1500.0,"Cocktail Menu, Multicuisine",25,False,False
+Yello - Restaurant & Bar,Nagpur,"Civil Lines, Nagpur",3.5,1200.0,"Cocktail Menu, Multicuisine",10,False,False
+Tipsy Turk,Nagpur,"Sadar, Nagpur",3.7,3000.0,Multicuisine,25,False,False
+Tao - The Asian Kitchen,Nagpur,"Civil Lines, Nagpur",4.0,1900.0,Pan Asian,15,False,False
+Agent Jack's Bar,Nagpur,"Rambagh Layout, Nagpur",5.0,1800.0,"Finger Food, Cocktail Menu",10,False,False
+Tds Restro Lounge,Nagpur,"Ramdaspeth, Nagpur",1.0,1800.0,"European, oriental",15,False,False
+Uttar Dakshin,Nagpur,"Dhantoli, Nagpur",4.7,1000.0,South Indian,50,False,False
+Durva Restaurant,Nagpur,"Dhantoli, Nagpur",5.0,800.0,Multicuisine,25,False,False
+Masato,Nagpur,"Civil Lines, Nagpur",4.0,1500.0,"Chinese, Pan Asian",10,False,False
+Ark - Indian Kitchen,Nagpur,"Civil Lines, Nagpur",4.0,1600.0,Indian,20,False,False
+The H Cafe,Nagpur,"Gorepeth, Nagpur",4.0,800.0,European,10,False,False
+Cafe De Sana,Nagpur,"Chaoni, Nagpur",4.0,500.0,Italian,10,False,False
+COSO Cocktails & Socials,Nagpur,"Mohan Nagar, Nagpur",4.0,2500.0,Multicuisine,30,False,False
+Uptown501 Cafe-lounge,Nagpur,"Dharampeth, Nagpur",4.0,1500.0,Multicuisine,25,False,False
+Kiana- The Fine-Dine Restaurant,Nagpur,"Sadar, Nagpur",3.0,1000.0,"Chinese, Indian",20,False,False
+Meeting Points,Nagpur,"Hotel Centre Point, Nagpur",5.0,2200.0,Multicuisine,50,False,False
+Idli Express,Nagpur,"Bajaj Nagar, Nagpur",4.0,400.0,South Indian,10,False,False
+Moksh - The Restrolounge,Nagpur,"Sitabuldi, Nagpur",4.0,1000.0,Multicuisine,10,False,False
+Salt - All Day Brew,Nagpur,"Civil Lines, Nagpur",3.7,1000.0,Multicuisine,30,False,False
+Three Beans Coffee Bar,Nagpur,"Dharampeth, Nagpur",4.0,600.0,Multicuisine,20,False,False
+TOS (The Other Side),Nagpur,"Sadar, Nagpur",4.0,1350.0,Indian,15,False,False
+Liberty Family Restaurant,Nagpur,"Sadar, Nagpur",4.0,1100.0,"Chinese, Indian",15,False,False
+Mishree,Nagpur,"Mohan Nagar, Nagpur",4.0,1000.0,Multicuisine,15,False,False
+Freakk De Bistro,Nagpur,"Hotel Centre Point, Nagpur",4.0,2200.0,"Finger Food, Cocktail Menu",15,False,False
+Ali Baba 40 Golden Dishes,Madurai,"Hotel President, Madurai",3.0,500.0,Multicuisine,50,False,False
+Moskva,Madurai,"Moskva Hotel, Madurai",5.0,600.0,Multicuisine,10,False,False
+Bocs Pizza,Madurai,"KK Nagar, Madurai",4.7,600.0,Fast Food,25,False,False
+Blind Ch3mistry,Madurai,"Bypass Road, Madurai",4.4,1200.0,Multicuisine,10,False,False
+Orchid,Madurai,"Fortune Pandiyan Hotel, Madurai",4.4,1600.0,Multicuisine,10,False,False
+Bistro 978,Madurai,"Tallakulam, Madurai",5.0,700.0,"Italian, Continental",10,False,False
+Barbeque Nation,Madurai,"Ganesh Nagar, Madurai",4.0,2000.0,"North Indian, Barbeque",25,False,False
+The Chopstix,Madurai,"KK Nagar, Madurai",2.5,700.0,Multicuisine,25,False,False
+The Sandwich Club,Madurai,"Viswanathapuram, Madurai",4.6,350.0,Fast Food,10,False,False
+Yaal,Madurai,"JC Residency, Madurai",4.3,1500.0,"Indian, Chinese",50,False,False
+Rahman Biryani,Madurai,"KK Nagar, Madurai",4.0,700.0,Biryani,10,False,False
+British Bakery Cafe,Madurai,"Narimedu, Madurai",4.0,400.0,Cafe,10,False,False
+Aarathy Restaurant,Madurai,Madurai,4.0,300.0,Multicuisine,25,False,False
+The Chocolate Room,Madurai,"KK Nagar, Madurai",5.0,600.0,"Beverages, Desserts",25,False,False
+INOX,Madurai,Vishaal De Mall,3.7,500.0,Fast Food,10,False,False
+Bazaar- All Day Diner,Madurai,"Grand Madurai by GRT Hotels, Madurai",4.0,1200.0,South Indian,15,False,False
+Dindigul Thalappakatti,Madurai,"Kalavasal, Madurai",3.7,950.0,Biryani,25,False,False
+Hotel Weshtern Park,Madurai,"Weshtern Park, Madurai",1.0,450.0,Indian,25,False,False
+Phil's Bistro,Madurai,"KK Nagar, Madurai",5.0,1300.0,Continental,50,False,False
+Marudheeswara,Madurai,"Kannanenthal, Madurai",4.0,1000.0,"Indian, Continental",10,False,False
+Grand Ayyanaar,Madurai,"Sterling V Grand,Madurai",4.7,1000.0,Multicuisine,25,False,False
+Aasife Biriyani,Madurai,"Swami Vivekananda Nagar, Madurai",5.0,840.0,Biryani,10,False,False
+Ahaaram Restaurant,Madurai,Regency Madurai by GRT Hotels,3.2,1000.0,Multicuisine,25,False,False
+Aibaik,Madurai,"Reserve Police Line, Madurai",5.0,800.0,Multicuisine,25,False,False
+Upper Deck,Madurai,"Sterling V Grand,Madurai",3.0,1000.0,Multicuisine,15,False,False
+Sharief Bhai Biryani,Madurai,"Anna Nagar, Madurai",3.5,700.0,Biryani,10,False,False
+Cinnamon The Pastry Shop,Madurai,Madurai,4.0,800.0,"Cafe, Desserts",15,False,False
+Slice,Madurai,"Grand Madurai by GRT Hotels, Madurai",4.0,1000.0,"Bakery, Cafe",50,False,False
+Topi Vappa Biriyani,Madurai,"Melapanangadi, Madurai",4.0,600.0,Multicuisine,15,False,False
+Waalai Aahar,Madurai,"Sathamangalam, Madurai",5.0,500.0,Multicuisine,10,False,False
+Sterling Local Restobar,Madurai,"Sterling V Grand,Madurai",4.0,1600.0,Cocktail Menu,10,False,False
+Studio 79,Madurai,"Grand Madurai by GRT Hotels, Madurai",5.0,1000.0,Multicuisine,10,False,False
+Hunger Heist,Madurai,"Anna Nagar, Madurai",4.0,550.0,Cafe,25,False,False
+Amsavalli Restaurant,Madurai,"LA VIVANTA HOTEL,MADURAI",1.0,1150.0,Multicuisine,25,False,False
+isandy,Madurai,"Pasumalai, Madurai",5.0,600.0,"Fast Food, Cafe",25,False,False
+Phil’s Bake House (Bakery & Cafe),Madurai,"Alagar Kovil Main Road, Madurai",5.0,400.0,Fast Food,25,False,False
+Farmer's Bistro,Abu-Dhabi,"Al Mushrif, Abu Dhabi",4.0,100.0,Multicuisine,50,False,False
+Punjab Grill,Abu-Dhabi,"The Ritz-Carlton Abu Dhabi, Grand Canal",4.9,325.0,Indian,20,False,False
+India Palace,Abu-Dhabi,"Mazyad Mall, Mussafah Shabiya",4.0,180.0,Indian,25,False,False
+Pincode By Kunal Kapur,Abu-Dhabi,The Galleria Al Maryah Island,4.0,200.0,Multicuisine,15,False,False
+Mings Chamber,Abu-Dhabi,"Al Wahda Mall, Al Wahda",4.0,120.0,Asian,10,False,False
+Peppermill,Abu-Dhabi,"Al Wahda Mall, Al Wahda",3.0,155.0,Indian,10,False,False
+PizzaExpress,Abu-Dhabi,"Al Reem Island, Abu Dhabi",5.0,200.0,Italian,10,False,False
+Bikanervala,Abu-Dhabi,Abu Dhabi,4.0,65.0,Street Food,25,False,False
+Moksha,Abu-Dhabi,"Al Bateen, Abu Dhabi, Abu Dhabi",4.0,200.0,Indian,25,False,False
+Pure punjabi,Abu-Dhabi,"Mushrif Mall, Abu Dhabi",4.0,80.0,Multicuisine,50,False,False
+Via Delhi Restaurant,Abu-Dhabi,"Al Danah, Abu Dhabi",4.0,100.0,Indian,10,False,False
+World of Asia,Abu-Dhabi,"Al Danah, Abu Dhabi",4.0,50.0,"Chinese, North Indian",25,False,False
+49ers,Abu-Dhabi,Le Méridien Abu Dhabi,4.0,345.0,Multicuisine,25,False,False
+Barbeque Nation,Abu-Dhabi,"Al Wahda Mall, Al Wahda",4.7,150.0,Indian,20,False,False
+Ushna Comida Restaurant,Abu-Dhabi,The Souk Qaryat Al Beri,5.0,310.0,Indian,40,False,False
+Thai Point Restaurant,Abu-Dhabi,Al Dhafrah,5.0,75.0,Thai,25,False,False
+Thai Street Restaurant,Abu-Dhabi,"Al Markaziya, Abu Dhabi",1.0,50.0,Thai,20,False,False
+Jehangirs’s  Al Ain,Abu-Dhabi,"Al Jimi Mall, Abu Dhabi",4.0,160.0,Indian,50,False,False
